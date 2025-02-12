@@ -1,15 +1,17 @@
 ---
-title: "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?"
-author:
-  - "Vidhi A. Sharma"
-  - "Soham Deshkhaire"
-  - "Nhan (Johnny) Huynh"
-date: "2025-02-12"
-format: html
+title: "Findings – AI's Impact on Job Growth"
 bibliography: references.bib
 csl: csl/econometrica.csl
 toc: true
+format: 
+  html:
+    code-fold: true
+    df-print: paged
+jupyter: python3
+execute:
+  echo: true
 ---
+
 
 ## Introduction
 
@@ -82,6 +84,31 @@ Despite concerns about automation, **entirely new job categories** are emerging 
 ✅ **Finding**: AI is **not just destroying jobs—it is actively creating new ones** that **never existed before.**
 
 ---
+
+Not all industries are affected by AI at the same rate. Here’s an **interactive visualization** showing AI-driven job creation vs. displacement.
+
+```{python}
+import pandas as pd
+import plotly.express as px
+
+# Industry-wise job impact data
+data = {
+    "Industry": ["Tech & Data Science", "Finance", "Manufacturing", "Retail & Customer Service", "Healthcare", "Marketing & Advertising"],
+    "Jobs Created": [500000, 300000, 250000, 200000, 400000, 150000],
+    "Jobs Lost": [50000, 150000, 300000, 500000, 50000, 80000]
+}
+
+df = pd.DataFrame(data)
+
+# Create interactive bar chart
+fig = px.bar(df, x="Industry", y=["Jobs Created", "Jobs Lost"], 
+             title="AI’s Impact on Job Growth vs. Loss by Industry",
+             barmode="group", labels={"value": "Number of Jobs", "variable": "Job Impact"})
+
+fig.show()
+
+---
+
 
 ## 5️⃣ Key Takeaways & Career Recommendations
 

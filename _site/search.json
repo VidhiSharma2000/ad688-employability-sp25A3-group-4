@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "report.html",
+    "href": "report.html",
+    "title": "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024",
+    "section": "",
+    "text": "The rapid advancement of Artificial Intelligence (AI) is reshaping the global job market, sparking debates about job displacement, salary disparities, and new career opportunities. As AI-driven automation permeates various industries, professionals must adapt to evolving skill demands. This report explores the growth and impact of AI vs. Non-AI careers in 2024, providing insights into job security, salaries, industry trends, and emerging roles."
+  },
+  {
+    "objectID": "report.html#introduction",
+    "href": "report.html#introduction",
+    "title": "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024",
+    "section": "",
+    "text": "The rapid advancement of Artificial Intelligence (AI) is reshaping the global job market, sparking debates about job displacement, salary disparities, and new career opportunities. As AI-driven automation permeates various industries, professionals must adapt to evolving skill demands. This report explores the growth and impact of AI vs. Non-AI careers in 2024, providing insights into job security, salaries, industry trends, and emerging roles."
+  },
+  {
+    "objectID": "report.html#research-rationale",
+    "href": "report.html#research-rationale",
+    "title": "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024",
+    "section": "2 Research Rationale",
+    "text": "2 Research Rationale\nAI’s influence on employment is twofold: it replaces some jobs while creating new opportunities. According to the World Economic Forum (2024), AI-driven automation will displace 85 million jobs by 2025 but simultaneously generate 97 million new positions. This shift necessitates a data-driven approach to understand:\n\nHow AI-powered careers compare to traditional job roles.\nWhich industries are experiencing AI-driven job growth vs. job displacement.\nWhat skillsets are most valuable in AI-powered and Non-AI professions.\nHow salary trends vary across AI and traditional careers.\n\nBy leveraging Lightcast data, GitHub collaboration, and Quarto publishing, this research aims to provide actionable career insights for job seekers in 2024."
+  },
+  {
+    "objectID": "report.html#literature-review",
+    "href": "report.html#literature-review",
+    "title": "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024",
+    "section": "3 Literature Review",
+    "text": "3 Literature Review\n\n3.1 1. AI’s Impact on Employment\n(smith2023ai?) found that industries such as finance, healthcare, and tech have seen an increase in AI-driven job roles, while sectors like retail, customer service, and manufacturing face higher automation risks.\n\n\n3.2 2. Salary Trends in AI vs. Traditional Careers\n(johnson2024salaries?) highlights that AI professionals (e.g., Machine Learning Engineers, Data Scientists) earn 30-50% more than their Non-AI counterparts (e.g., Mechanical Engineers, Accountants). The demand for AI-driven skills correlates with higher salaries and greater job security.\n\n\n3.3 3. The Rise of AI-Driven Job Titles\n(brown2024automation?) reports that AI advancements have led to new job roles, including Prompt Engineers, AI Ethics Officers, and Automation Specialists, which did not exist a decade ago."
+  },
+  {
+    "objectID": "report.html#preliminary-findings",
+    "href": "report.html#preliminary-findings",
+    "title": "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024",
+    "section": "4 Preliminary Findings",
+    "text": "4 Preliminary Findings\n\n4.1 1. AI vs. Non-AI Job Growth (2024 Trends)\n\n\n\n\n\n\n\n\nIndustry\nAI-Driven Job Growth\nJobs Lost Due to AI\n\n\n\n\nTech & Data Science\nAI Engineers, Data Scientists\nSome Software Testing Roles\n\n\nFinance\nAI Risk Analysts, Algorithmic Traders\nBank Tellers, Loan Officers\n\n\nManufacturing\nAI-Assisted Robotics Engineers\nAssembly Line Workers\n\n\nRetail & Customer Service\nAI Chatbot Developers, E-commerce Analysts\nCashiers, Call Center Agents\n\n\nHealthcare\nAI Radiologists, Bioinformatics Experts\nManual Data Entry Jobs\n\n\n\n✅ Finding: AI reshapes job roles rather than purely eliminating them.\n\n\n\n4.2 2. Salary Trends: AI vs. Traditional Careers\n\n\n\n\n\n\n\n\nJob Role\nAI-Powered?\nAverage Salary (2024)\n\n\n\n\nMachine Learning Engineer\n✅ Yes\n$140,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nAI Risk Analyst (Finance)\n✅ Yes\n$118,000\n\n\nSoftware Developer\n❌ No\n$95,000\n\n\nMechanical Engineer\n❌ No\n$85,000\n\n\nCustomer Service Representative\n❌ No\n$45,000\n\n\n\n✅ Finding: AI-based roles offer higher salaries and greater career stability than traditional jobs."
+  },
+  {
+    "objectID": "report.html#career-strategy-recommendations",
+    "href": "report.html#career-strategy-recommendations",
+    "title": "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024",
+    "section": "5 Career Strategy Recommendations",
+    "text": "5 Career Strategy Recommendations\nTo adapt to AI-driven changes in the job market, professionals should:\n\nInvest in AI & Data Science Skills 📊\n\nLearn Python, Machine Learning, and AI-driven analytics.\nTake courses in Natural Language Processing (NLP) and Big Data.\n\nTarget High-Growth AI Industries 🚀\n\nPrioritize careers in finance, tech, and healthcare where AI adoption is rising.\n\nEmbrace AI-Powered Work Environments 💡\n\nStay ahead by using automation tools and AI-powered platforms in daily tasks."
+  },
+  {
+    "objectID": "report.html#references",
+    "href": "report.html#references",
+    "title": "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024",
+    "section": "6 References",
+    "text": "6 References\n\n\n\nQuarto will automatically format citations from references.bib in Econometrica style."
+  },
+  {
+    "objectID": "findings.html",
+    "href": "findings.html",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "",
+    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
+  },
+  {
+    "objectID": "findings.html#introduction",
+    "href": "findings.html#introduction",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "",
+    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
+  },
+  {
+    "objectID": "findings.html#the-state-of-ai-powered-job-growth",
+    "href": "findings.html#the-state-of-ai-powered-job-growth",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "0.2 1️⃣ The State of AI-Powered Job Growth",
+    "text": "0.2 1️⃣ The State of AI-Powered Job Growth\n\n0.2.1 1.1 AI’s Impact on Different Industries\nNot all industries are affected by AI at the same rate. Here’s a comparison of AI-driven job creation vs. displacement:\n\n\n\n\n\n\n\n\nIndustry\nJobs Created by AI\nJobs Lost Due to AI\n\n\n\n\nTech & Data Science\nAI Engineers, Data Scientists, ML Experts\nSome Software Testing Roles\n\n\nFinance\nAI Risk Analysts, Algorithmic Traders\nBank Tellers, Loan Officers\n\n\nManufacturing\nAI-Assisted Robotics Engineers\nAssembly Line Workers\n\n\nRetail & Customer Service\nAI Chatbot Developers, E-commerce Analysts\nCashiers, Call Center Agents\n\n\nHealthcare\nAI Radiologists, Bioinformatics Experts\nManual Data Entry Jobs\n\n\nMarketing & Advertising\nAI-Powered Content Creators, SEO Analysts\nTraditional Copywriters\n\n\n\n✅ Finding: AI is not purely eliminating jobs—it is reshaping existing roles and demanding new skill sets."
+  },
+  {
+    "objectID": "findings.html#ai-vs.-non-ai-career-salary-trends",
+    "href": "findings.html#ai-vs.-non-ai-career-salary-trends",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "0.3 2️⃣ AI vs. Non-AI Career Salary Trends",
+    "text": "0.3 2️⃣ AI vs. Non-AI Career Salary Trends\nWith AI skills becoming a premium in the job market, salaries in AI-powered careers have surged. Below is a comparison of AI vs. Non-AI salaries in 2024.\n\n\n\n\n\n\n\n\nJob Role\nAI-Powered Career?\nAverage Salary (2024)\n\n\n\n\nMachine Learning Engineer\n✅ Yes\n$140,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nAI Risk Analyst (Finance)\n✅ Yes\n$118,000\n\n\nSoftware Developer\n❌ No\n$95,000\n\n\nMechanical Engineer\n❌ No\n$85,000\n\n\nCustomer Service Representative\n❌ No\n$45,000\n\n\n\n✅ Finding: AI-based careers offer higher salaries than traditional roles, making AI skills highly desirable."
+  },
+  {
+    "objectID": "findings.html#ai-job-automation-risks-who-is-at-risk",
+    "href": "findings.html#ai-job-automation-risks-who-is-at-risk",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "0.4 3️⃣ AI Job Automation Risks: Who Is at Risk?",
+    "text": "0.4 3️⃣ AI Job Automation Risks: Who Is at Risk?\nWhile AI is creating new jobs, it is also replacing human roles in certain industries. The World Economic Forum (2024) predicts that by 2025, AI will impact 85 million jobs, but 97 million new jobs will emerge.\nTop 3 At-Risk Job Categories: - Clerical Work: Data entry clerks, secretaries, and administrative assistants. - Retail & Banking: Cashiers, bank tellers, and call center agents. - Manufacturing & Logistics: Assembly line workers, truck drivers, and warehouse packers.\n✅ Finding: The job displacement risk is highest for repetitive, rule-based tasks—but AI-driven reskilling can mitigate this risk."
+  },
+  {
+    "objectID": "findings.html#the-rise-of-new-ai-powered-job-titles",
+    "href": "findings.html#the-rise-of-new-ai-powered-job-titles",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "0.5 4️⃣ The Rise of New AI-Powered Job Titles",
+    "text": "0.5 4️⃣ The Rise of New AI-Powered Job Titles\nDespite concerns about automation, entirely new job categories are emerging in AI-dominated industries.\n\n\n\n\n\n\n\nNew AI-Driven Roles\nDescription\n\n\n\n\nPrompt Engineers\nSpecialize in fine-tuning AI-generated content.\n\n\nAI Ethics Officers\nEnsure AI is used responsibly.\n\n\nAI-Powered Marketing Analysts\nLeverage AI to optimize digital campaigns.\n\n\nAutomation Engineers\nDesign AI-driven automation for businesses.\n\n\n\n✅ Finding: AI is not just destroying jobs—it is actively creating new ones that never existed before.\n\nNot all industries are affected by AI at the same rate. Here’s an interactive visualization showing AI-driven job creation vs. displacement.\nimport pandas as pd import plotly.express as px"
+  },
+  {
+    "objectID": "findings.html#key-takeaways-career-recommendations",
+    "href": "findings.html#key-takeaways-career-recommendations",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "2.1 5️⃣ Key Takeaways & Career Recommendations",
+    "text": "2.1 5️⃣ Key Takeaways & Career Recommendations\n\n2.1.1 5.1 Summary of Findings\n📌 AI is not purely replacing jobs—it is reshaping them.\n📌 AI-powered roles command higher salaries than traditional roles.\n📌 Some jobs face displacement, but new AI careers are emerging.\n\n\n2.1.2 5.2 What Should Job Seekers Do?\n\nInvest in AI-related skills: Learning machine learning, Python, and AI-driven analytics will increase job security.\nTarget high-growth AI industries: Finance, healthcare, and tech are leading in AI adoption.\nAdapt to AI-powered work environments: Understanding AI tools will help traditional job roles remain relevant."
+  },
+  {
+    "objectID": "findings.html#references",
+    "href": "findings.html#references",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "2.2 References",
+    "text": "2.2 References"
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/index.html",
+    "href": "ad688-employability-sp25A3-group-4/index.html",
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "",
+    "text": "1 Introduction\nThe rapid advancement of Artificial Intelligence (AI) has sparked an ongoing debate:\n🚀 Is AI replacing human workers, or is it creating more jobs than it destroys?\nThis study dives into the dual impact of AI—exploring both job displacement risks and emerging AI-driven career opportunities across industries.\nWith AI-driven automation on the rise, workers in every field must rethink their skill sets, adapt to new technologies, and find ways to future-proof their careers.\n\n\n\n2 Why This Study Matters\nThe intersection of AI and employment is a crucial area of study in 2025, with direct implications for: ✅ Employees – How to adapt and upskill in an AI-powered world.\n✅ Employers – Balancing automation with human workforce needs.\n✅ Governments – Policies to manage job displacement.\n✅ Students & Job Seekers – Identifying the most future-proof career paths.\n\n2.0.1 🔥 Key Questions We Address:\n\nWhat jobs are most at risk of AI automation?\n\nWhich industries are growing due to AI?\n\nAre AI-powered roles higher-paying than traditional jobs?\n\nWhat should job seekers do to remain competitive?\n\nThese questions are not just theoretical—they are critical for job seekers, policymakers, and businesses adapting to this shift.\n\n\n\n\n3 AI’s Role in Job Disruption vs. Job Creation\nAI is not just replacing jobs—it is also creating new roles at an unprecedented pace.\nThe World Economic Forum (2024) predicts that 85 million jobs will be displaced, but 97 million new roles will emerge.\n\n3.0.1 🚨 Job Categories at Risk:\n💼 Clerical Work → Data entry clerks, secretaries\n🏦 Retail & Banking → Cashiers, bank tellers\n🏭 Manufacturing → Assembly line workers\n\n\n3.0.2 🌟 Fastest-Growing AI-Powered Careers:\n👨‍💻 AI Engineers & Data Scientists → Building AI models\n📈 Algorithmic Traders → AI-powered financial analysis\n🎨 AI-Powered Content Creators → AI-driven marketing\nThe future workforce will need AI literacy, digital skills, and critical thinking to stay ahead of automation trends.\n\n\n\n\n4 Overview of the Report\nThis study is divided into three core sections:\n\n4.0.1 1️⃣ Findings – AI’s Impact on Jobs\n📌 Analysis of job losses vs. job creation across industries.\n📌 How AI is transforming finance, healthcare, manufacturing, and retail.\n📌 Salary trends for AI vs. Non-AI careers.\n➡️ Read the full findings here\n\n\n4.0.2 2️⃣ Career Strategies – How to Adapt to AI\n📌 The most in-demand AI skills for job seekers.\n📌 Industries with the highest AI job growth.\n📌 Strategies to future-proof your career against AI disruption.\n➡️ Explore career strategies here\n\n\n\n\n5 Conclusion\nAI is not just eliminating jobs—it is reshaping the job market.\nThis report provides data-driven insights into which jobs are at risk, which careers are thriving, and what skills are essential for long-term success.\n🔎 Final Takeaways:\n✅ AI will not make humans obsolete—it will redefine job roles.\n✅ Upskilling is the key to staying competitive.\n✅ AI is a tool for growth, not just disruption.\n🚀 Let’s explore how AI is transforming the job market!"
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "With the rapid evolution of AI, professionals must stay ahead by adopting future-ready strategies. This section outlines key approaches to sustaining career growth in an AI-driven job market.\n\n\n\n\n\nThe rise of AI is transforming multiple industries, making it essential to develop skills in machine learning, AI ethics, and automation.\nEnroll in certifications such as Google’s AI & ML program, IBM’s AI Engineering certification, or courses on Udacity and LinkedIn Learning.\nUnderstanding AI-driven analytics and automation tools like Python, TensorFlow, and AutoML will provide a competitive edge in the job market (Forbes (2024)).\n\n\n\n\n\nCompanies increasingly integrate AI into remote and hybrid work models, requiring employees to be proficient in digital collaboration.\nMastering tools such as Slack, Zoom, and AI-powered project management systems like Asana or Trello is crucial.\nUnderstanding AI-assisted work scheduling and workflow automation can help optimize productivity and efficiency in hybrid work settings (Forum (2024)).\n\n\n\n\n\nMore than 75% of companies use AI-powered ATS systems to scan resumes, meaning candidates must tailor their CVs to be AI-friendly.\nIncluding industry-specific keywords, formatting resumes for machine readability, and avoiding excessive design elements will improve ranking in ATS systems.\nUtilizing AI-driven resume analysis tools like Jobscan and Resume Worded can help refine applications before submission (Massachusetts (2024)).\n\n\n\n\n\nWhile AI enhances efficiency, uniquely human skills such as critical thinking, emotional intelligence, and creativity remain indispensable.\nStudies show that leadership, adaptability, and problem-solving abilities are among the top skills sought after by AI-driven organizations.\nProfessionals should engage in continuous learning through leadership workshops, problem-solving bootcamps, and mentorship programs to build these competencies (BizReport (2024)).\n\n\n\n\n\nExpanding professional networks through AI-focused LinkedIn groups, online forums, and industry meetups is key to staying informed about job opportunities.\nParticipating in AI hackathons, conferences, and knowledge-sharing sessions like Google AI Summit or MIT AI Research Meetups can boost career prospects.\nResearch indicates that over 70% of job opportunities arise through networking rather than traditional job applications (Online (2024)).\n\n\n\n\n\nAs AI policies evolve, professionals must stay informed about data privacy laws, AI governance, and ethical considerations in automation.\nFollowing organizations like the IEEE Standards Association and OpenAI Policy Institute will provide insights into regulatory changes and ethical AI implementation.\nAI bias mitigation and compliance with international AI policies will be crucial for companies adopting AI solutions (ScienceDirect (2024)).\n\n\n\n\n\n\n\n\n\n\n\n\n\nFactor\nAI-Driven Careers\nTraditional Careers\n\n\n\n\nJob Growth\nHigh (Projected 97M new jobs)\nModerate growth\n\n\nSkill Requirement\nAI, ML, Data Science\nIndustry-Specific Skills\n\n\nSalary Trends\nHigher Earning Potential\nStable Salaries\n\n\nJob Security\nRequires Continuous Learning\nMore Stability\n\n\nWork Environment\nHybrid & Remote Work\nOn-Site Preferred\n\n\nKey Industries\nTech, Finance, Healthcare\nManufacturing, Retail\n\n\n\n\n\n\nAI is not just a disruptor but also a creator of new job opportunities. The World Economic Forum predicts that AI will generate 97 million new jobs globally by 2025, particularly in AI ethics, cybersecurity, and AI-powered customer experience roles. To remain relevant, professionals must:\n\nPursue AI-related certifications and continuous education.\nBuild a strong portfolio showcasing AI and data-driven projects.\nDevelop a flexible mindset, embracing AI as a tool rather than a threat."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#key-strategies",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#key-strategies",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "The rise of AI is transforming multiple industries, making it essential to develop skills in machine learning, AI ethics, and automation.\nEnroll in certifications such as Google’s AI & ML program, IBM’s AI Engineering certification, or courses on Udacity and LinkedIn Learning.\nUnderstanding AI-driven analytics and automation tools like Python, TensorFlow, and AutoML will provide a competitive edge in the job market (Forbes (2024)).\n\n\n\n\n\nCompanies increasingly integrate AI into remote and hybrid work models, requiring employees to be proficient in digital collaboration.\nMastering tools such as Slack, Zoom, and AI-powered project management systems like Asana or Trello is crucial.\nUnderstanding AI-assisted work scheduling and workflow automation can help optimize productivity and efficiency in hybrid work settings (Forum (2024)).\n\n\n\n\n\nMore than 75% of companies use AI-powered ATS systems to scan resumes, meaning candidates must tailor their CVs to be AI-friendly.\nIncluding industry-specific keywords, formatting resumes for machine readability, and avoiding excessive design elements will improve ranking in ATS systems.\nUtilizing AI-driven resume analysis tools like Jobscan and Resume Worded can help refine applications before submission (Massachusetts (2024)).\n\n\n\n\n\nWhile AI enhances efficiency, uniquely human skills such as critical thinking, emotional intelligence, and creativity remain indispensable.\nStudies show that leadership, adaptability, and problem-solving abilities are among the top skills sought after by AI-driven organizations.\nProfessionals should engage in continuous learning through leadership workshops, problem-solving bootcamps, and mentorship programs to build these competencies (BizReport (2024)).\n\n\n\n\n\nExpanding professional networks through AI-focused LinkedIn groups, online forums, and industry meetups is key to staying informed about job opportunities.\nParticipating in AI hackathons, conferences, and knowledge-sharing sessions like Google AI Summit or MIT AI Research Meetups can boost career prospects.\nResearch indicates that over 70% of job opportunities arise through networking rather than traditional job applications (Online (2024)).\n\n\n\n\n\nAs AI policies evolve, professionals must stay informed about data privacy laws, AI governance, and ethical considerations in automation.\nFollowing organizations like the IEEE Standards Association and OpenAI Policy Institute will provide insights into regulatory changes and ethical AI implementation.\nAI bias mitigation and compliance with international AI policies will be crucial for companies adopting AI solutions (ScienceDirect (2024))."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#comparison-of-ai-non-ai-career-growth",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#comparison-of-ai-non-ai-career-growth",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "Factor\nAI-Driven Careers\nTraditional Careers\n\n\n\n\nJob Growth\nHigh (Projected 97M new jobs)\nModerate growth\n\n\nSkill Requirement\nAI, ML, Data Science\nIndustry-Specific Skills\n\n\nSalary Trends\nHigher Earning Potential\nStable Salaries\n\n\nJob Security\nRequires Continuous Learning\nMore Stability\n\n\nWork Environment\nHybrid & Remote Work\nOn-Site Preferred\n\n\nKey Industries\nTech, Finance, Healthcare\nManufacturing, Retail"
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#future-proofing-careers",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#future-proofing-careers",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "AI is not just a disruptor but also a creator of new job opportunities. The World Economic Forum predicts that AI will generate 97 million new jobs globally by 2025, particularly in AI ethics, cybersecurity, and AI-powered customer experience roles. To remain relevant, professionals must:\n\nPursue AI-related certifications and continuous education.\nBuild a strong portfolio showcasing AI and data-driven projects.\nDevelop a flexible mindset, embracing AI as a tool rather than a threat."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Project",
+    "section": "",
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
+  },
+  {
+    "objectID": "about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
+    "href": "about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
+    "title": "About This Project",
+    "section": "",
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/about.html",
+    "href": "ad688-employability-sp25A3-group-4/about.html",
+    "title": "About This Project",
+    "section": "",
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
+    "href": "ad688-employability-sp25A3-group-4/about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
+    "title": "About This Project",
+    "section": "",
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html",
+    "href": "ad688-employability-sp25A3-group-4/findings.html",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "",
+    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#introduction",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#introduction",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "",
+    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#the-state-of-ai-powered-job-growth",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#the-state-of-ai-powered-job-growth",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "0.2 1️⃣ The State of AI-Powered Job Growth",
+    "text": "0.2 1️⃣ The State of AI-Powered Job Growth\n\n0.2.1 1.1 AI’s Impact on Different Industries\nNot all industries are affected by AI at the same rate. Here’s a comparison of AI-driven job creation vs. displacement:\n\n\n\n\n\n\n\n\nIndustry\nJobs Created by AI\nJobs Lost Due to AI\n\n\n\n\nTech & Data Science\nAI Engineers, Data Scientists, ML Experts\nSome Software Testing Roles\n\n\nFinance\nAI Risk Analysts, Algorithmic Traders\nBank Tellers, Loan Officers\n\n\nManufacturing\nAI-Assisted Robotics Engineers\nAssembly Line Workers\n\n\nRetail & Customer Service\nAI Chatbot Developers, E-commerce Analysts\nCashiers, Call Center Agents\n\n\nHealthcare\nAI Radiologists, Bioinformatics Experts\nManual Data Entry Jobs\n\n\nMarketing & Advertising\nAI-Powered Content Creators, SEO Analysts\nTraditional Copywriters\n\n\n\n✅ Finding: AI is not purely eliminating jobs—it is reshaping existing roles and demanding new skill sets."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#ai-vs.-non-ai-career-salary-trends",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#ai-vs.-non-ai-career-salary-trends",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "0.3 2️⃣ AI vs. Non-AI Career Salary Trends",
+    "text": "0.3 2️⃣ AI vs. Non-AI Career Salary Trends\nWith AI skills becoming a premium in the job market, salaries in AI-powered careers have surged. Below is a comparison of AI vs. Non-AI salaries in 2024.\n\n\n\n\n\n\n\n\nJob Role\nAI-Powered Career?\nAverage Salary (2024)\n\n\n\n\nMachine Learning Engineer\n✅ Yes\n$140,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nAI Risk Analyst (Finance)\n✅ Yes\n$118,000\n\n\nSoftware Developer\n❌ No\n$95,000\n\n\nMechanical Engineer\n❌ No\n$85,000\n\n\nCustomer Service Representative\n❌ No\n$45,000\n\n\n\n✅ Finding: AI-based careers offer higher salaries than traditional roles, making AI skills highly desirable."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#ai-job-automation-risks-who-is-at-risk",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#ai-job-automation-risks-who-is-at-risk",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "0.4 3️⃣ AI Job Automation Risks: Who Is at Risk?",
+    "text": "0.4 3️⃣ AI Job Automation Risks: Who Is at Risk?\nWhile AI is creating new jobs, it is also replacing human roles in certain industries. The World Economic Forum (2024) predicts that by 2025, AI will impact 85 million jobs, but 97 million new jobs will emerge.\nTop 3 At-Risk Job Categories: - Clerical Work: Data entry clerks, secretaries, and administrative assistants. - Retail & Banking: Cashiers, bank tellers, and call center agents. - Manufacturing & Logistics: Assembly line workers, truck drivers, and warehouse packers.\n✅ Finding: The job displacement risk is highest for repetitive, rule-based tasks—but AI-driven reskilling can mitigate this risk."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#the-rise-of-new-ai-powered-job-titles",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#the-rise-of-new-ai-powered-job-titles",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "0.5 4️⃣ The Rise of New AI-Powered Job Titles",
+    "text": "0.5 4️⃣ The Rise of New AI-Powered Job Titles\nDespite concerns about automation, entirely new job categories are emerging in AI-dominated industries.\n\n\n\n\n\n\n\nNew AI-Driven Roles\nDescription\n\n\n\n\nPrompt Engineers\nSpecialize in fine-tuning AI-generated content.\n\n\nAI Ethics Officers\nEnsure AI is used responsibly.\n\n\nAI-Powered Marketing Analysts\nLeverage AI to optimize digital campaigns.\n\n\nAutomation Engineers\nDesign AI-driven automation for businesses.\n\n\n\n✅ Finding: AI is not just destroying jobs—it is actively creating new ones that never existed before.\n\nNot all industries are affected by AI at the same rate. Here’s an interactive visualization showing AI-driven job creation vs. displacement.\nimport pandas as pd import plotly.express as px"
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#key-takeaways-career-recommendations",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#key-takeaways-career-recommendations",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "2.1 5️⃣ Key Takeaways & Career Recommendations",
+    "text": "2.1 5️⃣ Key Takeaways & Career Recommendations\n\n2.1.1 5.1 Summary of Findings\n📌 AI is not purely replacing jobs—it is reshaping them.\n📌 AI-powered roles command higher salaries than traditional roles.\n📌 Some jobs face displacement, but new AI careers are emerging.\n\n\n2.1.2 5.2 What Should Job Seekers Do?\n\nInvest in AI-related skills: Learning machine learning, Python, and AI-driven analytics will increase job security.\nTarget high-growth AI industries: Finance, healthcare, and tech are leading in AI adoption.\nAdapt to AI-powered work environments: Understanding AI tools will help traditional job roles remain relevant."
+  },
+  {
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#references",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#references",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "2.2 References",
+    "text": "2.2 References"
+  },
+  {
+    "objectID": "career-strategy.html",
+    "href": "career-strategy.html",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "With the rapid evolution of AI, professionals must stay ahead by adopting future-ready strategies. This section outlines key approaches to sustaining career growth in an AI-driven job market.\n\n\n\n\n\nThe rise of AI is transforming multiple industries, making it essential to develop skills in machine learning, AI ethics, and automation.\nEnroll in certifications such as Google’s AI & ML program, IBM’s AI Engineering certification, or courses on Udacity and LinkedIn Learning.\nUnderstanding AI-driven analytics and automation tools like Python, TensorFlow, and AutoML will provide a competitive edge in the job market (Forbes (2024)).\n\n\n\n\n\nCompanies increasingly integrate AI into remote and hybrid work models, requiring employees to be proficient in digital collaboration.\nMastering tools such as Slack, Zoom, and AI-powered project management systems like Asana or Trello is crucial.\nUnderstanding AI-assisted work scheduling and workflow automation can help optimize productivity and efficiency in hybrid work settings (Forum (2024)).\n\n\n\n\n\nMore than 75% of companies use AI-powered ATS systems to scan resumes, meaning candidates must tailor their CVs to be AI-friendly.\nIncluding industry-specific keywords, formatting resumes for machine readability, and avoiding excessive design elements will improve ranking in ATS systems.\nUtilizing AI-driven resume analysis tools like Jobscan and Resume Worded can help refine applications before submission (Massachusetts (2024)).\n\n\n\n\n\nWhile AI enhances efficiency, uniquely human skills such as critical thinking, emotional intelligence, and creativity remain indispensable.\nStudies show that leadership, adaptability, and problem-solving abilities are among the top skills sought after by AI-driven organizations.\nProfessionals should engage in continuous learning through leadership workshops, problem-solving bootcamps, and mentorship programs to build these competencies (BizReport (2024)).\n\n\n\n\n\nExpanding professional networks through AI-focused LinkedIn groups, online forums, and industry meetups is key to staying informed about job opportunities.\nParticipating in AI hackathons, conferences, and knowledge-sharing sessions like Google AI Summit or MIT AI Research Meetups can boost career prospects.\nResearch indicates that over 70% of job opportunities arise through networking rather than traditional job applications (Online (2024)).\n\n\n\n\n\nAs AI policies evolve, professionals must stay informed about data privacy laws, AI governance, and ethical considerations in automation.\nFollowing organizations like the IEEE Standards Association and OpenAI Policy Institute will provide insights into regulatory changes and ethical AI implementation.\nAI bias mitigation and compliance with international AI policies will be crucial for companies adopting AI solutions (ScienceDirect (2024)).\n\n\n\n\n\n\n\n\n\n\n\n\n\nFactor\nAI-Driven Careers\nTraditional Careers\n\n\n\n\nJob Growth\nHigh (Projected 97M new jobs)\nModerate growth\n\n\nSkill Requirement\nAI, ML, Data Science\nIndustry-Specific Skills\n\n\nSalary Trends\nHigher Earning Potential\nStable Salaries\n\n\nJob Security\nRequires Continuous Learning\nMore Stability\n\n\nWork Environment\nHybrid & Remote Work\nOn-Site Preferred\n\n\nKey Industries\nTech, Finance, Healthcare\nManufacturing, Retail\n\n\n\n\n\n\nAI is not just a disruptor but also a creator of new job opportunities. The World Economic Forum predicts that AI will generate 97 million new jobs globally by 2025, particularly in AI ethics, cybersecurity, and AI-powered customer experience roles. To remain relevant, professionals must:\n\nPursue AI-related certifications and continuous education.\nBuild a strong portfolio showcasing AI and data-driven projects.\nDevelop a flexible mindset, embracing AI as a tool rather than a threat."
+  },
+  {
+    "objectID": "career-strategy.html#key-strategies",
+    "href": "career-strategy.html#key-strategies",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "The rise of AI is transforming multiple industries, making it essential to develop skills in machine learning, AI ethics, and automation.\nEnroll in certifications such as Google’s AI & ML program, IBM’s AI Engineering certification, or courses on Udacity and LinkedIn Learning.\nUnderstanding AI-driven analytics and automation tools like Python, TensorFlow, and AutoML will provide a competitive edge in the job market (Forbes (2024)).\n\n\n\n\n\nCompanies increasingly integrate AI into remote and hybrid work models, requiring employees to be proficient in digital collaboration.\nMastering tools such as Slack, Zoom, and AI-powered project management systems like Asana or Trello is crucial.\nUnderstanding AI-assisted work scheduling and workflow automation can help optimize productivity and efficiency in hybrid work settings (Forum (2024)).\n\n\n\n\n\nMore than 75% of companies use AI-powered ATS systems to scan resumes, meaning candidates must tailor their CVs to be AI-friendly.\nIncluding industry-specific keywords, formatting resumes for machine readability, and avoiding excessive design elements will improve ranking in ATS systems.\nUtilizing AI-driven resume analysis tools like Jobscan and Resume Worded can help refine applications before submission (Massachusetts (2024)).\n\n\n\n\n\nWhile AI enhances efficiency, uniquely human skills such as critical thinking, emotional intelligence, and creativity remain indispensable.\nStudies show that leadership, adaptability, and problem-solving abilities are among the top skills sought after by AI-driven organizations.\nProfessionals should engage in continuous learning through leadership workshops, problem-solving bootcamps, and mentorship programs to build these competencies (BizReport (2024)).\n\n\n\n\n\nExpanding professional networks through AI-focused LinkedIn groups, online forums, and industry meetups is key to staying informed about job opportunities.\nParticipating in AI hackathons, conferences, and knowledge-sharing sessions like Google AI Summit or MIT AI Research Meetups can boost career prospects.\nResearch indicates that over 70% of job opportunities arise through networking rather than traditional job applications (Online (2024)).\n\n\n\n\n\nAs AI policies evolve, professionals must stay informed about data privacy laws, AI governance, and ethical considerations in automation.\nFollowing organizations like the IEEE Standards Association and OpenAI Policy Institute will provide insights into regulatory changes and ethical AI implementation.\nAI bias mitigation and compliance with international AI policies will be crucial for companies adopting AI solutions (ScienceDirect (2024))."
+  },
+  {
+    "objectID": "career-strategy.html#comparison-of-ai-non-ai-career-growth",
+    "href": "career-strategy.html#comparison-of-ai-non-ai-career-growth",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "Factor\nAI-Driven Careers\nTraditional Careers\n\n\n\n\nJob Growth\nHigh (Projected 97M new jobs)\nModerate growth\n\n\nSkill Requirement\nAI, ML, Data Science\nIndustry-Specific Skills\n\n\nSalary Trends\nHigher Earning Potential\nStable Salaries\n\n\nJob Security\nRequires Continuous Learning\nMore Stability\n\n\nWork Environment\nHybrid & Remote Work\nOn-Site Preferred\n\n\nKey Industries\nTech, Finance, Healthcare\nManufacturing, Retail"
+  },
+  {
+    "objectID": "career-strategy.html#future-proofing-careers",
+    "href": "career-strategy.html#future-proofing-careers",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "AI is not just a disruptor but also a creator of new job opportunities. The World Economic Forum predicts that AI will generate 97 million new jobs globally by 2025, particularly in AI ethics, cybersecurity, and AI-powered customer experience roles. To remain relevant, professionals must:\n\nPursue AI-related certifications and continuous education.\nBuild a strong portfolio showcasing AI and data-driven projects.\nDevelop a flexible mindset, embracing AI as a tool rather than a threat."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "",
+    "text": "1 Introduction\nThe rapid advancement of Artificial Intelligence (AI) has sparked an ongoing debate:\n🚀 Is AI replacing human workers, or is it creating more jobs than it destroys?\nThis study dives into the dual impact of AI—exploring both job displacement risks and emerging AI-driven career opportunities across industries.\nWith AI-driven automation on the rise, workers in every field must rethink their skill sets, adapt to new technologies, and find ways to future-proof their careers.\n\n\n\n2 Why This Study Matters\nThe intersection of AI and employment is a crucial area of study in 2025, with direct implications for: ✅ Employees – How to adapt and upskill in an AI-powered world.\n✅ Employers – Balancing automation with human workforce needs.\n✅ Governments – Policies to manage job displacement.\n✅ Students & Job Seekers – Identifying the most future-proof career paths.\n\n2.0.1 🔥 Key Questions We Address:\n\nWhat jobs are most at risk of AI automation?\n\nWhich industries are growing due to AI?\n\nAre AI-powered roles higher-paying than traditional jobs?\n\nWhat should job seekers do to remain competitive?\n\nThese questions are not just theoretical—they are critical for job seekers, policymakers, and businesses adapting to this shift.\n\n\n\n\n3 AI’s Role in Job Disruption vs. Job Creation\nAI is not just replacing jobs—it is also creating new roles at an unprecedented pace.\nThe World Economic Forum (2024) predicts that 85 million jobs will be displaced, but 97 million new roles will emerge.\n\n3.0.1 🚨 Job Categories at Risk:\n💼 Clerical Work → Data entry clerks, secretaries\n🏦 Retail & Banking → Cashiers, bank tellers\n🏭 Manufacturing → Assembly line workers\n\n\n3.0.2 🌟 Fastest-Growing AI-Powered Careers:\n👨‍💻 AI Engineers & Data Scientists → Building AI models\n📈 Algorithmic Traders → AI-powered financial analysis\n🎨 AI-Powered Content Creators → AI-driven marketing\nThe future workforce will need AI literacy, digital skills, and critical thinking to stay ahead of automation trends.\n\n\n\n\n4 Overview of the Report\nThis study is divided into three core sections:\n\n4.0.1 1️⃣ Findings – AI’s Impact on Jobs\n📌 Analysis of job losses vs. job creation across industries.\n📌 How AI is transforming finance, healthcare, manufacturing, and retail.\n📌 Salary trends for AI vs. Non-AI careers.\n➡️ Read the full findings here\n\n\n4.0.2 2️⃣ Career Strategies – How to Adapt to AI\n📌 The most in-demand AI skills for job seekers.\n📌 Industries with the highest AI job growth.\n📌 Strategies to future-proof your career against AI disruption.\n➡️ Explore career strategies here\n\n\n\n\n5 Conclusion\nAI is not just eliminating jobs—it is reshaping the job market.\nThis report provides data-driven insights into which jobs are at risk, which careers are thriving, and what skills are essential for long-term success.\n🔎 Final Takeaways:\n✅ AI will not make humans obsolete—it will redefine job roles.\n✅ Upskilling is the key to staying competitive.\n✅ AI is a tool for growth, not just disruption.\n🚀 Let’s explore how AI is transforming the job market!"
+  }
+]

@@ -1,53 +1,94 @@
 ---
-title: "Home"
-author: "Vidhi A. Sharma"
-date: "2025-02-12"
-format: html
+title: "Findings – AI's Impact on Job Growth"
 bibliography: references.bib
 csl: csl/econometrica.csl
 toc: true
----
-
-# Welcome to AI vs. Non-AI Job Growth
-
-
-This website explores the impact of AI on employment trends, focusing on job displacement and creation in the modern workforce.
----
-## Overview
-- The rise of AI-driven automation.
-- Key industries affected.
-- Strategies for career adaptation.
-
----
-
-# Key Findings
-
-## AI Job Market Trends
-Recent studies indicate that AI is reshaping industries, leading to shifts in employment patterns [@weforum2024jobs].
-
-## Salary Trends
-High-paying AI jobs continue to emerge, creating lucrative opportunities for skilled professionals [@bizreport2024ai].
-
-## Additional References
-- Elgar Online Study on AI and Job Growth: [Elgar Online](https://www.elgaronline.com/edcollchap/book/9781839106750/book-part-9781839106750-35.xml)
-- ScienceDirect Study on AI-Driven Employment Trends: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S000187912300088X)
-
+format: 
+  html:
+    code-fold: true
+    df-print: paged
+jupyter: python3
+execute:
+  echo: true
 ---
 
 
-# Career Strategies in the AI Era
+# Introduction
 
-To stay competitive, professionals must:
-1. Upskill in AI-related fields.
-2. Adapt to hybrid work environments.
-3. Optimize resumes for ATS (Applicant Tracking Systems) [@umass2024ats].
+The rapid advancement of **Artificial Intelligence (AI)** has sparked an ongoing debate:  
+🚀 Is AI replacing human workers, or is it creating more jobs than it destroys?  
 
-## Key Resource
-- AI Career Skills Study [@forbes2024future].
+This study dives into **the dual impact of AI**—exploring both **job displacement risks** and **emerging AI-driven career opportunities** across industries.
+
+With AI-driven automation on the rise, **workers in every field** must rethink their skill sets, adapt to **new technologies**, and find ways to **future-proof their careers**.
 
 ---
 
-# About This Project
+# Why This Study Matters
 
-This project is a comprehensive study on AI and job growth, leveraging insights from the World Economic Forum and leading industry sources.
+The intersection of **AI and employment** is a crucial area of study in **2025**, with direct implications for:
+✅ **Employees** – How to adapt and upskill in an AI-powered world.  
+✅ **Employers** – Balancing automation with human workforce needs.  
+✅ **Governments** – Policies to manage job displacement.  
+✅ **Students & Job Seekers** – Identifying the most future-proof career paths.
 
+### 🔥 Key Questions We Address:
+1. **What jobs are most at risk of AI automation?**  
+2. **Which industries are growing due to AI?**  
+3. **Are AI-powered roles higher-paying than traditional jobs?**  
+4. **What should job seekers do to remain competitive?**  
+
+These questions are **not just theoretical**—they are **critical for job seekers, policymakers, and businesses** adapting to this shift.
+
+---
+
+# AI’s Role in Job Disruption vs. Job Creation
+
+AI is **not just replacing jobs—it is also creating new roles** at an unprecedented pace.  
+The **World Economic Forum (2024)** predicts that **85 million jobs** will be displaced, but **97 million new roles** will emerge.
+
+### 🚨 Job Categories at Risk:
+💼 **Clerical Work** → Data entry clerks, secretaries  
+🏦 **Retail & Banking** → Cashiers, bank tellers  
+🏭 **Manufacturing** → Assembly line workers  
+
+### 🌟 Fastest-Growing AI-Powered Careers:
+👨‍💻 **AI Engineers & Data Scientists** → Building AI models  
+📈 **Algorithmic Traders** → AI-powered financial analysis  
+🎨 **AI-Powered Content Creators** → AI-driven marketing  
+
+The future workforce will need **AI literacy**, **digital skills**, and **critical thinking** to **stay ahead** of automation trends.
+
+---
+
+# Overview of the Report
+
+This study is divided into three core sections:
+
+### **1️⃣ Findings – AI’s Impact on Jobs**
+📌 Analysis of **job losses vs. job creation** across industries.  
+📌 How AI is transforming **finance, healthcare, manufacturing, and retail**.  
+📌 **Salary trends** for AI vs. Non-AI careers.
+
+➡️ **Read the full findings [here](findings.qmd)**
+
+### **2️⃣ Career Strategies – How to Adapt to AI**
+📌 The **most in-demand AI skills** for job seekers.  
+📌 Industries with the **highest AI job growth**.  
+📌 Strategies to future-proof your career against AI disruption.
+
+➡️ **Explore career strategies [here](career_strategy.qmd)**
+
+---
+
+# Conclusion
+
+AI **is not just eliminating jobs—it is reshaping the job market**.  
+This report provides **data-driven insights** into **which jobs are at risk**, **which careers are thriving**, and **what skills are essential** for long-term success.  
+
+🔎 **Final Takeaways:**  
+✅ AI **will not make humans obsolete**—it will redefine job roles.  
+✅ **Upskilling** is the key to staying competitive.  
+✅ AI is **a tool for growth**, not just disruption.  
+
+🚀 **Let’s explore how AI is transforming the job market!**  

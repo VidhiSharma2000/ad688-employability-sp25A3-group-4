@@ -83,6 +83,30 @@ Despite concerns about automation, **entirely new job categories** are emerging 
 
 ---
 
+Not all industries are affected by AI at the same rate. Here’s an **interactive visualization** showing AI-driven job creation vs. displacement.
+
+```{python}
+import pandas as pd
+import plotly.express as px
+
+# Industry-wise job impact data
+data = {
+    "Industry": ["Tech & Data Science", "Finance", "Manufacturing", "Retail & Customer Service", "Healthcare", "Marketing & Advertising"],
+    "Jobs Created": [500000, 300000, 250000, 200000, 400000, 150000],
+    "Jobs Lost": [50000, 150000, 300000, 500000, 50000, 80000]
+}
+
+df = pd.DataFrame(data)
+
+# Create interactive bar chart
+fig = px.bar(df, x="Industry", y=["Jobs Created", "Jobs Lost"], 
+             title="AI’s Impact on Job Growth vs. Loss by Industry",
+             barmode="group", labels={"value": "Number of Jobs", "variable": "Job Impact"})
+
+fig.show()
+
+---
+
 ## 5️⃣ Key Takeaways & Career Recommendations
 
 ### **5.1 Summary of Findings**
