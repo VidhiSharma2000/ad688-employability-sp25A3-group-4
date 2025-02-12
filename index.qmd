@@ -25,8 +25,6 @@ Using data from **Lightcast, World Economic Forum, and hiring platforms**, we an
 
 ## **2. Updated `findings.qmd` (Findings Page)**
 
-```yaml
----
 title: "Job Market Findings: AI, Ghosting, & Salary Drama"
 format: html
 toc: true
@@ -85,8 +83,7 @@ Want a **six-figure salary?** Learn AI. AI-driven roles are **paying 77.53% more
 
 ## **3. Updated `career-strategy.qmd` (Career Strategy Guide)**
 
-```yaml
----
+
 title: "Your Career Survival Guide for 2024"
 format: html
 toc: true
@@ -129,8 +126,7 @@ If you’re not making **at least $100K**, consider switching careers. Here’s 
 ---
 
 # **References**
-```yaml
----
+
 format: html
 title: "References"
 ---
