@@ -1,99 +1,58 @@
 ---
-title: "Career Strategy in the Age of AI"
+title: "Career Strategy for AI vs. Non-AI Job Seekers"
 author: "Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh"
-date: today
+date: "`r Sys.Date()`"
 format: html
 bibliography: references.bib
 csl: csl/econometrica.csl
 toc: true
 ---
 
-# **Career Strategy in the Age of AI**  
+## Introduction
 
-## **📌 AI is Here—Adapt or Be Automated!**
-AI is **automating** entire job sectors, but it’s also creating **new, high-paying opportunities**. Our goal? **Stay ahead of AI, not behind it.**  
+The rapid rise of **AI-powered careers** has left many job seekers wondering: **"Should I pivot towards AI, or are traditional careers still viable?"**  
 
----
-
-## **🔥 Jobs AI is "Stealing"**
-AI is great at **repetitive, rule-based tasks**, making some jobs vulnerable. Here’s where AI is **replacing** humans:
-
-- **Clerical Work** → AI handles **data entry, secretarial tasks, office assistants**  
-- **Bank Tellers & Cashiers** → ATMs & mobile banking apps  
-- **Customer Service Agents** → AI chatbots are answering 24/7  
-- **Retail Workers** → Self-checkout kiosks & automated supply chains  
-- **Telemarketers** → AI voice assistants are *relentless*  
-*(Source: [World Economic Forum](https://www.weforum.org/stories/2023/05/jobs-lost-created-ai-gpt/?utm_source=chatgpt.com))*
+This section provides a **data-driven roadmap** for career success in 2024, including **in-demand skills, high-paying roles, and resume optimization strategies**.
 
 ---
 
-## **🚀 AI-Proof Careers: Future-Proof Job Roles**
-Some **highly human skills** will always be in demand. Here’s where AI is **creating** new jobs:
+## 1️⃣ The Most In-Demand AI & Tech Skills
 
-- **Data Science & AI Engineering** → The backbone of AI innovation  
-- **AI Ethics & Compliance** → Regulating AI use & preventing bias  
-- **Healthcare AI Specialists** → AI-powered diagnostics, medical data science  
-- **Cybersecurity Experts** → Defending against AI-powered threats  
-- **UX & Human-Centered AI Designers** → Making AI work for people  
+AI-driven careers require **specific skill sets** that are increasingly in demand. Below are the **top technical and soft skills** for AI-related roles.
 
-*Survival Tip: If AI can’t easily replicate **creativity, emotional intelligence, or strategic thinking**, that’s a **safe career**.*  
+| **Category**        | **Key Skills in Demand (2024)**                  |
+|---------------------|-------------------------------------------------|
+| **Technical Skills** | Python, Machine Learning, Deep Learning, SQL, NLP |
+| **Data Skills**      | Data Science, Business Analytics, Visualization  |
+| **Cloud & DevOps**   | AWS, Azure, Kubernetes, MLOps                   |
+| **Soft Skills**      | Critical Thinking, AI Ethics, Problem-Solving    |
 
----
-
-## **💰 Salary Trends: How Much is AI Paying?**
-**AI jobs are paying 77.53% more than traditional jobs!**  
-(*Source: [Visual Capitalist](https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/?utm_source=chatgpt.com#google_vignette)*)  
-
-| **Job Role**                  | **Average Salary** |
-|--------------------------------|--------------------|
-| AI Engineer                    | $160,000          |
-| Machine Learning Scientist      | $150,000          |
-| Data Scientist                  | $140,000          |
-| Cybersecurity Analyst           | $120,000          |
-| AI UX Designer                  | $110,000          |
-| Traditional IT Role (SysAdmin)   | $80,000           |
-
-If you’re not in **AI-related fields** yet, **NOW is the time to pivot.**
+✅ **Tip**: Learning AI-powered tools like **ChatGPT, TensorFlow, and Power BI** can **boost your resume.**
 
 ---
 
-## **📄 Resume & ATS Optimization: Beat the Bots**
-Did you know **75% of resumes** get **auto-rejected** by **Applicant Tracking Systems (ATS)?**  
-*(Source: [UMass Career Center](https://iconnect.isenberg.umass.edu/resources/how-to-beat-the-ats/))*  
+## 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries
 
-### **🔹 How to Optimize Your Resume for AI & ATS**
-✅ **Use AI-friendly Keywords** → Match job descriptions EXACTLY  
-✅ **Simple Formatting** → No fancy fonts, tables, or images  
-✅ **Job Title Tweaks** → Adjust titles to fit employer expectations  
-✅ **Skills Section Must Have:** Python, SQL, AI, ML, Data Analytics  
-✅ **Submit in PDF Format** → Prevent formatting errors  
+📊 **Explore the salary differences across AI and non-AI careers below.**  
 
----
+```{r}
+import pandas as pd
+import plotly.express as px
 
-## **🎯 Action Plan: How to Stay Competitive**
-### **🔸 Step 1: Learn AI & Data Skills**
-- Take **online courses** (Coursera, Udemy, Google AI)
-- Master **Python, SQL, Machine Learning, and Prompt Engineering**
-- Join **AI hackathons** (Kaggle, DrivenData)
+# Sample Salary Data for AI vs. Non-AI Careers
+data = {
+    "Job Role": ["Machine Learning Engineer", "Data Scientist", "AI Risk Analyst", 
+                 "Software Developer", "Mechanical Engineer", "Customer Service Rep"],
+    "AI-Powered": ["Yes", "Yes", "Yes", "No", "No", "No"],
+    "Average Salary ($)": [140000, 125000, 118000, 95000, 85000, 45000]
+}
 
-### **🔸 Step 2: Network Like a Pro**
-- **Connect with AI recruiters** on LinkedIn  
-- **Attend AI & Tech Conferences** (Google I/O, NeurIPS)  
-- **Engage in GitHub Projects** & showcase your work  
+df = pd.DataFrame(data)
 
-### **🔸 Step 3: Personal Branding**
-- **Write AI-related articles on Medium**  
-- **Create an AI Portfolio Website** with Quarto  
-- **Post AI projects & research** on LinkedIn  
+# Create Interactive Bar Chart
+fig = px.bar(df, x="Job Role", y="Average Salary ($)", color="AI-Powered",
+             title="AI vs. Non-AI Job Salaries in 2024",
+             labels={"Job Role": "Career Path", "Average Salary ($)": "Annual Salary ($)"},
+             barmode="group")
 
----
-
-## **🔗 References**
-### **Cited Sources**
-- Greenhouse. (2024). *Ghosting in the Hiring Process: Job Seeker Frustrations.* Retrieved from [CNBC](https://www.cnbc.com/2024/11/26/most-job-seekers-say-theyve-been-ghosted-love-bombed-in-interviews.html)
-- Herschberg, M. (2024). *Why Companies Ghost Candidates & What To Do About It.* [Medium](https://medium.com/@markaherschberg/why-companies-ghost-candidates-and-what-to-do-about-it-be955bbbdd7c)
-- World Economic Forum. (2023). *Jobs Lost and Created by AI & GPT.* Retrieved from [WEF](https://www.weforum.org/stories/2023/05/jobs-lost-created-ai-gpt/?utm_source=chatgpt.com)
-- UMass Career Center. (2024). *How to Beat the ATS (Applicant Tracking System).* [Isenberg UMass](https://iconnect.isenberg.umass.edu/resources/how-to-beat-the-ats/)
-- Visual Capitalist. (2024). *AI Careers vs Traditional Jobs: Salary Insights.* Retrieved from [Visual Capitalist](https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/?utm_source=chatgpt.com#google_vignette)
-
----
+fig.show()

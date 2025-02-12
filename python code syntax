@@ -1,0 +1,189 @@
+17vid@ProArt16 MINGW64 ~/ad688-employability-sp25A3-group-4 (main)
+$ python
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import matplotlib.pyplot as plt
+>>> import seaborn as sns
+>>> import pandas as pd
+>>>
+>>> # Sample Data
+>>> data = {
+...     "Job Type": ["AI Jobs", "Non-AI Jobs"],
+...         "Growth Rate (%)": [35, 5]
+...         }
+>>>
+>>> df = pd.DataFrame(data)
+>>>
+>>> # Create Bar Chart
+>>> plt.figure(figsize=(8,5))
+<Figure size 800x500 with 0 Axes>
+>>> sns.barplot(x="Job Type", y="Growth Rate (%)", data=df, palette="Blues")
+<python-input-11>:1: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x="Job Type", y="Growth Rate (%)", data=df, palette="Blues")
+<Axes: xlabel='Job Type', ylabel='Growth Rate (%)'>
+>>> plt.title("AI vs. Non-AI Job Growth Rate (2024)")
+Text(0.5, 1.0, 'AI vs. Non-AI Job Growth Rate (2024)')
+>>> plt.ylabel("Growth Rate (%)")
+Text(0, 0.5, 'Growth Rate (%)')
+>>> plt.xlabel("Job Type")
+Text(0.5, 0, 'Job Type')
+>>>
+>>> # Show Plot
+>>> plt.show()
+Traceback (most recent call last):
+  File "<python-input-17>", line 1, in <module>
+    plt.show()
+    ~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\pyplot.py", line 614, in show
+    return _get_backend_mod().show(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\backend_bases.py", line 3547, in show
+    cls.mainloop()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\backends\_backend_tk.py", line 544, in start_main_loop
+    first_manager.window.mainloop()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1599, in mainloop
+    self.tk.mainloop(n)
+    ~~~~~~~~~~~~~~~~^^^
+KeyboardInterrupt
+>>> # Sample Data
+>>> industries = ["AI", "Finance", "Healthcare", "Retail"]
+>>> salaries = [120000, 85000, 75000, 50000]
+>>>
+>>> # Create Bar Chart
+>>> plt.figure(figsize=(8,5))
+<Figure size 800x500 with 0 Axes>
+>>> sns.barplot(x=industries, y=salaries, palette="Greens")
+<python-input-24>:1: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=industries, y=salaries, palette="Greens")
+<Axes: >
+>>> plt.title("Average Salaries by Industry (2024)")
+Text(0.5, 1.0, 'Average Salaries by Industry (2024)')
+>>> plt.ylabel("Annual Salary ($)")
+Text(0, 0.5, 'Annual Salary ($)')
+>>> plt.xlabel("Industry")
+Text(0.5, 0, 'Industry')
+>>>
+>>> # Show Plot
+>>> plt.show()
+Traceback (most recent call last):
+  File "<python-input-30>", line 1, in <module>
+    plt.show()
+    ~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\pyplot.py", line 614, in show
+    return _get_backend_mod().show(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\backend_bases.py", line 3547, in show
+    cls.mainloop()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\backends\_backend_tk.py", line 544, in start_main_loop
+    first_manager.window.mainloop()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1599, in mainloop
+    self.tk.mainloop(n)
+    ~~~~~~~~~~~~~~~~^^^
+KeyboardInterrupt
+>>>
+>>> # Sample Data
+>>> industries = ["AI", "Finance", "Healthcare", "Retail"]
+>>> salaries = [120000, 85000, 75000, 50000]
+>>>
+>>> # Create Bar Chart
+>>> plt.figure(figsize=(8,5))
+<Figure size 800x500 with 0 Axes>
+>>> sns.barplot(x=industries, y=salaries, palette="Greens")
+<python-input-38>:1: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x=industries, y=salaries, palette="Greens")
+<Axes: >
+>>> plt.title("Average Salaries by Industry (2024)")
+Text(0.5, 1.0, 'Average Salaries by Industry (2024)')
+>>> plt.ylabel("Annual Salary ($)")
+Text(0, 0.5, 'Annual Salary ($)')
+>>> plt.xlabel("Industry")
+Text(0.5, 0, 'Industry')
+>>>
+>>> # Show Plot
+>>> plt.show()
+Traceback (most recent call last):
+  File "<python-input-44>", line 1, in <module>
+    plt.show()
+    ~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\pyplot.py", line 614, in show
+    return _get_backend_mod().show(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\backend_bases.py", line 3547, in show
+    cls.mainloop()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\site-packages\matplotlib\backends\_backend_tk.py", line 544, in start_main_loop
+    first_manager.window.mainloop()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\17vid\AppData\Local\Programs\Python\Python313\Lib\tkinter\__init__.py", line 1599, in mainloop
+    self.tk.mainloop(n)
+    ~~~~~~~~~~~~~~~~^^^
+KeyboardInterrupt
+>>> ```{python}
+  File "<python-input-45>", line 1
+    ```{python}
+    ^
+SyntaxError: invalid syntax
+>>> import matplotlib.pyplot as plt
+>>> import seaborn as sns
+>>> import pandas as pd
+>>>
+>>> # Sample Data
+>>> data = {
+...     "Job Type": ["AI Jobs", "Non-AI Jobs"],
+...         "Growth Rate (%)": [35, 5]
+...         }
+>>>
+>>> df = pd.DataFrame(data)
+>>>
+>>> # Create Bar Chart
+>>> plt.figure(figsize=(8,5))
+<Figure size 800x500 with 0 Axes>
+>>> sns.barplot(x="Job Type", y="Growth Rate (%)", data=df, palette="Blues")
+<python-input-57>:1: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(x="Job Type", y="Growth Rate (%)", data=df, palette="Blues")
+<Axes: xlabel='Job Type', ylabel='Growth Rate (%)'>
+>>> plt.title("AI vs. Non-AI Job Growth Rate (2024)")
+Text(0.5, 1.0, 'AI vs. Non-AI Job Growth Rate (2024)')
+>>> plt.ylabel("Growth Rate (%)")
+Text(0, 0.5, 'Growth Rate (%)')
+>>> plt.xlabel("Job Type")
+Text(0.5, 0, 'Job Type')
+>>>
+>>> # Show Plot
+>>> plt.show()
+>>> ```
+  File "<python-input-64>", line 1
+    ```
+    ^
+SyntaxError: invalid syntax
+>>> # Sample Data
+>>> job_roles = ["Clerical", "Retail", "Finance", "IT", "Healthcare"]
+>>> impact = [40, 30, 20, 25, 10]
+>>>
+>>> # Create Pie Chart
+>>> plt.figure(figsize=(7,7))
+<Figure size 700x700 with 0 Axes>
+>>> plt.pie(impact, labels=job_roles, autopct='%1.1f%%', colors=['red', 'orange', 'yellow', 'green', 'blue'])
+([<matplotlib.patches.Wedge object at 0x00000199EF240590>, <matplotlib.patches.Wedge object at 0x0000019980547610>, <matplotlib.patches.Wedge object at 0x00000199805479D0>, <matplotlib.patches.Wedge object at 0x0000019980547D90>, <matplotlib.patches.Wedge object at 0x00000199805A0190>], [Text(0.5894094263511644, 0.9287607485937331, 'Clerical'), Text(-1.0227542042474966, 0.4049368317331362, 'Retail'), Text(-0.7011662130500308, -0.8475647123831188, 'Finance'), Text(0.46835788548312296, -0.9953094448993128, 'IT'), Text(1.0654416275130958, -0.2735582906114267, 'Healthcare')], [Text(0.3214960507369987, 0.506596771960218, '32.0%'), Text(-0.5578659295895435, 0.22087463549080155, '24.0%'), Text(-0.38245429802728953, -0.46230802493624656, '16.0%'), Text(0.25546793753624886, -0.5428960608541705, '20.0%'), Text(0.5811499786435067, -0.1492136130607782, '8.0%')])
+>>> plt.title("AI Impact on Job Roles (2024)")
+Text(0.5, 1.0, 'AI Impact on Job Roles (2024)')
+>>>
+>>> # Show Plot
+>>> plt.show()
+
