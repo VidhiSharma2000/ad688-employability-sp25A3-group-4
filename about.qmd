@@ -1,18 +1,32 @@
 ---
 title: "About This Project"
+author: "Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh"
+date: "`r Sys.Date()`"
 format: html
 toc: true
-number-sections: true
 ---
 
-# About This Project
+## **Welcome to the Job Market Survival Guide – AI vs. Humans Edition!**
 
-This project explores how AI is reshaping the job market in 2024.
+In a world where AI is stealing jobs *and* creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:  
 
-## Authors:
-- **Vidhi A. Sharma**
-- **Soham Deskhhaire**
-- **Nhan (Johnny) Huynh**
+**Is AI actually replacing humans, or is it just another industry hype?**  
 
-## Why We Did This Project
-As students applying for internships, we wanted to uncover why job applications often feel like sending messages into the void.
+### **📌 Why We Did This Project**
+Because job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.  
+
+We wanted to analyze:
+✅ **AI vs. Non-AI job growth** – Are humans still relevant?  
+✅ **Salary trends** – Does AI work pay more, or are robots underpaid?  
+✅ **Resume hacks** – Beating AI at its own game (ATS filtering).  
+
+### **👩‍💻 Who We Are**
+We're just a team of **data-driven detectives**, using Python, AI models, and analytics to crack the job market code.  
+
+Meet the crew:  
+- **Vidhi A. Sharma** – AI optimist (or just hopeful AI won’t take all jobs).  
+- **Soham Deshkhaire** – Machine Learning enthusiast trying to outsmart AI.  
+- **Nhan (Johnny) Huynh** – The coding wizard making all the magic happen.  
+
+🚀 **Our Goal:** To create a research-driven career strategy **so humans (us) can still land jobs in 2024!**
+
