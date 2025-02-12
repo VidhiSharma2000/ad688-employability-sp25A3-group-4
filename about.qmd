@@ -1,0 +1,18 @@
+---
+title: "About This Project"
+format: html
+toc: true
+number-sections: true
+---
+
+# About This Project
+
+This project explores how AI is reshaping the job market in 2024.
+
+## Authors:
+- **Vidhi A. Sharma**
+- **Soham Deskhhaire**
+- **Nhan (Johnny) Huynh**
+
+## Why We Did This Project
+As students applying for internships, we wanted to uncover why job applications often feel like sending messages into the void.

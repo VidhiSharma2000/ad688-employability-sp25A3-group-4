@@ -1,0 +1,142 @@
+---
+title: "Surviving the 2024 Job Market: AI, Ghosting & Paychecks"
+format: html
+toc: true
+number-sections: true
+bibliography: references.bib
+csl: csl/econometrica.csl
+---
+
+# Introduction
+
+Job hunting in 2024 is a **rollercoaster**—except it’s less "fun amusement park" and more "trapped in a Zoom call with no exit." AI is taking jobs, recruiters are ghosting, and **salary gaps are growing faster than my stress levels.** 
+
+This report is for job seekers who **just want answers**—not generic LinkedIn advice like "just be yourself!" (We tried that, and yet here we are, still unemployed). 
+
+### **Key Questions We Address**
+- **Is AI helping or ruining careers?** *(Spoiler: It depends.)*
+- **Why do recruiters ghost more than bad Tinder dates?**
+- **Who’s getting the best salaries, and is it too late to switch careers?**
+- **How do you actually beat Applicant Tracking Systems (ATS)?**
+
+Using data from **Lightcast, World Economic Forum, and hiring platforms**, we analyze trends and give **realistic career advice.** Buckle up—this might hurt, but at least it’s honest.
+
+---
+
+## **2. Updated `findings.qmd` (Findings Page)**
+
+```yaml
+---
+title: "Job Market Findings: AI, Ghosting, & Salary Drama"
+format: html
+toc: true
+number-sections: true
+bibliography: references.bib
+csl: csl/econometrica.csl
+---
+
+# **Key Findings on Job Market Trends**
+
+## **1. The Ghosting Epidemic: When Recruiters Disappear**
+Ghosting is **no longer just for dating.** A **2024 survey found that 52% of job seekers** never heard back after multiple interview rounds (Herschberg, 2024). 
+
+### **Why Do Companies Ghost?**
+- **Internal Chaos**: Budget cuts, layoffs, or leadership playing "musical chairs."
+- **Recruiter Burnout**: Some recruiters manage **hundreds of applicants per job** (so yes, your "just checking in" email is lost in the abyss).
+- **Fake Jobs?** Yep. **Some listings are just for show**—used to collect resumes or gauge market interest (Herschberg, 2024).
+
+### **How to Beat the Ghosting Game**
+- **Always ask for a hiring timeline.** If they don’t give one, it’s a red flag.
+- **Follow up—but no begging.** Twice is enough. After that, move on.
+- **Network like your career depends on it (because it does).** Referrals **triple** your chances of getting hired (Greenhouse, 2024).
+
+---
+
+## **2. AI Is Stealing Jobs (And Creating New Ones)**
+AI isn’t just replacing workers—it’s **reshaping entire industries**. The **World Economic Forum** predicts **85 million jobs will disappear by 2025**, but **97 million new ones will emerge** (WEF, 2023). So, it’s like musical chairs… but with robots.
+
+### **Jobs Most at Risk**:
+- **Clerical/Admin**: If your job involves **copy-pasting** all day, AI has bad news for you.
+- **Customer Support**: Chatbots are **stealing jobs faster than customers can say, "I want to speak to a manager!"**
+- **Manufacturing & Retail**: Self-checkouts don’t call in sick.
+
+### **Jobs AI is Creating**
+- **AI Ethics Consultants**: Someone has to **stop AI from ruining everything.**
+- **Data Analysts & Scientists**: AI needs humans to **fix its mistakes.**
+- **Cybersecurity Experts**: AI is smart, but hackers are **smarter.**
+
+---
+
+## **3. AI vs. Non-AI Salaries: Who’s Winning?**
+Want a **six-figure salary?** Learn AI. AI-driven roles are **paying 77.53% more** than traditional jobs (Visual Capitalist, 2023).
+
+| Job Role                   | Average Salary (2024) |
+|----------------------------|----------------------|
+| AI Research Scientist      | **$170,000**        |
+| Machine Learning Engineer  | **$145,000**        |
+| Cybersecurity Specialist   | **$130,000**        |
+| Data Scientist             | **$120,000**        |
+| Accountant                 | **$70,000**         |
+| Customer Support Agent     | **$45,000**         |
+
+**Takeaway**: If you’re still debating a career change, now’s the time.
+
+---
+
+## **3. Updated `career-strategy.qmd` (Career Strategy Guide)**
+
+```yaml
+---
+title: "Your Career Survival Guide for 2024"
+format: html
+toc: true
+number-sections: true
+bibliography: references.bib
+csl: csl/econometrica.csl
+---
+
+# **Career Strategy for AI & Non-AI Fields**
+
+## **1. In-Demand Skills That Actually Matter**
+If you want **job security,** forget “teamwork” and “communication” on your resume—**these skills will get you hired**:
+
+- **Machine Learning & AI** (Python, TensorFlow, PyTorch)
+- **Data Science & Analytics** (SQL, R, data visualization)
+- **Cybersecurity** (Cloud security, ethical hacking)
+- **Marketing Analytics** (SEO, AI-driven campaigns)
+- **Project Management** (Agile, Scrum, Jira)
+
+**How to Learn These Skills**
+- **Google Certificates** (Free on Coursera)
+- **Udemy & YouTube** (Free AI courses exist!)
+- **Build a portfolio** (Hiring managers love real-world projects).
+
+---
+
+## **2. Best-Paying Job Roles in 2024**
+If you’re not making **at least $100K**, consider switching careers. Here’s where the **biggest paychecks** are:
+
+| Job Title                  | 2024 Average Salary |
+|----------------------------|-------------------|
+| **AI Engineer**            | $150,000         |
+| **Cybersecurity Analyst**  | $135,000         |
+| **Cloud Architect**        | $140,000         |
+| **Digital Marketing Analyst** | $105,000   |
+| **Data Scientist**         | $120,000         |
+
+**Key Insight:** Traditional careers are **falling behind**. Even **marketing analysts now need AI skills** to stay relevant.
+
+---
+
+# **References**
+```yaml
+---
+format: html
+title: "References"
+---
+
+## **References**
+- Greenhouse. (2024). *52% of job seekers report recruiter ghosting.* Retrieved from [CNBC](https://www.cnbc.com/2024/11/26/most-job-seekers-say-theyve-been-ghosted-love-bombed-in-interviews.html).
+- Herschberg, M. (2024). *Why Companies Ghost Candidates and What To Do About It.* Retrieved from [Medium](https://medium.com/@markaherschberg/why-companies-ghost-candidates-and-what-to-do-about-it-be955bbbdd7c).
+- World Economic Forum. (2023). *The Jobs AI is Creating (and Killing).* Retrieved from [WEF](https://www.weforum.org/stories/2023/05/jobs-lost-created-ai-gpt/).
+- Visual Capitalist. (2023). *AI vs. Non-AI Salary Comparisons.* Retrieved from [Visual Capitalist](https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/).

@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "AI & Job Market Trends"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: findings.qmd
+        text: Findings
+      - href: career-strategy.qmd
+        text: Career Strategy
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+bibliography: references.bib
+csl: csl/econometrica.csl

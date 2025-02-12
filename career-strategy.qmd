@@ -1,0 +1,99 @@
+---
+title: "Career Strategy in the Age of AI"
+author: "Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh"
+date: today
+format: html
+bibliography: references.bib
+csl: csl/econometrica.csl
+toc: true
+---
+
+# **Career Strategy in the Age of AI**  
+
+## **📌 AI is Here—Adapt or Be Automated!**
+AI is **automating** entire job sectors, but it’s also creating **new, high-paying opportunities**. Our goal? **Stay ahead of AI, not behind it.**  
+
+---
+
+## **🔥 Jobs AI is "Stealing"**
+AI is great at **repetitive, rule-based tasks**, making some jobs vulnerable. Here’s where AI is **replacing** humans:
+
+- **Clerical Work** → AI handles **data entry, secretarial tasks, office assistants**  
+- **Bank Tellers & Cashiers** → ATMs & mobile banking apps  
+- **Customer Service Agents** → AI chatbots are answering 24/7  
+- **Retail Workers** → Self-checkout kiosks & automated supply chains  
+- **Telemarketers** → AI voice assistants are *relentless*  
+*(Source: [World Economic Forum](https://www.weforum.org/stories/2023/05/jobs-lost-created-ai-gpt/?utm_source=chatgpt.com))*
+
+---
+
+## **🚀 AI-Proof Careers: Future-Proof Job Roles**
+Some **highly human skills** will always be in demand. Here’s where AI is **creating** new jobs:
+
+- **Data Science & AI Engineering** → The backbone of AI innovation  
+- **AI Ethics & Compliance** → Regulating AI use & preventing bias  
+- **Healthcare AI Specialists** → AI-powered diagnostics, medical data science  
+- **Cybersecurity Experts** → Defending against AI-powered threats  
+- **UX & Human-Centered AI Designers** → Making AI work for people  
+
+*Survival Tip: If AI can’t easily replicate **creativity, emotional intelligence, or strategic thinking**, that’s a **safe career**.*  
+
+---
+
+## **💰 Salary Trends: How Much is AI Paying?**
+**AI jobs are paying 77.53% more than traditional jobs!**  
+(*Source: [Visual Capitalist](https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/?utm_source=chatgpt.com#google_vignette)*)  
+
+| **Job Role**                  | **Average Salary** |
+|--------------------------------|--------------------|
+| AI Engineer                    | $160,000          |
+| Machine Learning Scientist      | $150,000          |
+| Data Scientist                  | $140,000          |
+| Cybersecurity Analyst           | $120,000          |
+| AI UX Designer                  | $110,000          |
+| Traditional IT Role (SysAdmin)   | $80,000           |
+
+If you’re not in **AI-related fields** yet, **NOW is the time to pivot.**
+
+---
+
+## **📄 Resume & ATS Optimization: Beat the Bots**
+Did you know **75% of resumes** get **auto-rejected** by **Applicant Tracking Systems (ATS)?**  
+*(Source: [UMass Career Center](https://iconnect.isenberg.umass.edu/resources/how-to-beat-the-ats/))*  
+
+### **🔹 How to Optimize Your Resume for AI & ATS**
+✅ **Use AI-friendly Keywords** → Match job descriptions EXACTLY  
+✅ **Simple Formatting** → No fancy fonts, tables, or images  
+✅ **Job Title Tweaks** → Adjust titles to fit employer expectations  
+✅ **Skills Section Must Have:** Python, SQL, AI, ML, Data Analytics  
+✅ **Submit in PDF Format** → Prevent formatting errors  
+
+---
+
+## **🎯 Action Plan: How to Stay Competitive**
+### **🔸 Step 1: Learn AI & Data Skills**
+- Take **online courses** (Coursera, Udemy, Google AI)
+- Master **Python, SQL, Machine Learning, and Prompt Engineering**
+- Join **AI hackathons** (Kaggle, DrivenData)
+
+### **🔸 Step 2: Network Like a Pro**
+- **Connect with AI recruiters** on LinkedIn  
+- **Attend AI & Tech Conferences** (Google I/O, NeurIPS)  
+- **Engage in GitHub Projects** & showcase your work  
+
+### **🔸 Step 3: Personal Branding**
+- **Write AI-related articles on Medium**  
+- **Create an AI Portfolio Website** with Quarto  
+- **Post AI projects & research** on LinkedIn  
+
+---
+
+## **🔗 References**
+### **Cited Sources**
+- Greenhouse. (2024). *Ghosting in the Hiring Process: Job Seeker Frustrations.* Retrieved from [CNBC](https://www.cnbc.com/2024/11/26/most-job-seekers-say-theyve-been-ghosted-love-bombed-in-interviews.html)
+- Herschberg, M. (2024). *Why Companies Ghost Candidates & What To Do About It.* [Medium](https://medium.com/@markaherschberg/why-companies-ghost-candidates-and-what-to-do-about-it-be955bbbdd7c)
+- World Economic Forum. (2023). *Jobs Lost and Created by AI & GPT.* Retrieved from [WEF](https://www.weforum.org/stories/2023/05/jobs-lost-created-ai-gpt/?utm_source=chatgpt.com)
+- UMass Career Center. (2024). *How to Beat the ATS (Applicant Tracking System).* [Isenberg UMass](https://iconnect.isenberg.umass.edu/resources/how-to-beat-the-ats/)
+- Visual Capitalist. (2024). *AI Careers vs Traditional Jobs: Salary Insights.* Retrieved from [Visual Capitalist](https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/?utm_source=chatgpt.com#google_vignette)
+
+---
