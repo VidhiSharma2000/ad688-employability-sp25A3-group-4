@@ -1,23 +1,23 @@
 ---
 title: "Home"
+author: "Vidhi A. Sharma"
+date: "2025-02-12"
+format: html
+bibliography: references.bib
+csl: csl/econometrica.csl
+toc: true
 ---
 
 # Welcome to AI vs. Non-AI Job Growth
 
-This website explores the impact of AI on employment trends, focusing on job displacement and creation in the modern workforce.
 
+This website explores the impact of AI on employment trends, focusing on job displacement and creation in the modern workforce.
+---
 ## Overview
 - The rise of AI-driven automation.
 - Key industries affected.
 - Strategies for career adaptation.
 
-## References
-
-Citations will be formatted automatically using `references.bib`.
-
----
-
-title: "Findings"
 ---
 
 # Key Findings
@@ -34,8 +34,6 @@ High-paying AI jobs continue to emerge, creating lucrative opportunities for ski
 
 ---
 
-title: "Career Strategy"
----
 
 # Career Strategies in the AI Era
 
@@ -44,17 +42,12 @@ To stay competitive, professionals must:
 2. Adapt to hybrid work environments.
 3. Optimize resumes for ATS (Applicant Tracking Systems) [@umass2024ats].
 
-## Key Resources
+## Key Resource
 - AI Career Skills Study [@forbes2024future].
 
----
-
-title: "About"
 ---
 
 # About This Project
 
 This project is a comprehensive study on AI and job growth, leveraging insights from the World Economic Forum and leading industry sources.
 
-## Citation Format
-All references are managed via `references.bib` and formatted using `csl/econometrica.csl`.

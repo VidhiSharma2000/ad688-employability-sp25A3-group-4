@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "",
     "section": "",
-    "text": "This website explores the impact of AI on employment trends, focusing on job displacement and creation in the modern workforce.\n\n\n\nThe rise of AI-driven automation.\nKey industries affected.\nStrategies for career adaptation.\n\n\n\n\nCitations will be formatted automatically using references.bib.\n\ntitle: “Findings”"
+    "text": "Code"
   },
   {
     "objectID": "index.html#objectives",
@@ -16,9 +16,9 @@
   {
     "objectID": "career-strategy.html",
     "href": "career-strategy.html",
-    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "title": "",
     "section": "",
-    "text": "The rapid rise of AI-powered careers has left many job seekers wondering: “Should I pivot towards AI, or are traditional careers still viable?”\nThis section provides a data-driven roadmap for career success in 2024, including in-demand skills, high-paying roles, and resume optimization strategies."
+    "text": "Code"
   },
   {
     "objectID": "career-strategy.html#in-demand-skills",
@@ -268,9 +268,9 @@
   {
     "objectID": "career-strategy.html#references",
     "href": "career-strategy.html#references",
-    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
-    "section": "6 References",
-    "text": "6 References\n\n\n\nQuarto will automatically format citations from references.bib in Econometrica style."
+    "title": "Career Strategy",
+    "section": "",
+    "text": "AI Career Skills Study (Forbes (2024)).\nAI Industry Trends (Forum (2024)).\n\n\ntitle: “Findings”"
   },
   {
     "objectID": "index.html#overview",
@@ -320,5 +320,68 @@
     "title": "Home",
     "section": "4.1 Citation Format",
     "text": "4.1 Citation Format\nAll references are managed via references.bib and formatted using csl/econometrica.csl."
+  },
+  {
+    "objectID": "career-strategy.html#key-strategies",
+    "href": "career-strategy.html#key-strategies",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "Upskill in AI & Data Science\n\nPursue courses on machine learning, AI ethics, and automation.\nLeverage platforms like Coursera, Udacity, and LinkedIn Learning.\n\nAdapt to Hybrid Work Environments\n\nDevelop proficiency in remote collaboration tools (Slack, Zoom, etc.).\nBalance AI-assisted productivity with human-centered problem-solving.\n\nOptimize Resumes for ATS (Applicant Tracking Systems)\n\nUtilize AI-friendly resume formats to enhance visibility.\nTailor applications using industry-specific keywords (Massachusetts (2024)).\n\nStrengthen Human Skills\n\nFocus on problem-solving, emotional intelligence, and creative thinking.\nBuild leadership and adaptability to work alongside AI systems."
+  },
+  {
+    "objectID": "career-strategy.html#future-proofing-careers",
+    "href": "career-strategy.html#future-proofing-careers",
+    "title": "Career Strategy",
+    "section": "",
+    "text": "AI is not just a disruptor but also a creator of new job opportunities. Staying proactive in learning and networking ensures long-term career resilience."
+  },
+  {
+    "objectID": "career-strategy.html#ai-job-market-trends",
+    "href": "career-strategy.html#ai-job-market-trends",
+    "title": "Career Strategy",
+    "section": "2.1 AI Job Market Trends",
+    "text": "2.1 AI Job Market Trends\nRecent studies indicate that AI is reshaping industries, leading to shifts in employment patterns (Forum (2024))."
+  },
+  {
+    "objectID": "career-strategy.html#salary-trends",
+    "href": "career-strategy.html#salary-trends",
+    "title": "Career Strategy",
+    "section": "2.2 Salary Trends",
+    "text": "2.2 Salary Trends\nHigh-paying AI jobs continue to emerge, creating lucrative opportunities for skilled professionals (BizReport (2024))."
+  },
+  {
+    "objectID": "career-strategy.html#additional-references",
+    "href": "career-strategy.html#additional-references",
+    "title": "Career Strategy",
+    "section": "2.3 Additional References",
+    "text": "2.3 Additional References\n\nElgar Online Study on AI and Job Growth: Elgar Online\nScienceDirect Study on AI-Driven Employment Trends: ScienceDirect"
+  },
+  {
+    "objectID": "career-strategy.html#references-1",
+    "href": "career-strategy.html#references-1",
+    "title": "Career Strategy",
+    "section": "2.4 References",
+    "text": "2.4 References\n\nAI Job Market Study (Forum (2024)).\nAI Salary Report (BizReport (2024)).\n\n\ntitle: “About”"
+  },
+  {
+    "objectID": "career-strategy.html#research-methodology",
+    "href": "career-strategy.html#research-methodology",
+    "title": "Career Strategy",
+    "section": "3.1 Research Methodology",
+    "text": "3.1 Research Methodology\n\nData compiled from industry reports, academic research, and expert opinions.\nCase studies from AI-integrated industries."
+  },
+  {
+    "objectID": "career-strategy.html#contributors",
+    "href": "career-strategy.html#contributors",
+    "title": "Career Strategy",
+    "section": "3.2 Contributors",
+    "text": "3.2 Contributors\nThis analysis is backed by insights from: - The World Economic Forum - Forbes AI Research - University of Massachusetts Career Center"
+  },
+  {
+    "objectID": "career-strategy.html#references-2",
+    "href": "career-strategy.html#references-2",
+    "title": "Career Strategy",
+    "section": "3.3 References",
+    "text": "3.3 References\nAll references are managed via references.bib and formatted using csl/econometrica.csl.\n\ntitle: “References”"
   }
 ]

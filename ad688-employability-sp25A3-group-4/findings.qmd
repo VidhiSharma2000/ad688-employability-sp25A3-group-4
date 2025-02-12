@@ -99,4 +99,5 @@ Despite concerns about automation, **entirely new job categories** are emerging 
 
 ## References
 
-[Your citations will appear here.]
+::: {#refs}
+:::

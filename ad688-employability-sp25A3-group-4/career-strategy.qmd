@@ -1,102 +1,62 @@
 ---
-title: "Career Strategy for AI vs. Non-AI Job Seekers"
-author: "Vidhi A. Sharma, Soham Deshkhaire"
-date: "2025-02-12"
-format: html
-bibliography: references.bib
-csl: csl/econometrica.csl
-toc: true
+title: "Career Strategy"
+authors: 
+  - Vidhi A. Sharma
+  - Soham Deshkhaire
 ---
 
-## Introduction
+# Career Strategies in the AI Era
 
-The rapid rise of **AI-powered careers** has left many job seekers wondering: **"Should I pivot towards AI, or are traditional careers still viable?"**  
+With the rapid evolution of AI, professionals must stay ahead by adopting future-ready strategies. This section outlines key approaches to sustaining career growth in an AI-driven job market.
 
-This section provides a **data-driven roadmap** for career success in 2024, including **in-demand skills, high-paying roles, and resume optimization strategies**.
+## Key Strategies
 
----
+### 1. **Upskill in AI & Data Science**
+   - The rise of AI is transforming multiple industries, making it essential to develop skills in machine learning, AI ethics, and automation.
+   - Enroll in certifications such as Google's AI & ML program, IBM’s AI Engineering certification, or courses on Udacity and LinkedIn Learning.
+   - Understanding AI-driven analytics and automation tools like Python, TensorFlow, and AutoML will provide a competitive edge in the job market [@forbes2024future].
 
-## 1️⃣ The Most In-Demand AI & Tech Skills
+### 2. **Adapt to Hybrid Work Environments**
+   - Companies increasingly integrate AI into remote and hybrid work models, requiring employees to be proficient in digital collaboration.
+   - Mastering tools such as Slack, Zoom, and AI-powered project management systems like Asana or Trello is crucial.
+   - Understanding AI-assisted work scheduling and workflow automation can help optimize productivity and efficiency in hybrid work settings [@weforum2024jobs].
 
-AI-driven careers require **specific skill sets** that are increasingly in demand. Below are the **top technical and soft skills** for AI-related roles.
+### 3. **Optimize Resumes for ATS (Applicant Tracking Systems)**
+   - More than 75% of companies use AI-powered ATS systems to scan resumes, meaning candidates must tailor their CVs to be AI-friendly.
+   - Including industry-specific keywords, formatting resumes for machine readability, and avoiding excessive design elements will improve ranking in ATS systems.
+   - Utilizing AI-driven resume analysis tools like Jobscan and Resume Worded can help refine applications before submission [@umass2024ats].
 
-| **Category**        | **Key Skills in Demand (2024)**                  |
-|---------------------|-------------------------------------------------|
-| **Technical Skills** | Python, Machine Learning, Deep Learning, SQL, NLP |
-| **Data Skills**      | Data Science, Business Analytics, Visualization  |
-| **Cloud & DevOps**   | AWS, Azure, Kubernetes, MLOps                   |
-| **Soft Skills**      | Critical Thinking, AI Ethics, Problem-Solving    |
+### 4. **Strengthen Human Skills**
+   - While AI enhances efficiency, uniquely human skills such as critical thinking, emotional intelligence, and creativity remain indispensable.
+   - Studies show that leadership, adaptability, and problem-solving abilities are among the top skills sought after by AI-driven organizations.
+   - Professionals should engage in continuous learning through leadership workshops, problem-solving bootcamps, and mentorship programs to build these competencies [@bizreport2024ai].
 
-✅ **Tip**: Learning AI-powered tools like **ChatGPT, TensorFlow, and Power BI** can **boost your resume.**
+### 5. **Leverage Networking & Industry Connections**
+   - Expanding professional networks through AI-focused LinkedIn groups, online forums, and industry meetups is key to staying informed about job opportunities.
+   - Participating in AI hackathons, conferences, and knowledge-sharing sessions like Google AI Summit or MIT AI Research Meetups can boost career prospects.
+   - Research indicates that over 70% of job opportunities arise through networking rather than traditional job applications [@elgar2024growth].
 
----
+### 6. **Stay Updated with AI Regulations & Ethics**
+   - As AI policies evolve, professionals must stay informed about data privacy laws, AI governance, and ethical considerations in automation.
+   - Following organizations like the **IEEE Standards Association** and **OpenAI Policy Institute** will provide insights into regulatory changes and ethical AI implementation.
+   - AI bias mitigation and compliance with international AI policies will be crucial for companies adopting AI solutions [@sciencedirect2024employment].
 
-## 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries
+## Comparison of AI & Non-AI Career Growth
 
-```{python}
-import pandas as pd
-import plotly.express as px
+| Factor                        | AI-Driven Careers            | Traditional Careers         |
+|------------------------------|-----------------------------|-----------------------------|
+| Job Growth                   | High (Projected 97M new jobs) | Moderate growth             |
+| Skill Requirement            | AI, ML, Data Science        | Industry-Specific Skills    |
+| Salary Trends                | Higher Earning Potential   | Stable Salaries             |
+| Job Security                 | Requires Continuous Learning | More Stability              |
+| Work Environment             | Hybrid & Remote Work        | On-Site Preferred           |
+| Key Industries               | Tech, Finance, Healthcare  | Manufacturing, Retail       |
 
-data = {
-    "Job Role": ["Machine Learning Engineer", "Data Scientist", "AI Risk Analyst",
-                 "Software Developer", "Mechanical Engineer", "Customer Service Rep"],
-    "AI-Powered": ["Yes", "Yes", "Yes", "No", "No", "No"],
-    "Average Salary ($)": [140000, 125000, 118000, 95000, 85000, 45000]
-}
+## Future-Proofing Careers
+AI is not just a disruptor but also a creator of new job opportunities. The World Economic Forum predicts that AI will generate 97 million new jobs globally by 2025, particularly in AI ethics, cybersecurity, and AI-powered customer experience roles. To remain relevant, professionals must:
 
-df = pd.DataFrame(data)
-
-fig = px.bar(df, x="Job Role", y="Average Salary ($)", color="AI-Powered",
-             title="AI vs. Non-AI Job Salaries in 2024",
-             labels={"Job Role": "Career Path", "Average Salary ($)": "Annual Salary ($)"},
-             barmode="group")
-
-fig.show()
-```
-
----
-
-## 3️⃣ Career Strategy Recommendations
-
-Here are six **practical career strategies** for adapting to AI-driven job market changes:
-
-1. **Invest in AI & Data Science Skills** 📊  
-   - Learn **Python, Machine Learning, and AI-driven analytics**.  
-   - Take courses in **Natural Language Processing (NLP)** and **Big Data**.  
-
-2. **Target High-Growth AI Industries** 🚀  
-   - Prioritize careers in **finance, tech, and healthcare**, where AI adoption is rising.  
-
-3. **Embrace AI-Powered Work Environments** 💡  
-   - Stay ahead by using **automation tools** and **AI-powered platforms** in daily tasks.  
-
-4. **Develop Soft Skills for AI Collaboration** 🤝  
-   - Strengthen **critical thinking, creativity, and emotional intelligence** to work effectively alongside AI.  
-   - Build **interdisciplinary skills** (e.g., combining AI with marketing, finance, or healthcare).  
-
-5. **Build an AI-Enhanced Personal Brand** 🌐  
-   - Use **LinkedIn, GitHub, and personal blogs** to showcase **AI-related projects**.  
-   - Publish **AI-driven case studies** or portfolio projects to **attract employers**.  
-
-6. **Stay Updated with Emerging AI Trends** 📢  
-   - Follow **AI industry leaders**, attend **conferences**, and take part in **AI hackathons**.  
-   - Subscribe to AI-focused publications like **MIT Technology Review, Google AI Blog, and OpenAI research**.  
+- Pursue AI-related certifications and continuous education.
+- Build a strong portfolio showcasing AI and data-driven projects.
+- Develop a flexible mindset, embracing AI as a tool rather than a threat.
 
 ---
-
-## 4️⃣ Personal Career Plan
-
-Each job seeker should create a **customized roadmap** based on their career goals. This includes:
-
-1. **Skill Development:** Identify technical and soft skills required for your desired role.  
-2. **Industry Research:** Follow hiring trends in AI and traditional careers.  
-3. **Resume Optimization:** Tailor your resume with AI-related skills and projects.  
-
----
-
-## References
-
-::: {#refs}
-:::
-
-Quarto will automatically format citations from `references.bib` in Econometrica style.
