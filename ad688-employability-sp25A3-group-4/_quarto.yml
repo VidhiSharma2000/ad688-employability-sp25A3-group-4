@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "AI & Job Market Trends"
+  title: "AI vs. Non-AI Job Growth"
   navbar:
     left:
       - href: index.qmd
@@ -19,5 +19,13 @@ format:
     theme: cosmo
     toc: true
     number-sections: true
+    code-fold: true
+    code-tools: true
+
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+
 bibliography: references.bib
 csl: csl/econometrica.csl

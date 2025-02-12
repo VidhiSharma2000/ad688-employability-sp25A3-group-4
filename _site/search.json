@@ -2,450 +2,303 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
+    "title": "Home",
     "section": "",
-    "text": "Artificial Intelligence is reshaping the global workforce. From automation replacing clerical jobs to AI creating entirely new industries, the job market is undergoing a rapid transformation.\n\nWho wins and who loses?\n\nWhich industries are AI-powered and which ones remain untouched?\n\nHow should job seekers adapt to this shift?\n\nThis report analyzes real-world job market data to separate hype from reality.\n🔍 Key Insights:\n✔ AI-driven job loss vs. job creation\n✔ Salary trends: AI-powered careers vs. traditional roles\n✔ Emerging job titles due to AI advancements\n✔ Strategies for future-proofing careers\n\n“The robots are coming for your jobs!”\nBut are they really? Let’s analyze the data.\n\n\n\n\nOur findings are based on real job market data from Lightcast, the World Economic Forum, and labor market reports.\n➡ Visualizations & interactive charts included!\n👥 Authors: Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh\n📅 Published: 2024\n📂 GitHub Repository: Project Link\n\n\n\n\n\n\n\ntitle: “Key Findings: AI vs. Non-AI Careers” format: html: toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "text": "This website explores the impact of AI on employment trends, focusing on job displacement and creation in the modern workforce.\n\n\n\nThe rise of AI-driven automation.\nKey industries affected.\nStrategies for career adaptation.\n\n\n\n\nCitations will be formatted automatically using references.bib.\n\ntitle: “Findings”"
   },
   {
-    "objectID": "index.html#data-driven-approach",
-    "href": "index.html#data-driven-approach",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Home",
     "section": "",
-    "text": "Our findings are based on real job market data from Lightcast, the World Economic Forum, and labor market reports.\n➡ Visualizations & interactive charts included!\n👥 Authors: Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh\n📅 Published: 2024\n📂 GitHub Repository: Project Link"
+    "text": "The rise of AI-driven automation.\nKey industries affected.\nStrategies for career adaptation."
   },
   {
-    "objectID": "index.html#yaml",
-    "href": "index.html#yaml",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Home",
     "section": "",
-    "text": "title: “Key Findings: AI vs. Non-AI Careers” format: html: toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "text": "Citations will be formatted automatically using references.bib.\n\ntitle: “Findings”"
   },
   {
-    "objectID": "index.html#jobs-ai-is-replacing",
-    "href": "index.html#jobs-ai-is-replacing",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.1 📉 Jobs AI Is Replacing",
-    "text": "2.1 📉 Jobs AI Is Replacing\nAI-driven automation is rapidly eliminating traditional jobs across industries:\n📌 Clerical & Admin Work → Data Entry Clerks, Secretaries\n📌 Retail & Banking → Cashiers, Bank Tellers\n📌 Customer Service → AI Chatbots replacing human agents\n📌 Manufacturing → Automated assembly lines replacing factory workers\n\n“Machines don’t call in sick, but they also don’t innovate.” – Industry Expert"
+    "objectID": "index.html#ai-job-market-trends",
+    "href": "index.html#ai-job-market-trends",
+    "title": "Home",
+    "section": "2.1 AI Job Market Trends",
+    "text": "2.1 AI Job Market Trends\nRecent studies indicate that AI is reshaping industries, leading to shifts in employment patterns (Forum (2024))."
   },
   {
-    "objectID": "index.html#ai-powered-job-growth",
-    "href": "index.html#ai-powered-job-growth",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.2 📈 AI-Powered Job Growth",
-    "text": "2.2 📈 AI-Powered Job Growth\nDespite job losses, AI is creating new career opportunities:\n✔ Data Science & AI Engineering → 400% increase in job postings\n✔ Cybersecurity Analysts → High demand due to AI-driven fraud risks\n✔ AI Ethics & Compliance Experts → Regulatory demand is booming\n✔ Healthcare AI Specialists → AI-assisted diagnostics & robotics surgery\n💡 Industries experiencing AI-powered growth:\nTech, Finance, Healthcare, E-Commerce, Cybersecurity"
+    "objectID": "index.html#salary-trends",
+    "href": "index.html#salary-trends",
+    "title": "Home",
+    "section": "2.2 Salary Trends",
+    "text": "2.2 Salary Trends\nHigh-paying AI jobs continue to emerge, creating lucrative opportunities for skilled professionals (BizReport (2024))."
   },
   {
-    "objectID": "index.html#salary-comparisons-ai-vs.-traditional-careers",
-    "href": "index.html#salary-comparisons-ai-vs.-traditional-careers",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.3 💰 Salary Comparisons: AI vs. Traditional Careers",
-    "text": "2.3 💰 Salary Comparisons: AI vs. Traditional Careers\n\n\n\nJob Role\nAI-Powered?\nAverage Salary (USD)\n\n\n\n\nAI Engineer\n✅ Yes\n$150,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nSoftware Developer\n✅ Yes\n$110,000\n\n\nManufacturing Technician\n❌ No\n$50,000\n\n\nRetail Cashier\n❌ No\n$30,000\n\n\n\n📊 Visualizations:\n✅ Salary trends by industry\n✅ Job growth vs. decline\n✅ AI job market expansion\n\nAdapt or be automated. The choice is yours.\n\n\n\n2.3.1 3️⃣ career-strategy.qmd (Future Career Strategies)"
+    "objectID": "index.html#additional-references",
+    "href": "index.html#additional-references",
+    "title": "Home",
+    "section": "2.3 Additional References",
+    "text": "2.3 Additional References\n\nElgar Online Study on AI and Job Growth: Elgar Online\nScienceDirect Study on AI-Driven Employment Trends: ScienceDirect\n\n\ntitle: “Career Strategy”"
   },
   {
-    "objectID": "index.html#yaml-1",
-    "href": "index.html#yaml-1",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.4 ```yaml",
-    "text": "2.4 ```yaml\ntitle: “Career Strategy: Thriving in the AI Era” format: html: toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "objectID": "index.html#key-resources",
+    "href": "index.html#key-resources",
+    "title": "Home",
+    "section": "3.1 Key Resources",
+    "text": "3.1 Key Resources\n\nAI Career Skills Study (Forbes (2024)).\n\n\ntitle: “About”"
   },
   {
-    "objectID": "index.html#in-demand-skills-2024-beyond",
-    "href": "index.html#in-demand-skills-2024-beyond",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "3.1 🚀 In-Demand Skills (2024 & Beyond)",
-    "text": "3.1 🚀 In-Demand Skills (2024 & Beyond)\nTo remain competitive, professionals must focus on AI-proof skills:\n📌 Machine Learning & Data Science → AI-driven automation & analytics\n📌 Cybersecurity & Ethical Hacking → Protecting AI-powered systems\n📌 AI Ethics & Governance → Managing bias & compliance in AI\n📌 Creativity & Human-Centered Skills → AI can’t replace emotional intelligence"
-  },
-  {
-    "objectID": "index.html#suggested-job-roles",
-    "href": "index.html#suggested-job-roles",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "3.2 🎯 Suggested Job Roles",
-    "text": "3.2 🎯 Suggested Job Roles\nBased on AI-driven industry shifts, the following careers offer high salaries & long-term stability:\n\n\n\n\n\n\n\n\n\nJob Title\nAI-Powered?\nFuture-Proof?\nAvg. Salary\n\n\n\n\nAI Engineer\n✅ Yes\n✅ High\n$150,000\n\n\nData Scientist\n✅ Yes\n✅ High\n$125,000\n\n\nAI Ethics & Compliance Expert\n✅ Yes\n✅ High\n$110,000\n\n\nUX Designer (AI Interfaces)\n✅ Yes\n✅ High\n$95,000\n\n\nRobotics Engineer\n✅ Yes\n✅ High\n$130,000"
-  },
-  {
-    "objectID": "index.html#resume-ats-optimization",
-    "href": "index.html#resume-ats-optimization",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "3.3 📌 Resume & ATS Optimization",
-    "text": "3.3 📌 Resume & ATS Optimization\nTo beat AI-powered hiring systems, job seekers must:\n✔ Use AI-friendly keywords (skills like Python, TensorFlow, NLP)\n✔ Quantify achievements (e.g., “Improved AI model accuracy by 30%”)\n✔ Customize applications for each job (avoid generic resumes)\n\n“AI is choosing who gets hired – learn how to game the system.”\n\n\n\n3.3.1 4️⃣ references.bib (Citations & Sources)\nAdd this to your references.bib file.\n```bibtex (article?){hershberg2023ghosting, author = {Herschberg, Mark A.}, title = {Why Companies Ghost Candidates and What To Do About It}, journal = {Medium}, year = {2023}, url = {https://medium.com/(markaherschberg/why-companies-ghost-candidates-and-what-to-do-about-it-be955bbbdd7c?)} }\n(article?){weforum2023jobs, author = {World Economic Forum}, title = {AI and Job Displacement: The 2023 Report}, journal = {World Economic Forum}, year = {2023}, url = {https://www.weforum.org/stories/2023/05/jobs-lost-created-ai-gpt/} }\n(article?){visualcapitalist2024salaries, author = {Visual Capitalist}, title = {Charted: The Jobs Most Impacted by AI}, journal = {Visual Capitalist}, year = {2024}, url = {https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/} }"
+    "objectID": "index.html#citation-format",
+    "href": "index.html#citation-format",
+    "title": "Home",
+    "section": "4.1 Citation Format",
+    "text": "4.1 Citation Format\nAll references are managed via references.bib and formatted using csl/econometrica.csl."
   },
   {
     "objectID": "career-strategy.html",
     "href": "career-strategy.html",
-    "title": "Career Strategy in the Age of AI",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
     "section": "",
-    "text": "AI is automating entire job sectors, but it’s also creating new, high-paying opportunities. Our goal? Stay ahead of AI, not behind it.\n\n\n\n\nAI is great at repetitive, rule-based tasks, making some jobs vulnerable. Here’s where AI is replacing humans:\n\nClerical Work → AI handles data entry, secretarial tasks, office assistants\n\nBank Tellers & Cashiers → ATMs & mobile banking apps\n\nCustomer Service Agents → AI chatbots are answering 24/7\n\nRetail Workers → Self-checkout kiosks & automated supply chains\n\nTelemarketers → AI voice assistants are relentless\n(Source: World Economic Forum)\n\n\n\n\n\nSome highly human skills will always be in demand. Here’s where AI is creating new jobs:\n\nData Science & AI Engineering → The backbone of AI innovation\n\nAI Ethics & Compliance → Regulating AI use & preventing bias\n\nHealthcare AI Specialists → AI-powered diagnostics, medical data science\n\nCybersecurity Experts → Defending against AI-powered threats\n\nUX & Human-Centered AI Designers → Making AI work for people\n\nSurvival Tip: If AI can’t easily replicate creativity, emotional intelligence, or strategic thinking, that’s a safe career.\n\n\n\n\nAI jobs are paying 77.53% more than traditional jobs!\n(Source: Visual Capitalist)\n\n\n\nJob Role\nAverage Salary\n\n\n\n\nAI Engineer\n$160,000\n\n\nMachine Learning Scientist\n$150,000\n\n\nData Scientist\n$140,000\n\n\nCybersecurity Analyst\n$120,000\n\n\nAI UX Designer\n$110,000\n\n\nTraditional IT Role (SysAdmin)\n$80,000\n\n\n\nIf you’re not in AI-related fields yet, NOW is the time to pivot.\n\n\n\n\nDid you know 75% of resumes get auto-rejected by Applicant Tracking Systems (ATS)?\n(Source: UMass Career Center)\n\n\n✅ Use AI-friendly Keywords → Match job descriptions EXACTLY\n✅ Simple Formatting → No fancy fonts, tables, or images\n✅ Job Title Tweaks → Adjust titles to fit employer expectations\n✅ Skills Section Must Have: Python, SQL, AI, ML, Data Analytics\n✅ Submit in PDF Format → Prevent formatting errors\n\n\n\n\n\n\n\n\nTake online courses (Coursera, Udemy, Google AI)\nMaster Python, SQL, Machine Learning, and Prompt Engineering\nJoin AI hackathons (Kaggle, DrivenData)\n\n\n\n\n\nConnect with AI recruiters on LinkedIn\n\nAttend AI & Tech Conferences (Google I/O, NeurIPS)\n\nEngage in GitHub Projects & showcase your work\n\n\n\n\n\nWrite AI-related articles on Medium\n\nCreate an AI Portfolio Website with Quarto\n\nPost AI projects & research on LinkedIn\n\n\n\n\n\n\n\n\n\nGreenhouse. (2024). Ghosting in the Hiring Process: Job Seeker Frustrations. Retrieved from CNBC\nHerschberg, M. (2024). Why Companies Ghost Candidates & What To Do About It. Medium\nWorld Economic Forum. (2023). Jobs Lost and Created by AI & GPT. Retrieved from WEF\nUMass Career Center. (2024). How to Beat the ATS (Applicant Tracking System). Isenberg UMass\nVisual Capitalist. (2024). AI Careers vs Traditional Jobs: Salary Insights. Retrieved from Visual Capitalist"
+    "text": "The rapid rise of AI-powered careers has left many job seekers wondering: “Should I pivot towards AI, or are traditional careers still viable?”\nThis section provides a data-driven roadmap for career success in 2024, including in-demand skills, high-paying roles, and resume optimization strategies."
   },
   {
-    "objectID": "career-strategy.html#ai-is-hereadapt-or-be-automated",
-    "href": "career-strategy.html#ai-is-hereadapt-or-be-automated",
-    "title": "Career Strategy in the Age of AI",
+    "objectID": "career-strategy.html#introduction",
+    "href": "career-strategy.html#introduction",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
     "section": "",
-    "text": "AI is automating entire job sectors, but it’s also creating new, high-paying opportunities. Our goal? Stay ahead of AI, not behind it."
+    "text": "The rapid rise of AI-powered careers has left many job seekers wondering: “Should I pivot towards AI, or are traditional careers still viable?”\nThis section provides a data-driven roadmap for career success in 2024, including in-demand skills, high-paying roles, and resume optimization strategies."
   },
   {
-    "objectID": "career-strategy.html#jobs-ai-is-stealing",
-    "href": "career-strategy.html#jobs-ai-is-stealing",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "AI is great at repetitive, rule-based tasks, making some jobs vulnerable. Here’s where AI is replacing humans:\n\nClerical Work → AI handles data entry, secretarial tasks, office assistants\n\nBank Tellers & Cashiers → ATMs & mobile banking apps\n\nCustomer Service Agents → AI chatbots are answering 24/7\n\nRetail Workers → Self-checkout kiosks & automated supply chains\n\nTelemarketers → AI voice assistants are relentless\n(Source: World Economic Forum)"
+    "objectID": "career-strategy.html#the-most-in-demand-ai-tech-skills",
+    "href": "career-strategy.html#the-most-in-demand-ai-tech-skills",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "2 1️⃣ The Most In-Demand AI & Tech Skills",
+    "text": "2 1️⃣ The Most In-Demand AI & Tech Skills\nAI-driven careers require specific skill sets that are increasingly in demand. Below are the top technical and soft skills for AI-related roles.\n\n\n\n\n\n\n\nCategory\nKey Skills in Demand (2024)\n\n\n\n\nTechnical Skills\nPython, Machine Learning, Deep Learning, SQL, NLP\n\n\nData Skills\nData Science, Business Analytics, Visualization\n\n\nCloud & DevOps\nAWS, Azure, Kubernetes, MLOps\n\n\nSoft Skills\nCritical Thinking, AI Ethics, Problem-Solving\n\n\n\n✅ Tip: Learning AI-powered tools like ChatGPT, TensorFlow, and Power BI can boost your resume."
   },
   {
-    "objectID": "career-strategy.html#ai-proof-careers-future-proof-job-roles",
-    "href": "career-strategy.html#ai-proof-careers-future-proof-job-roles",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Some highly human skills will always be in demand. Here’s where AI is creating new jobs:\n\nData Science & AI Engineering → The backbone of AI innovation\n\nAI Ethics & Compliance → Regulating AI use & preventing bias\n\nHealthcare AI Specialists → AI-powered diagnostics, medical data science\n\nCybersecurity Experts → Defending against AI-powered threats\n\nUX & Human-Centered AI Designers → Making AI work for people\n\nSurvival Tip: If AI can’t easily replicate creativity, emotional intelligence, or strategic thinking, that’s a safe career."
+    "objectID": "career-strategy.html#interactive-visualization-ai-vs.-non-ai-job-salaries",
+    "href": "career-strategy.html#interactive-visualization-ai-vs.-non-ai-job-salaries",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "3 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries",
+    "text": "3 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries"
   },
   {
-    "objectID": "career-strategy.html#salary-trends-how-much-is-ai-paying",
-    "href": "career-strategy.html#salary-trends-how-much-is-ai-paying",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "AI jobs are paying 77.53% more than traditional jobs!\n(Source: Visual Capitalist)\n\n\n\nJob Role\nAverage Salary\n\n\n\n\nAI Engineer\n$160,000\n\n\nMachine Learning Scientist\n$150,000\n\n\nData Scientist\n$140,000\n\n\nCybersecurity Analyst\n$120,000\n\n\nAI UX Designer\n$110,000\n\n\nTraditional IT Role (SysAdmin)\n$80,000\n\n\n\nIf you’re not in AI-related fields yet, NOW is the time to pivot."
+    "objectID": "career-strategy.html#career-strategy-recommendations",
+    "href": "career-strategy.html#career-strategy-recommendations",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "4 3️⃣ Career Strategy Recommendations",
+    "text": "4 3️⃣ Career Strategy Recommendations\nHere are six practical career strategies for adapting to AI-driven job market changes:\n\nInvest in AI & Data Science Skills 📊\n\nLearn Python, Machine Learning, and AI-driven analytics.\n\nTake courses in Natural Language Processing (NLP) and Big Data.\n\nTarget High-Growth AI Industries 🚀\n\nPrioritize careers in finance, tech, and healthcare, where AI adoption is rising.\n\nEmbrace AI-Powered Work Environments 💡\n\nStay ahead by using automation tools and AI-powered platforms in daily tasks.\n\nDevelop Soft Skills for AI Collaboration 🤝\n\nStrengthen critical thinking, creativity, and emotional intelligence to work effectively alongside AI.\n\nBuild interdisciplinary skills (e.g., combining AI with marketing, finance, or healthcare).\n\nBuild an AI-Enhanced Personal Brand 🌐\n\nUse LinkedIn, GitHub, and personal blogs to showcase AI-related projects.\n\nPublish AI-driven case studies or portfolio projects to attract employers.\n\nStay Updated with Emerging AI Trends 📢\n\nFollow AI industry leaders, attend conferences, and take part in AI hackathons.\n\nSubscribe to AI-focused publications like MIT Technology Review, Google AI Blog, and OpenAI research."
   },
   {
-    "objectID": "career-strategy.html#resume-ats-optimization-beat-the-bots",
-    "href": "career-strategy.html#resume-ats-optimization-beat-the-bots",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Did you know 75% of resumes get auto-rejected by Applicant Tracking Systems (ATS)?\n(Source: UMass Career Center)\n\n\n✅ Use AI-friendly Keywords → Match job descriptions EXACTLY\n✅ Simple Formatting → No fancy fonts, tables, or images\n✅ Job Title Tweaks → Adjust titles to fit employer expectations\n✅ Skills Section Must Have: Python, SQL, AI, ML, Data Analytics\n✅ Submit in PDF Format → Prevent formatting errors"
-  },
-  {
-    "objectID": "career-strategy.html#action-plan-how-to-stay-competitive",
-    "href": "career-strategy.html#action-plan-how-to-stay-competitive",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Take online courses (Coursera, Udemy, Google AI)\nMaster Python, SQL, Machine Learning, and Prompt Engineering\nJoin AI hackathons (Kaggle, DrivenData)\n\n\n\n\n\nConnect with AI recruiters on LinkedIn\n\nAttend AI & Tech Conferences (Google I/O, NeurIPS)\n\nEngage in GitHub Projects & showcase your work\n\n\n\n\n\nWrite AI-related articles on Medium\n\nCreate an AI Portfolio Website with Quarto\n\nPost AI projects & research on LinkedIn"
+    "objectID": "career-strategy.html#personal-career-plan",
+    "href": "career-strategy.html#personal-career-plan",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "5 4️⃣ Personal Career Plan",
+    "text": "5 4️⃣ Personal Career Plan\nEach job seeker should create a customized roadmap based on their career goals. This includes:\n\nSkill Development: Identify technical and soft skills required for your desired role.\n\nIndustry Research: Follow hiring trends in AI and traditional careers.\n\nResume Optimization: Tailor your resume with AI-related skills and projects."
   },
   {
     "objectID": "career-strategy.html#references",
     "href": "career-strategy.html#references",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Greenhouse. (2024). Ghosting in the Hiring Process: Job Seeker Frustrations. Retrieved from CNBC\nHerschberg, M. (2024). Why Companies Ghost Candidates & What To Do About It. Medium\nWorld Economic Forum. (2023). Jobs Lost and Created by AI & GPT. Retrieved from WEF\nUMass Career Center. (2024). How to Beat the ATS (Applicant Tracking System). Isenberg UMass\nVisual Capitalist. (2024). AI Careers vs Traditional Jobs: Salary Insights. Retrieved from Visual Capitalist"
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "6 References",
+    "text": "6 References\n\n\n\nQuarto will automatically format citations from references.bib in Econometrica style."
   },
   {
     "objectID": "ad688-employability-sp25A3-group-4/findings.html",
     "href": "ad688-employability-sp25A3-group-4/findings.html",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
     "section": "",
-    "text": "Job hunting in 2024 is a rollercoaster—except it’s less “fun amusement park” and more “trapped in a Zoom call with no exit.” AI is taking jobs, recruiters are ghosting, and salary gaps are growing faster than my stress levels.\nThis report is for job seekers who just want answers—not generic LinkedIn advice like “just be yourself!” (We tried that, and yet here we are, still unemployed).\n\n\n\nIs AI helping or ruining careers? (Spoiler: It depends.)\nWhy do recruiters ghost more than bad Tinder dates?\nWho’s getting the best salaries, and is it too late to switch careers?\nHow do you actually beat Applicant Tracking Systems (ATS)?\n\nUsing data from Lightcast, World Economic Forum, and hiring platforms, we analyze trends and give realistic career advice. Buckle up—this might hurt, but at least it’s honest.\n\n\n\n\n\n\n\ntitle: “Job Market Findings: AI, Ghosting, & Salary Drama” format: html toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#yaml",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#yaml",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#introduction",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#introduction",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
     "section": "",
-    "text": "title: “Job Market Findings: AI, Ghosting, & Salary Drama” format: html toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#the-ghosting-epidemic-when-recruiters-disappear",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#the-ghosting-epidemic-when-recruiters-disappear",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.1 1. The Ghosting Epidemic: When Recruiters Disappear",
-    "text": "2.1 1. The Ghosting Epidemic: When Recruiters Disappear\nGhosting is no longer just for dating. A 2024 survey found that 52% of job seekers never heard back after multiple interview rounds (Herschberg, 2024).\n\n2.1.1 Why Do Companies Ghost?\n\nInternal Chaos: Budget cuts, layoffs, or leadership playing “musical chairs.”\nRecruiter Burnout: Some recruiters manage hundreds of applicants per job (so yes, your “just checking in” email is lost in the abyss).\nFake Jobs? Yep. Some listings are just for show—used to collect resumes or gauge market interest (Herschberg, 2024).\n\n\n\n2.1.2 How to Beat the Ghosting Game\n\nAlways ask for a hiring timeline. If they don’t give one, it’s a red flag.\nFollow up—but no begging. Twice is enough. After that, move on.\nNetwork like your career depends on it (because it does). Referrals triple your chances of getting hired (Greenhouse, 2024)."
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#the-state-of-ai-powered-job-growth",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#the-state-of-ai-powered-job-growth",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "2 1️⃣ The State of AI-Powered Job Growth",
+    "text": "2 1️⃣ The State of AI-Powered Job Growth\n\n2.1 1.1 AI’s Impact on Different Industries\nNot all industries are affected by AI at the same rate. Here’s a comparison of AI-driven job creation vs. displacement:\n\n\n\n\n\n\n\n\nIndustry\nJobs Created by AI\nJobs Lost Due to AI\n\n\n\n\nTech & Data Science\nAI Engineers, Data Scientists, ML Experts\nSome Software Testing Roles\n\n\nFinance\nAI Risk Analysts, Algorithmic Traders\nBank Tellers, Loan Officers\n\n\nManufacturing\nAI-Assisted Robotics Engineers\nAssembly Line Workers\n\n\nRetail & Customer Service\nAI Chatbot Developers, E-commerce Analysts\nCashiers, Call Center Agents\n\n\nHealthcare\nAI Radiologists, Bioinformatics Experts\nManual Data Entry Jobs\n\n\nMarketing & Advertising\nAI-Powered Content Creators, SEO Analysts\nTraditional Copywriters\n\n\n\n✅ Finding: AI is not purely eliminating jobs—it is reshaping existing roles and demanding new skill sets."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#ai-is-stealing-jobs-and-creating-new-ones",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#ai-is-stealing-jobs-and-creating-new-ones",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.2 2. AI Is Stealing Jobs (And Creating New Ones)",
-    "text": "2.2 2. AI Is Stealing Jobs (And Creating New Ones)\nAI isn’t just replacing workers—it’s reshaping entire industries. The World Economic Forum predicts 85 million jobs will disappear by 2025, but 97 million new ones will emerge (WEF, 2023). So, it’s like musical chairs… but with robots.\n\n2.2.1 Jobs Most at Risk:\n\nClerical/Admin: If your job involves copy-pasting all day, AI has bad news for you.\nCustomer Support: Chatbots are stealing jobs faster than customers can say, “I want to speak to a manager!”\nManufacturing & Retail: Self-checkouts don’t call in sick.\n\n\n\n2.2.2 Jobs AI is Creating\n\nAI Ethics Consultants: Someone has to stop AI from ruining everything.\nData Analysts & Scientists: AI needs humans to fix its mistakes.\nCybersecurity Experts: AI is smart, but hackers are smarter."
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#ai-vs.-non-ai-career-salary-trends",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#ai-vs.-non-ai-career-salary-trends",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "3 2️⃣ AI vs. Non-AI Career Salary Trends",
+    "text": "3 2️⃣ AI vs. Non-AI Career Salary Trends\nWith AI skills becoming a premium in the job market, salaries in AI-powered careers have surged. Below is a comparison of AI vs. Non-AI salaries in 2024.\n\n\n\n\n\n\n\n\nJob Role\nAI-Powered Career?\nAverage Salary (2024)\n\n\n\n\nMachine Learning Engineer\n✅ Yes\n$140,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nAI Risk Analyst (Finance)\n✅ Yes\n$118,000\n\n\nSoftware Developer\n❌ No\n$95,000\n\n\nMechanical Engineer\n❌ No\n$85,000\n\n\nCustomer Service Representative\n❌ No\n$45,000\n\n\n\n✅ Finding: AI-based careers offer higher salaries than traditional roles, making AI skills highly desirable."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#ai-vs.-non-ai-salaries-whos-winning",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#ai-vs.-non-ai-salaries-whos-winning",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.3 3. AI vs. Non-AI Salaries: Who’s Winning?",
-    "text": "2.3 3. AI vs. Non-AI Salaries: Who’s Winning?\nWant a six-figure salary? Learn AI. AI-driven roles are paying 77.53% more than traditional jobs (Visual Capitalist, 2023).\n\n\n\nJob Role\nAverage Salary (2024)\n\n\n\n\nAI Research Scientist\n$170,000\n\n\nMachine Learning Engineer\n$145,000\n\n\nCybersecurity Specialist\n$130,000\n\n\nData Scientist\n$120,000\n\n\nAccountant\n$70,000\n\n\nCustomer Support Agent\n$45,000\n\n\n\nTakeaway: If you’re still debating a career change, now’s the time."
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#ai-job-automation-risks-who-is-at-risk",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#ai-job-automation-risks-who-is-at-risk",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "4 3️⃣ AI Job Automation Risks: Who Is at Risk?",
+    "text": "4 3️⃣ AI Job Automation Risks: Who Is at Risk?\nWhile AI is creating new jobs, it is also replacing human roles in certain industries. The World Economic Forum (2024) predicts that by 2025, AI will impact 85 million jobs, but 97 million new jobs will emerge.\nTop 3 At-Risk Job Categories: - Clerical Work: Data entry clerks, secretaries, and administrative assistants. - Retail & Banking: Cashiers, bank tellers, and call center agents. - Manufacturing & Logistics: Assembly line workers, truck drivers, and warehouse packers.\n✅ Finding: The job displacement risk is highest for repetitive, rule-based tasks—but AI-driven reskilling can mitigate this risk."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#updated-career-strategy.qmd-career-strategy-guide",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#updated-career-strategy.qmd-career-strategy-guide",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.4 3. Updated career-strategy.qmd (Career Strategy Guide)",
-    "text": "2.4 3. Updated career-strategy.qmd (Career Strategy Guide)"
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#the-rise-of-new-ai-powered-job-titles",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#the-rise-of-new-ai-powered-job-titles",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "5 4️⃣ The Rise of New AI-Powered Job Titles",
+    "text": "5 4️⃣ The Rise of New AI-Powered Job Titles\nDespite concerns about automation, entirely new job categories are emerging in AI-dominated industries.\n\n\n\n\n\n\n\nNew AI-Driven Roles\nDescription\n\n\n\n\nPrompt Engineers\nSpecialize in fine-tuning AI-generated content.\n\n\nAI Ethics Officers\nEnsure AI is used responsibly.\n\n\nAI-Powered Marketing Analysts\nLeverage AI to optimize digital campaigns.\n\n\nAutomation Engineers\nDesign AI-driven automation for businesses.\n\n\n\n✅ Finding: AI is not just destroying jobs—it is actively creating new ones that never existed before."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#yaml-1",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#yaml-1",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.5 ```yaml",
-    "text": "2.5 ```yaml\ntitle: “Your Career Survival Guide for 2024” format: html toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#key-takeaways-career-recommendations",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#key-takeaways-career-recommendations",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "6 5️⃣ Key Takeaways & Career Recommendations",
+    "text": "6 5️⃣ Key Takeaways & Career Recommendations\n\n6.1 5.1 Summary of Findings\n📌 AI is not purely replacing jobs—it is reshaping them.\n📌 AI-powered roles command higher salaries than traditional roles.\n📌 Some jobs face displacement, but new AI careers are emerging.\n\n\n6.2 5.2 What Should Job Seekers Do?\n\nInvest in AI-related skills: Learning machine learning, Python, and AI-driven analytics will increase job security.\nTarget high-growth AI industries: Finance, healthcare, and tech are leading in AI adoption.\nAdapt to AI-powered work environments: Understanding AI tools will help traditional job roles remain relevant."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#in-demand-skills-that-actually-matter",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#in-demand-skills-that-actually-matter",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "3.1 1. In-Demand Skills That Actually Matter",
-    "text": "3.1 1. In-Demand Skills That Actually Matter\nIf you want job security, forget “teamwork” and “communication” on your resume—these skills will get you hired:\n\nMachine Learning & AI (Python, TensorFlow, PyTorch)\nData Science & Analytics (SQL, R, data visualization)\nCybersecurity (Cloud security, ethical hacking)\nMarketing Analytics (SEO, AI-driven campaigns)\nProject Management (Agile, Scrum, Jira)\n\nHow to Learn These Skills - Google Certificates (Free on Coursera) - Udemy & YouTube (Free AI courses exist!) - Build a portfolio (Hiring managers love real-world projects)."
-  },
-  {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#best-paying-job-roles-in-2024",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#best-paying-job-roles-in-2024",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "3.2 2. Best-Paying Job Roles in 2024",
-    "text": "3.2 2. Best-Paying Job Roles in 2024\nIf you’re not making at least $100K, consider switching careers. Here’s where the biggest paychecks are:\n\n\n\nJob Title\n2024 Average Salary\n\n\n\n\nAI Engineer\n$150,000\n\n\nCybersecurity Analyst\n$135,000\n\n\nCloud Architect\n$140,000\n\n\nDigital Marketing Analyst\n$105,000\n\n\nData Scientist\n$120,000\n\n\n\nKey Insight: Traditional careers are falling behind. Even marketing analysts now need AI skills to stay relevant."
-  },
-  {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#yaml-2",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#yaml-2",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "4.1 ```yaml",
-    "text": "4.1 ```yaml\nformat: html title: “References” —"
-  },
-  {
-    "objectID": "ad688-employability-sp25A3-group-4/findings.html#references-1",
-    "href": "ad688-employability-sp25A3-group-4/findings.html#references-1",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "4.2 References",
-    "text": "4.2 References\n\nGreenhouse. (2024). 52% of job seekers report recruiter ghosting. Retrieved from CNBC.\nHerschberg, M. (2024). Why Companies Ghost Candidates and What To Do About It. Retrieved from Medium.\nWorld Economic Forum. (2023). The Jobs AI is Creating (and Killing). Retrieved from WEF.\nVisual Capitalist. (2023). AI vs. Non-AI Salary Comparisons. Retrieved from Visual Capitalist."
+    "objectID": "ad688-employability-sp25A3-group-4/findings.html#references",
+    "href": "ad688-employability-sp25A3-group-4/findings.html#references",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "7 References",
+    "text": "7 References\n[Your citations will appear here.]"
   },
   {
     "objectID": "ad688-employability-sp25A3-group-4/about.html",
     "href": "ad688-employability-sp25A3-group-4/about.html",
     "title": "About This Project",
     "section": "",
-    "text": "This project explores how AI is reshaping the job market in 2024.\n\n\n\nVidhi A. Sharma\nSoham Deskhhaire\nNhan (Johnny) Huynh\n\n\n\n\nAs students applying for internships, we wanted to uncover why job applications often feel like sending messages into the void."
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/about.html#authors",
-    "href": "ad688-employability-sp25A3-group-4/about.html#authors",
+    "objectID": "ad688-employability-sp25A3-group-4/about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
+    "href": "ad688-employability-sp25A3-group-4/about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
     "title": "About This Project",
     "section": "",
-    "text": "Vidhi A. Sharma\nSoham Deskhhaire\nNhan (Johnny) Huynh"
-  },
-  {
-    "objectID": "ad688-employability-sp25A3-group-4/about.html#why-we-did-this-project",
-    "href": "ad688-employability-sp25A3-group-4/about.html#why-we-did-this-project",
-    "title": "About This Project",
-    "section": "",
-    "text": "As students applying for internships, we wanted to uncover why job applications often feel like sending messages into the void."
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About This Project",
     "section": "",
-    "text": "This project explores how AI is reshaping the job market in 2024.\n\n\n\nVidhi A. Sharma\nSoham Deskhhaire\nNhan (Johnny) Huynh\n\n\n\n\nAs students applying for internships, we wanted to uncover why job applications often feel like sending messages into the void."
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
   },
   {
-    "objectID": "about.html#authors",
-    "href": "about.html#authors",
+    "objectID": "about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
+    "href": "about.html#welcome-to-the-job-market-survival-guide-ai-vs.-humans-edition",
     "title": "About This Project",
     "section": "",
-    "text": "Vidhi A. Sharma\nSoham Deskhhaire\nNhan (Johnny) Huynh"
-  },
-  {
-    "objectID": "about.html#why-we-did-this-project",
-    "href": "about.html#why-we-did-this-project",
-    "title": "About This Project",
-    "section": "",
-    "text": "As students applying for internships, we wanted to uncover why job applications often feel like sending messages into the void."
+    "text": "In a world where AI is stealing jobs and creating new ones, we (a bunch of stressed-out graduate students) decided to investigate:\nIs AI actually replacing humans, or is it just another industry hype?\n\n\nBecause job hunting in 2024 feels like a game where AI gets all the power-ups while we, the humble human job seekers, are stuck grinding for XP.\nWe wanted to analyze: ✅ AI vs. Non-AI job growth – Are humans still relevant?\n✅ Salary trends – Does AI work pay more, or are robots underpaid?\n✅ Resume hacks – Beating AI at its own game (ATS filtering).\n\n\n\nWe’re just a team of data-driven detectives, using Python, AI models, and analytics to crack the job market code.\nMeet the crew:\n- Vidhi A. Sharma – AI optimist (or just hopeful AI won’t take all jobs).\n- Soham Deshkhaire – Machine Learning enthusiast trying to outsmart AI.\n- Nhan (Johnny) Huynh – The coding wizard making all the magic happen.\n🚀 Our Goal: To create a research-driven career strategy so humans (us) can still land jobs in 2024!"
   },
   {
     "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html",
     "href": "ad688-employability-sp25A3-group-4/career-strategy.html",
-    "title": "Career Strategy in the Age of AI",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
     "section": "",
-    "text": "AI is automating entire job sectors, but it’s also creating new, high-paying opportunities. Our goal? Stay ahead of AI, not behind it.\n\n\n\n\nAI is great at repetitive, rule-based tasks, making some jobs vulnerable. Here’s where AI is replacing humans:\n\nClerical Work → AI handles data entry, secretarial tasks, office assistants\n\nBank Tellers & Cashiers → ATMs & mobile banking apps\n\nCustomer Service Agents → AI chatbots are answering 24/7\n\nRetail Workers → Self-checkout kiosks & automated supply chains\n\nTelemarketers → AI voice assistants are relentless\n(Source: World Economic Forum)\n\n\n\n\n\nSome highly human skills will always be in demand. Here’s where AI is creating new jobs:\n\nData Science & AI Engineering → The backbone of AI innovation\n\nAI Ethics & Compliance → Regulating AI use & preventing bias\n\nHealthcare AI Specialists → AI-powered diagnostics, medical data science\n\nCybersecurity Experts → Defending against AI-powered threats\n\nUX & Human-Centered AI Designers → Making AI work for people\n\nSurvival Tip: If AI can’t easily replicate creativity, emotional intelligence, or strategic thinking, that’s a safe career.\n\n\n\n\nAI jobs are paying 77.53% more than traditional jobs!\n(Source: Visual Capitalist)\n\n\n\nJob Role\nAverage Salary\n\n\n\n\nAI Engineer\n$160,000\n\n\nMachine Learning Scientist\n$150,000\n\n\nData Scientist\n$140,000\n\n\nCybersecurity Analyst\n$120,000\n\n\nAI UX Designer\n$110,000\n\n\nTraditional IT Role (SysAdmin)\n$80,000\n\n\n\nIf you’re not in AI-related fields yet, NOW is the time to pivot.\n\n\n\n\nDid you know 75% of resumes get auto-rejected by Applicant Tracking Systems (ATS)?\n(Source: UMass Career Center)\n\n\n✅ Use AI-friendly Keywords → Match job descriptions EXACTLY\n✅ Simple Formatting → No fancy fonts, tables, or images\n✅ Job Title Tweaks → Adjust titles to fit employer expectations\n✅ Skills Section Must Have: Python, SQL, AI, ML, Data Analytics\n✅ Submit in PDF Format → Prevent formatting errors\n—## Average Salaries by Industry \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTake online courses (Coursera, Udemy, Google AI)\nMaster Python, SQL, Machine Learning, and Prompt Engineering\nJoin AI hackathons (Kaggle, DrivenData)\n\n\n\n\n\nConnect with AI recruiters on LinkedIn\n\nAttend AI & Tech Conferences (Google I/O, NeurIPS)\n\nEngage in GitHub Projects & showcase your work\n\n\n\n\n\nWrite AI-related articles on Medium\n\nCreate an AI Portfolio Website with Quarto\n\nPost AI projects & research on LinkedIn\n\n\n\n\n\n\n\n\n\nGreenhouse. (2024). Ghosting in the Hiring Process: Job Seeker Frustrations. Retrieved from CNBC\nHerschberg, M. (2024). Why Companies Ghost Candidates & What To Do About It. Medium\nWorld Economic Forum. (2023). Jobs Lost and Created by AI & GPT. Retrieved from WEF\nUMass Career Center. (2024). How to Beat the ATS (Applicant Tracking System). Isenberg UMass\nVisual Capitalist. (2024). AI Careers vs Traditional Jobs: Salary Insights. Retrieved from Visual Capitalist"
+    "text": "The rapid rise of AI-powered careers has left many job seekers wondering: “Should I pivot towards AI, or are traditional careers still viable?”\nThis section provides a data-driven roadmap for career success in 2024, including in-demand skills, high-paying roles, and resume optimization strategies."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#ai-is-hereadapt-or-be-automated",
-    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#ai-is-hereadapt-or-be-automated",
-    "title": "Career Strategy in the Age of AI",
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#introduction",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#introduction",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
     "section": "",
-    "text": "AI is automating entire job sectors, but it’s also creating new, high-paying opportunities. Our goal? Stay ahead of AI, not behind it."
+    "text": "The rapid rise of AI-powered careers has left many job seekers wondering: “Should I pivot towards AI, or are traditional careers still viable?”\nThis section provides a data-driven roadmap for career success in 2024, including in-demand skills, high-paying roles, and resume optimization strategies."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#jobs-ai-is-stealing",
-    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#jobs-ai-is-stealing",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "AI is great at repetitive, rule-based tasks, making some jobs vulnerable. Here’s where AI is replacing humans:\n\nClerical Work → AI handles data entry, secretarial tasks, office assistants\n\nBank Tellers & Cashiers → ATMs & mobile banking apps\n\nCustomer Service Agents → AI chatbots are answering 24/7\n\nRetail Workers → Self-checkout kiosks & automated supply chains\n\nTelemarketers → AI voice assistants are relentless\n(Source: World Economic Forum)"
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#the-most-in-demand-ai-tech-skills",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#the-most-in-demand-ai-tech-skills",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "2 1️⃣ The Most In-Demand AI & Tech Skills",
+    "text": "2 1️⃣ The Most In-Demand AI & Tech Skills\nAI-driven careers require specific skill sets that are increasingly in demand. Below are the top technical and soft skills for AI-related roles.\n\n\n\n\n\n\n\nCategory\nKey Skills in Demand (2024)\n\n\n\n\nTechnical Skills\nPython, Machine Learning, Deep Learning, SQL, NLP\n\n\nData Skills\nData Science, Business Analytics, Visualization\n\n\nCloud & DevOps\nAWS, Azure, Kubernetes, MLOps\n\n\nSoft Skills\nCritical Thinking, AI Ethics, Problem-Solving\n\n\n\n✅ Tip: Learning AI-powered tools like ChatGPT, TensorFlow, and Power BI can boost your resume."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#ai-proof-careers-future-proof-job-roles",
-    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#ai-proof-careers-future-proof-job-roles",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Some highly human skills will always be in demand. Here’s where AI is creating new jobs:\n\nData Science & AI Engineering → The backbone of AI innovation\n\nAI Ethics & Compliance → Regulating AI use & preventing bias\n\nHealthcare AI Specialists → AI-powered diagnostics, medical data science\n\nCybersecurity Experts → Defending against AI-powered threats\n\nUX & Human-Centered AI Designers → Making AI work for people\n\nSurvival Tip: If AI can’t easily replicate creativity, emotional intelligence, or strategic thinking, that’s a safe career."
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#interactive-visualization-ai-vs.-non-ai-job-salaries",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#interactive-visualization-ai-vs.-non-ai-job-salaries",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "3 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries",
+    "text": "3 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries"
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#salary-trends-how-much-is-ai-paying",
-    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#salary-trends-how-much-is-ai-paying",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "AI jobs are paying 77.53% more than traditional jobs!\n(Source: Visual Capitalist)\n\n\n\nJob Role\nAverage Salary\n\n\n\n\nAI Engineer\n$160,000\n\n\nMachine Learning Scientist\n$150,000\n\n\nData Scientist\n$140,000\n\n\nCybersecurity Analyst\n$120,000\n\n\nAI UX Designer\n$110,000\n\n\nTraditional IT Role (SysAdmin)\n$80,000\n\n\n\nIf you’re not in AI-related fields yet, NOW is the time to pivot."
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#career-strategy-recommendations",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#career-strategy-recommendations",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "4 3️⃣ Career Strategy Recommendations",
+    "text": "4 3️⃣ Career Strategy Recommendations\nHere are six practical career strategies for adapting to AI-driven job market changes:\n\nInvest in AI & Data Science Skills 📊\n\nLearn Python, Machine Learning, and AI-driven analytics.\n\nTake courses in Natural Language Processing (NLP) and Big Data.\n\nTarget High-Growth AI Industries 🚀\n\nPrioritize careers in finance, tech, and healthcare, where AI adoption is rising.\n\nEmbrace AI-Powered Work Environments 💡\n\nStay ahead by using automation tools and AI-powered platforms in daily tasks.\n\nDevelop Soft Skills for AI Collaboration 🤝\n\nStrengthen critical thinking, creativity, and emotional intelligence to work effectively alongside AI.\n\nBuild interdisciplinary skills (e.g., combining AI with marketing, finance, or healthcare).\n\nBuild an AI-Enhanced Personal Brand 🌐\n\nUse LinkedIn, GitHub, and personal blogs to showcase AI-related projects.\n\nPublish AI-driven case studies or portfolio projects to attract employers.\n\nStay Updated with Emerging AI Trends 📢\n\nFollow AI industry leaders, attend conferences, and take part in AI hackathons.\n\nSubscribe to AI-focused publications like MIT Technology Review, Google AI Blog, and OpenAI research."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#resume-ats-optimization-beat-the-bots",
-    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#resume-ats-optimization-beat-the-bots",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Did you know 75% of resumes get auto-rejected by Applicant Tracking Systems (ATS)?\n(Source: UMass Career Center)\n\n\n✅ Use AI-friendly Keywords → Match job descriptions EXACTLY\n✅ Simple Formatting → No fancy fonts, tables, or images\n✅ Job Title Tweaks → Adjust titles to fit employer expectations\n✅ Skills Section Must Have: Python, SQL, AI, ML, Data Analytics\n✅ Submit in PDF Format → Prevent formatting errors\n—## Average Salaries by Industry"
-  },
-  {
-    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#action-plan-how-to-stay-competitive",
-    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#action-plan-how-to-stay-competitive",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Take online courses (Coursera, Udemy, Google AI)\nMaster Python, SQL, Machine Learning, and Prompt Engineering\nJoin AI hackathons (Kaggle, DrivenData)\n\n\n\n\n\nConnect with AI recruiters on LinkedIn\n\nAttend AI & Tech Conferences (Google I/O, NeurIPS)\n\nEngage in GitHub Projects & showcase your work\n\n\n\n\n\nWrite AI-related articles on Medium\n\nCreate an AI Portfolio Website with Quarto\n\nPost AI projects & research on LinkedIn"
+    "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#personal-career-plan",
+    "href": "ad688-employability-sp25A3-group-4/career-strategy.html#personal-career-plan",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "5 4️⃣ Personal Career Plan",
+    "text": "5 4️⃣ Personal Career Plan\nEach job seeker should create a customized roadmap based on their career goals. This includes:\n\nSkill Development: Identify technical and soft skills required for your desired role.\n\nIndustry Research: Follow hiring trends in AI and traditional careers.\n\nResume Optimization: Tailor your resume with AI-related skills and projects."
   },
   {
     "objectID": "ad688-employability-sp25A3-group-4/career-strategy.html#references",
     "href": "ad688-employability-sp25A3-group-4/career-strategy.html#references",
-    "title": "Career Strategy in the Age of AI",
-    "section": "",
-    "text": "Greenhouse. (2024). Ghosting in the Hiring Process: Job Seeker Frustrations. Retrieved from CNBC\nHerschberg, M. (2024). Why Companies Ghost Candidates & What To Do About It. Medium\nWorld Economic Forum. (2023). Jobs Lost and Created by AI & GPT. Retrieved from WEF\nUMass Career Center. (2024). How to Beat the ATS (Applicant Tracking System). Isenberg UMass\nVisual Capitalist. (2024). AI Careers vs Traditional Jobs: Salary Insights. Retrieved from Visual Capitalist"
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "6 References",
+    "text": "6 References\n\n\n\nQuarto will automatically format citations from references.bib in Econometrica style."
   },
   {
     "objectID": "ad688-employability-sp25A3-group-4/index.html",
     "href": "ad688-employability-sp25A3-group-4/index.html",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
+    "title": "Home",
     "section": "",
-    "text": "Artificial Intelligence is reshaping the global workforce. From automation replacing clerical jobs to AI creating entirely new industries, the job market is undergoing a rapid transformation.\n\nWho wins and who loses?\n\nWhich industries are AI-powered and which ones remain untouched?\n\nHow should job seekers adapt to this shift?\n\nThis report analyzes real-world job market data to separate hype from reality.\n🔍 Key Insights:\n✔ AI-driven job loss vs. job creation\n✔ Salary trends: AI-powered careers vs. traditional roles\n✔ Emerging job titles due to AI advancements\n✔ Strategies for future-proofing careers\n\n“The robots are coming for your jobs!”\nBut are they really? Let’s analyze the data.\n\n\n\n\nOur findings are based on real job market data from Lightcast, the World Economic Forum, and labor market reports.\n➡ Visualizations & interactive charts included!\n👥 Authors: Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh\n📅 Published: 2024\n📂 GitHub Repository: Project Link\n\n\n\n\n\n\n\ntitle: “Key Findings: AI vs. Non-AI Careers” format: html: toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "text": "This website explores the impact of AI on employment trends, focusing on job displacement and creation in the modern workforce.\n\n\n\nThe rise of AI-driven automation.\nKey industries affected.\nStrategies for career adaptation.\n\n\n\n\nCitations will be formatted automatically using references.bib.\n\ntitle: “Findings”"
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#data-driven-approach",
-    "href": "ad688-employability-sp25A3-group-4/index.html#data-driven-approach",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
+    "objectID": "ad688-employability-sp25A3-group-4/index.html#overview",
+    "href": "ad688-employability-sp25A3-group-4/index.html#overview",
+    "title": "Home",
     "section": "",
-    "text": "Our findings are based on real job market data from Lightcast, the World Economic Forum, and labor market reports.\n➡ Visualizations & interactive charts included!\n👥 Authors: Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh\n📅 Published: 2024\n📂 GitHub Repository: Project Link"
+    "text": "The rise of AI-driven automation.\nKey industries affected.\nStrategies for career adaptation."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#yaml",
-    "href": "ad688-employability-sp25A3-group-4/index.html#yaml",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
+    "objectID": "ad688-employability-sp25A3-group-4/index.html#references",
+    "href": "ad688-employability-sp25A3-group-4/index.html#references",
+    "title": "Home",
     "section": "",
-    "text": "title: “Key Findings: AI vs. Non-AI Careers” format: html: toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "text": "Citations will be formatted automatically using references.bib.\n\ntitle: “Findings”"
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#jobs-ai-is-replacing",
-    "href": "ad688-employability-sp25A3-group-4/index.html#jobs-ai-is-replacing",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.1 📉 Jobs AI Is Replacing",
-    "text": "2.1 📉 Jobs AI Is Replacing\nAI-driven automation is rapidly eliminating traditional jobs across industries:\n📌 Clerical & Admin Work → Data Entry Clerks, Secretaries\n📌 Retail & Banking → Cashiers, Bank Tellers\n📌 Customer Service → AI Chatbots replacing human agents\n📌 Manufacturing → Automated assembly lines replacing factory workers\n\n“Machines don’t call in sick, but they also don’t innovate.” – Industry Expert"
+    "objectID": "ad688-employability-sp25A3-group-4/index.html#ai-job-market-trends",
+    "href": "ad688-employability-sp25A3-group-4/index.html#ai-job-market-trends",
+    "title": "Home",
+    "section": "2.1 AI Job Market Trends",
+    "text": "2.1 AI Job Market Trends\nRecent studies indicate that AI is reshaping industries, leading to shifts in employment patterns (Forum (2024))."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#ai-powered-job-growth",
-    "href": "ad688-employability-sp25A3-group-4/index.html#ai-powered-job-growth",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.2 📈 AI-Powered Job Growth",
-    "text": "2.2 📈 AI-Powered Job Growth\nDespite job losses, AI is creating new career opportunities:\n✔ Data Science & AI Engineering → 400% increase in job postings\n✔ Cybersecurity Analysts → High demand due to AI-driven fraud risks\n✔ AI Ethics & Compliance Experts → Regulatory demand is booming\n✔ Healthcare AI Specialists → AI-assisted diagnostics & robotics surgery\n💡 Industries experiencing AI-powered growth:\nTech, Finance, Healthcare, E-Commerce, Cybersecurity"
+    "objectID": "ad688-employability-sp25A3-group-4/index.html#salary-trends",
+    "href": "ad688-employability-sp25A3-group-4/index.html#salary-trends",
+    "title": "Home",
+    "section": "2.2 Salary Trends",
+    "text": "2.2 Salary Trends\nHigh-paying AI jobs continue to emerge, creating lucrative opportunities for skilled professionals (BizReport (2024))."
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#salary-comparisons-ai-vs.-traditional-careers",
-    "href": "ad688-employability-sp25A3-group-4/index.html#salary-comparisons-ai-vs.-traditional-careers",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.3 💰 Salary Comparisons: AI vs. Traditional Careers",
-    "text": "2.3 💰 Salary Comparisons: AI vs. Traditional Careers\n\n\n\nJob Role\nAI-Powered?\nAverage Salary (USD)\n\n\n\n\nAI Engineer\n✅ Yes\n$150,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nSoftware Developer\n✅ Yes\n$110,000\n\n\nManufacturing Technician\n❌ No\n$50,000\n\n\nRetail Cashier\n❌ No\n$30,000\n\n\n\n📊 Visualizations:\n✅ Salary trends by industry\n✅ Job growth vs. decline\n✅ AI job market expansion\n\nAdapt or be automated. The choice is yours.\n\n\n\n2.3.1 3️⃣ career-strategy.qmd (Future Career Strategies)"
+    "objectID": "ad688-employability-sp25A3-group-4/index.html#additional-references",
+    "href": "ad688-employability-sp25A3-group-4/index.html#additional-references",
+    "title": "Home",
+    "section": "2.3 Additional References",
+    "text": "2.3 Additional References\n\nElgar Online Study on AI and Job Growth: Elgar Online\nScienceDirect Study on AI-Driven Employment Trends: ScienceDirect\n\n\ntitle: “Career Strategy”"
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#yaml-1",
-    "href": "ad688-employability-sp25A3-group-4/index.html#yaml-1",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "2.4 ```yaml",
-    "text": "2.4 ```yaml\ntitle: “Career Strategy: Thriving in the AI Era” format: html: toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "objectID": "ad688-employability-sp25A3-group-4/index.html#key-resources",
+    "href": "ad688-employability-sp25A3-group-4/index.html#key-resources",
+    "title": "Home",
+    "section": "3.1 Key Resources",
+    "text": "3.1 Key Resources\n\nAI Career Skills Study (Forbes (2024)).\n\n\ntitle: “About”"
   },
   {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#in-demand-skills-2024-beyond",
-    "href": "ad688-employability-sp25A3-group-4/index.html#in-demand-skills-2024-beyond",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "3.1 🚀 In-Demand Skills (2024 & Beyond)",
-    "text": "3.1 🚀 In-Demand Skills (2024 & Beyond)\nTo remain competitive, professionals must focus on AI-proof skills:\n📌 Machine Learning & Data Science → AI-driven automation & analytics\n📌 Cybersecurity & Ethical Hacking → Protecting AI-powered systems\n📌 AI Ethics & Governance → Managing bias & compliance in AI\n📌 Creativity & Human-Centered Skills → AI can’t replace emotional intelligence"
-  },
-  {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#suggested-job-roles",
-    "href": "ad688-employability-sp25A3-group-4/index.html#suggested-job-roles",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "3.2 🎯 Suggested Job Roles",
-    "text": "3.2 🎯 Suggested Job Roles\nBased on AI-driven industry shifts, the following careers offer high salaries & long-term stability:\n\n\n\n\n\n\n\n\n\nJob Title\nAI-Powered?\nFuture-Proof?\nAvg. Salary\n\n\n\n\nAI Engineer\n✅ Yes\n✅ High\n$150,000\n\n\nData Scientist\n✅ Yes\n✅ High\n$125,000\n\n\nAI Ethics & Compliance Expert\n✅ Yes\n✅ High\n$110,000\n\n\nUX Designer (AI Interfaces)\n✅ Yes\n✅ High\n$95,000\n\n\nRobotics Engineer\n✅ Yes\n✅ High\n$130,000"
-  },
-  {
-    "objectID": "ad688-employability-sp25A3-group-4/index.html#resume-ats-optimization",
-    "href": "ad688-employability-sp25A3-group-4/index.html#resume-ats-optimization",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
-    "section": "3.3 📌 Resume & ATS Optimization",
-    "text": "3.3 📌 Resume & ATS Optimization\nTo beat AI-powered hiring systems, job seekers must:\n✔ Use AI-friendly keywords (skills like Python, TensorFlow, NLP)\n✔ Quantify achievements (e.g., “Improved AI model accuracy by 30%”)\n✔ Customize applications for each job (avoid generic resumes)\n\n“AI is choosing who gets hired – learn how to game the system.”\n\n\n\n3.3.1 4️⃣ references.bib (Citations & Sources)\nAdd this to your references.bib file.\n```bibtex (article?){hershberg2023ghosting, author = {Herschberg, Mark A.}, title = {Why Companies Ghost Candidates and What To Do About It}, journal = {Medium}, year = {2023}, url = {https://medium.com/(markaherschberg/why-companies-ghost-candidates-and-what-to-do-about-it-be955bbbdd7c?)} }\n(article?){weforum2023jobs, author = {World Economic Forum}, title = {AI and Job Displacement: The 2023 Report}, journal = {World Economic Forum}, year = {2023}, url = {https://www.weforum.org/stories/2023/05/jobs-lost-created-ai-gpt/} }\n(article?){visualcapitalist2024salaries, author = {Visual Capitalist}, title = {Charted: The Jobs Most Impacted by AI}, journal = {Visual Capitalist}, year = {2024}, url = {https://www.visualcapitalist.com/charted-the-jobs-most-impacted-by-ai/} }"
+    "objectID": "ad688-employability-sp25A3-group-4/index.html#citation-format",
+    "href": "ad688-employability-sp25A3-group-4/index.html#citation-format",
+    "title": "Home",
+    "section": "4.1 Citation Format",
+    "text": "4.1 Citation Format\nAll references are managed via references.bib and formatted using csl/econometrica.csl."
   },
   {
     "objectID": "findings.html",
     "href": "findings.html",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
     "section": "",
-    "text": "Job hunting in 2024 is a rollercoaster—except it’s less “fun amusement park” and more “trapped in a Zoom call with no exit.” AI is taking jobs, recruiters are ghosting, and salary gaps are growing faster than my stress levels.\nThis report is for job seekers who just want answers—not generic LinkedIn advice like “just be yourself!” (We tried that, and yet here we are, still unemployed).\n\n\n\nIs AI helping or ruining careers? (Spoiler: It depends.)\nWhy do recruiters ghost more than bad Tinder dates?\nWho’s getting the best salaries, and is it too late to switch careers?\nHow do you actually beat Applicant Tracking Systems (ATS)?\n\nUsing data from Lightcast, World Economic Forum, and hiring platforms, we analyze trends and give realistic career advice. Buckle up—this might hurt, but at least it’s honest.\n\n\n\n\n\n\n\ntitle: “Job Market Findings: AI, Ghosting, & Salary Drama” format: html toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
-  },
-  {
-    "objectID": "findings.html#yaml",
-    "href": "findings.html#yaml",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "",
-    "text": "title: “Job Market Findings: AI, Ghosting, & Salary Drama” format: html toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
-  },
-  {
-    "objectID": "findings.html#the-ghosting-epidemic-when-recruiters-disappear",
-    "href": "findings.html#the-ghosting-epidemic-when-recruiters-disappear",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.1 1. The Ghosting Epidemic: When Recruiters Disappear",
-    "text": "2.1 1. The Ghosting Epidemic: When Recruiters Disappear\nGhosting is no longer just for dating. A 2024 survey found that 52% of job seekers never heard back after multiple interview rounds (Herschberg, 2024).\n\n2.1.1 Why Do Companies Ghost?\n\nInternal Chaos: Budget cuts, layoffs, or leadership playing “musical chairs.”\nRecruiter Burnout: Some recruiters manage hundreds of applicants per job (so yes, your “just checking in” email is lost in the abyss).\nFake Jobs? Yep. Some listings are just for show—used to collect resumes or gauge market interest (Herschberg, 2024).\n\n\n\n2.1.2 How to Beat the Ghosting Game\n\nAlways ask for a hiring timeline. If they don’t give one, it’s a red flag.\nFollow up—but no begging. Twice is enough. After that, move on.\nNetwork like your career depends on it (because it does). Referrals triple your chances of getting hired (Greenhouse, 2024)."
-  },
-  {
-    "objectID": "findings.html#ai-is-stealing-jobs-and-creating-new-ones",
-    "href": "findings.html#ai-is-stealing-jobs-and-creating-new-ones",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.2 2. AI Is Stealing Jobs (And Creating New Ones)",
-    "text": "2.2 2. AI Is Stealing Jobs (And Creating New Ones)\nAI isn’t just replacing workers—it’s reshaping entire industries. The World Economic Forum predicts 85 million jobs will disappear by 2025, but 97 million new ones will emerge (WEF, 2023). So, it’s like musical chairs… but with robots.\n\n2.2.1 Jobs Most at Risk:\n\nClerical/Admin: If your job involves copy-pasting all day, AI has bad news for you.\nCustomer Support: Chatbots are stealing jobs faster than customers can say, “I want to speak to a manager!”\nManufacturing & Retail: Self-checkouts don’t call in sick.\n\n\n\n2.2.2 Jobs AI is Creating\n\nAI Ethics Consultants: Someone has to stop AI from ruining everything.\nData Analysts & Scientists: AI needs humans to fix its mistakes.\nCybersecurity Experts: AI is smart, but hackers are smarter."
-  },
-  {
-    "objectID": "findings.html#ai-vs.-non-ai-salaries-whos-winning",
-    "href": "findings.html#ai-vs.-non-ai-salaries-whos-winning",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.3 3. AI vs. Non-AI Salaries: Who’s Winning?",
-    "text": "2.3 3. AI vs. Non-AI Salaries: Who’s Winning?\nWant a six-figure salary? Learn AI. AI-driven roles are paying 77.53% more than traditional jobs (Visual Capitalist, 2023).\n\n\n\nJob Role\nAverage Salary (2024)\n\n\n\n\nAI Research Scientist\n$170,000\n\n\nMachine Learning Engineer\n$145,000\n\n\nCybersecurity Specialist\n$130,000\n\n\nData Scientist\n$120,000\n\n\nAccountant\n$70,000\n\n\nCustomer Support Agent\n$45,000\n\n\n\nTakeaway: If you’re still debating a career change, now’s the time."
-  },
-  {
-    "objectID": "findings.html#updated-career-strategy.qmd-career-strategy-guide",
-    "href": "findings.html#updated-career-strategy.qmd-career-strategy-guide",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.4 3. Updated career-strategy.qmd (Career Strategy Guide)",
-    "text": "2.4 3. Updated career-strategy.qmd (Career Strategy Guide)"
-  },
-  {
-    "objectID": "findings.html#yaml-1",
-    "href": "findings.html#yaml-1",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "2.5 ```yaml",
-    "text": "2.5 ```yaml\ntitle: “Your Career Survival Guide for 2024” format: html toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
-  },
-  {
-    "objectID": "findings.html#in-demand-skills-that-actually-matter",
-    "href": "findings.html#in-demand-skills-that-actually-matter",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "3.1 1. In-Demand Skills That Actually Matter",
-    "text": "3.1 1. In-Demand Skills That Actually Matter\nIf you want job security, forget “teamwork” and “communication” on your resume—these skills will get you hired:\n\nMachine Learning & AI (Python, TensorFlow, PyTorch)\nData Science & Analytics (SQL, R, data visualization)\nCybersecurity (Cloud security, ethical hacking)\nMarketing Analytics (SEO, AI-driven campaigns)\nProject Management (Agile, Scrum, Jira)\n\nHow to Learn These Skills - Google Certificates (Free on Coursera) - Udemy & YouTube (Free AI courses exist!) - Build a portfolio (Hiring managers love real-world projects)."
-  },
-  {
-    "objectID": "findings.html#best-paying-job-roles-in-2024",
-    "href": "findings.html#best-paying-job-roles-in-2024",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "3.2 2. Best-Paying Job Roles in 2024",
-    "text": "3.2 2. Best-Paying Job Roles in 2024\nIf you’re not making at least $100K, consider switching careers. Here’s where the biggest paychecks are:\n\n\n\nJob Title\n2024 Average Salary\n\n\n\n\nAI Engineer\n$150,000\n\n\nCybersecurity Analyst\n$135,000\n\n\nCloud Architect\n$140,000\n\n\nDigital Marketing Analyst\n$105,000\n\n\nData Scientist\n$120,000\n\n\n\nKey Insight: Traditional careers are falling behind. Even marketing analysts now need AI skills to stay relevant."
-  },
-  {
-    "objectID": "findings.html#yaml-2",
-    "href": "findings.html#yaml-2",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "4.1 ```yaml",
-    "text": "4.1 ```yaml\nformat: html title: “References” —"
-  },
-  {
-    "objectID": "findings.html#references-1",
-    "href": "findings.html#references-1",
-    "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
-    "section": "4.2 References",
-    "text": "4.2 References\n\nGreenhouse. (2024). 52% of job seekers report recruiter ghosting. Retrieved from CNBC.\nHerschberg, M. (2024). Why Companies Ghost Candidates and What To Do About It. Retrieved from Medium.\nWorld Economic Forum. (2023). The Jobs AI is Creating (and Killing). Retrieved from WEF.\nVisual Capitalist. (2023). AI vs. Non-AI Salary Comparisons. Retrieved from Visual Capitalist."
+    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
   },
   {
     "objectID": "findings.html#introduction",
@@ -466,6 +319,34 @@
     "href": "findings.html#ai-vs.-non-ai-career-salary-trends",
     "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
     "section": "3 2️⃣ AI vs. Non-AI Career Salary Trends",
-    "text": "3 2️⃣ AI vs. Non-AI Career Salary Trends\nWith AI skills becoming a premium in the job market, salaries in AI-powered careers have surged. Below is a **comparison of AI vs"
+    "text": "3 2️⃣ AI vs. Non-AI Career Salary Trends\nWith AI skills becoming a premium in the job market, salaries in AI-powered careers have surged. Below is a comparison of AI vs. Non-AI salaries in 2024.\n\n\n\n\n\n\n\n\nJob Role\nAI-Powered Career?\nAverage Salary (2024)\n\n\n\n\nMachine Learning Engineer\n✅ Yes\n$140,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nAI Risk Analyst (Finance)\n✅ Yes\n$118,000\n\n\nSoftware Developer\n❌ No\n$95,000\n\n\nMechanical Engineer\n❌ No\n$85,000\n\n\nCustomer Service Representative\n❌ No\n$45,000\n\n\n\n✅ Finding: AI-based careers offer higher salaries than traditional roles, making AI skills highly desirable."
+  },
+  {
+    "objectID": "findings.html#ai-job-automation-risks-who-is-at-risk",
+    "href": "findings.html#ai-job-automation-risks-who-is-at-risk",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "4 3️⃣ AI Job Automation Risks: Who Is at Risk?",
+    "text": "4 3️⃣ AI Job Automation Risks: Who Is at Risk?\nWhile AI is creating new jobs, it is also replacing human roles in certain industries. The World Economic Forum (2024) predicts that by 2025, AI will impact 85 million jobs, but 97 million new jobs will emerge.\nTop 3 At-Risk Job Categories: - Clerical Work: Data entry clerks, secretaries, and administrative assistants. - Retail & Banking: Cashiers, bank tellers, and call center agents. - Manufacturing & Logistics: Assembly line workers, truck drivers, and warehouse packers.\n✅ Finding: The job displacement risk is highest for repetitive, rule-based tasks—but AI-driven reskilling can mitigate this risk."
+  },
+  {
+    "objectID": "findings.html#the-rise-of-new-ai-powered-job-titles",
+    "href": "findings.html#the-rise-of-new-ai-powered-job-titles",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "5 4️⃣ The Rise of New AI-Powered Job Titles",
+    "text": "5 4️⃣ The Rise of New AI-Powered Job Titles\nDespite concerns about automation, entirely new job categories are emerging in AI-dominated industries.\n\n\n\n\n\n\n\nNew AI-Driven Roles\nDescription\n\n\n\n\nPrompt Engineers\nSpecialize in fine-tuning AI-generated content.\n\n\nAI Ethics Officers\nEnsure AI is used responsibly.\n\n\nAI-Powered Marketing Analysts\nLeverage AI to optimize digital campaigns.\n\n\nAutomation Engineers\nDesign AI-driven automation for businesses.\n\n\n\n✅ Finding: AI is not just destroying jobs—it is actively creating new ones that never existed before."
+  },
+  {
+    "objectID": "findings.html#key-takeaways-career-recommendations",
+    "href": "findings.html#key-takeaways-career-recommendations",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "6 5️⃣ Key Takeaways & Career Recommendations",
+    "text": "6 5️⃣ Key Takeaways & Career Recommendations\n\n6.1 5.1 Summary of Findings\n📌 AI is not purely replacing jobs—it is reshaping them.\n📌 AI-powered roles command higher salaries than traditional roles.\n📌 Some jobs face displacement, but new AI careers are emerging.\n\n\n6.2 5.2 What Should Job Seekers Do?\n\nInvest in AI-related skills: Learning machine learning, Python, and AI-driven analytics will increase job security.\nTarget high-growth AI industries: Finance, healthcare, and tech are leading in AI adoption.\nAdapt to AI-powered work environments: Understanding AI tools will help traditional job roles remain relevant."
+  },
+  {
+    "objectID": "findings.html#references",
+    "href": "findings.html#references",
+    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "section": "7 References",
+    "text": "7 References\n[Your citations will appear here.]"
   }
 ]

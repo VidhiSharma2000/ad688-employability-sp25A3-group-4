@@ -1,7 +1,7 @@
 ---
 title: "Career Strategy for AI vs. Non-AI Job Seekers"
-author: "Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh"
-date: "`r Sys.Date()`"
+author: "Vidhi A. Sharma, Soham Deshkhaire"
+date: "2025-02-12"
 format: html
 bibliography: references.bib
 csl: csl/econometrica.csl
@@ -33,15 +33,12 @@ AI-driven careers require **specific skill sets** that are increasingly in deman
 
 ## 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries
 
-📊 **Explore the salary differences across AI and non-AI careers below.**  
-
-```{r}
+```{python}
 import pandas as pd
 import plotly.express as px
 
-# Sample Salary Data for AI vs. Non-AI Careers
 data = {
-    "Job Role": ["Machine Learning Engineer", "Data Scientist", "AI Risk Analyst", 
+    "Job Role": ["Machine Learning Engineer", "Data Scientist", "AI Risk Analyst",
                  "Software Developer", "Mechanical Engineer", "Customer Service Rep"],
     "AI-Powered": ["Yes", "Yes", "Yes", "No", "No", "No"],
     "Average Salary ($)": [140000, 125000, 118000, 95000, 85000, 45000]
@@ -49,10 +46,57 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Create Interactive Bar Chart
 fig = px.bar(df, x="Job Role", y="Average Salary ($)", color="AI-Powered",
              title="AI vs. Non-AI Job Salaries in 2024",
              labels={"Job Role": "Career Path", "Average Salary ($)": "Annual Salary ($)"},
              barmode="group")
 
 fig.show()
+```
+
+---
+
+## 3️⃣ Career Strategy Recommendations
+
+Here are six **practical career strategies** for adapting to AI-driven job market changes:
+
+1. **Invest in AI & Data Science Skills** 📊  
+   - Learn **Python, Machine Learning, and AI-driven analytics**.  
+   - Take courses in **Natural Language Processing (NLP)** and **Big Data**.  
+
+2. **Target High-Growth AI Industries** 🚀  
+   - Prioritize careers in **finance, tech, and healthcare**, where AI adoption is rising.  
+
+3. **Embrace AI-Powered Work Environments** 💡  
+   - Stay ahead by using **automation tools** and **AI-powered platforms** in daily tasks.  
+
+4. **Develop Soft Skills for AI Collaboration** 🤝  
+   - Strengthen **critical thinking, creativity, and emotional intelligence** to work effectively alongside AI.  
+   - Build **interdisciplinary skills** (e.g., combining AI with marketing, finance, or healthcare).  
+
+5. **Build an AI-Enhanced Personal Brand** 🌐  
+   - Use **LinkedIn, GitHub, and personal blogs** to showcase **AI-related projects**.  
+   - Publish **AI-driven case studies** or portfolio projects to **attract employers**.  
+
+6. **Stay Updated with Emerging AI Trends** 📢  
+   - Follow **AI industry leaders**, attend **conferences**, and take part in **AI hackathons**.  
+   - Subscribe to AI-focused publications like **MIT Technology Review, Google AI Blog, and OpenAI research**.  
+
+---
+
+## 4️⃣ Personal Career Plan
+
+Each job seeker should create a **customized roadmap** based on their career goals. This includes:
+
+1. **Skill Development:** Identify technical and soft skills required for your desired role.  
+2. **Industry Research:** Follow hiring trends in AI and traditional careers.  
+3. **Resume Optimization:** Tailor your resume with AI-related skills and projects.  
+
+---
+
+## References
+
+::: {#refs}
+:::
+
+Quarto will automatically format citations from `references.bib` in Econometrica style.

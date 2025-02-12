@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AI vs. Non-AI Job Growth: Displacement or Innovation?",
+    "title": "Home",
     "section": "",
-    "text": "Artificial Intelligence is reshaping the global workforce. From automation replacing clerical jobs to AI creating entirely new industries, the job market is undergoing a rapid transformation.\n\nWho wins and who loses?\n\nWhich industries are AI-powered and which ones remain untouched?\n\nHow should job seekers adapt to this shift?\n\nThis report analyzes real-world job market data to separate hype from reality.\n🔍 Key Insights:\n✔ AI-driven job loss vs. job creation\n✔ Salary trends: AI-powered careers vs. traditional roles\n✔ Emerging job titles due to AI advancements\n✔ Strategies for future-proofing careers\n\n“The robots are coming for your jobs!”\nBut are they really? Let’s analyze the data.\n\n\n\n\nOur findings are based on real job market data from Lightcast, the World Economic Forum, and labor market reports.\n➡ Visualizations & interactive charts included!\n👥 Authors: Vidhi A. Sharma, Soham Deshkhaire, Nhan (Johnny) Huynh\n📅 Published: 2024\n📂 GitHub Repository: Project Link\n\n\n\n\n\n\n\ntitle: “Key Findings: AI vs. Non-AI Careers” format: html: toc: true number-sections: true bibliography: references.bib csl: csl/econometrica.csl —"
+    "text": "This website explores the impact of AI on employment trends, focusing on job displacement and creation in the modern workforce.\n\n\n\nThe rise of AI-driven automation.\nKey industries affected.\nStrategies for career adaptation.\n\n\n\n\nCitations will be formatted automatically using references.bib.\n\ntitle: “Findings”"
   },
   {
     "objectID": "index.html#objectives",
@@ -16,9 +16,9 @@
   {
     "objectID": "career-strategy.html",
     "href": "career-strategy.html",
-    "title": "Career Strategy for Job Seekers in 2024",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
     "section": "",
-    "text": "Machine Learning (ML)\nData Science\nCloud Computing (AWS, Azure)\nCybersecurity\n\n\n\n\n\nData Analyst\nAI Engineer\nBusiness Intelligence Analyst\n\n\n\n\n\nAI Researcher: $140,000+\nData Scientist: $120,000+\nSoftware Engineer: $110,000+\n\n\n\n\n\nUse ATS-friendly formatting (no tables, images).\nMatch job descriptions with relevant keywords.\nHighlight AI & data-related projects."
+    "text": "The rapid rise of AI-powered careers has left many job seekers wondering: “Should I pivot towards AI, or are traditional careers still viable?”\nThis section provides a data-driven roadmap for career success in 2024, including in-demand skills, high-paying roles, and resume optimization strategies."
   },
   {
     "objectID": "career-strategy.html#in-demand-skills",
@@ -229,5 +229,96 @@
     "title": "Surviving the 2024 Job Market: AI, Ghosting & Paychecks",
     "section": "4.1 References",
     "text": "4.1 References\n\nGreenhouse. (2024). 52% of job seekers report recruiter ghosting. Retrieved from CNBC.\nHerschberg, M. (2024). Why Companies Ghost Candidates and What To Do About It. Retrieved from Medium.\nWorld Economic Forum. (2023). The Jobs AI is Creating (and Killing). Retrieved from WEF.\nVisual Capitalist. (2023). AI vs. Non-AI Salary Comparisons. Retrieved from Visual Capitalist."
+  },
+  {
+    "objectID": "career-strategy.html#introduction",
+    "href": "career-strategy.html#introduction",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "",
+    "text": "The rapid rise of AI-powered careers has left many job seekers wondering: “Should I pivot towards AI, or are traditional careers still viable?”\nThis section provides a data-driven roadmap for career success in 2024, including in-demand skills, high-paying roles, and resume optimization strategies."
+  },
+  {
+    "objectID": "career-strategy.html#the-most-in-demand-ai-tech-skills",
+    "href": "career-strategy.html#the-most-in-demand-ai-tech-skills",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "2 1️⃣ The Most In-Demand AI & Tech Skills",
+    "text": "2 1️⃣ The Most In-Demand AI & Tech Skills\nAI-driven careers require specific skill sets that are increasingly in demand. Below are the top technical and soft skills for AI-related roles.\n\n\n\n\n\n\n\nCategory\nKey Skills in Demand (2024)\n\n\n\n\nTechnical Skills\nPython, Machine Learning, Deep Learning, SQL, NLP\n\n\nData Skills\nData Science, Business Analytics, Visualization\n\n\nCloud & DevOps\nAWS, Azure, Kubernetes, MLOps\n\n\nSoft Skills\nCritical Thinking, AI Ethics, Problem-Solving\n\n\n\n✅ Tip: Learning AI-powered tools like ChatGPT, TensorFlow, and Power BI can boost your resume."
+  },
+  {
+    "objectID": "career-strategy.html#interactive-visualization-ai-vs.-non-ai-job-salaries",
+    "href": "career-strategy.html#interactive-visualization-ai-vs.-non-ai-job-salaries",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "3 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries",
+    "text": "3 2️⃣ Interactive Visualization: AI vs. Non-AI Job Salaries"
+  },
+  {
+    "objectID": "career-strategy.html#career-strategy-recommendations",
+    "href": "career-strategy.html#career-strategy-recommendations",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "4 3️⃣ Career Strategy Recommendations",
+    "text": "4 3️⃣ Career Strategy Recommendations\nHere are six practical career strategies for adapting to AI-driven job market changes:\n\nInvest in AI & Data Science Skills 📊\n\nLearn Python, Machine Learning, and AI-driven analytics.\n\nTake courses in Natural Language Processing (NLP) and Big Data.\n\nTarget High-Growth AI Industries 🚀\n\nPrioritize careers in finance, tech, and healthcare, where AI adoption is rising.\n\nEmbrace AI-Powered Work Environments 💡\n\nStay ahead by using automation tools and AI-powered platforms in daily tasks.\n\nDevelop Soft Skills for AI Collaboration 🤝\n\nStrengthen critical thinking, creativity, and emotional intelligence to work effectively alongside AI.\n\nBuild interdisciplinary skills (e.g., combining AI with marketing, finance, or healthcare).\n\nBuild an AI-Enhanced Personal Brand 🌐\n\nUse LinkedIn, GitHub, and personal blogs to showcase AI-related projects.\n\nPublish AI-driven case studies or portfolio projects to attract employers.\n\nStay Updated with Emerging AI Trends 📢\n\nFollow AI industry leaders, attend conferences, and take part in AI hackathons.\n\nSubscribe to AI-focused publications like MIT Technology Review, Google AI Blog, and OpenAI research."
+  },
+  {
+    "objectID": "career-strategy.html#personal-career-plan",
+    "href": "career-strategy.html#personal-career-plan",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "5 4️⃣ Personal Career Plan",
+    "text": "5 4️⃣ Personal Career Plan\nEach job seeker should create a customized roadmap based on their career goals. This includes:\n\nSkill Development: Identify technical and soft skills required for your desired role.\n\nIndustry Research: Follow hiring trends in AI and traditional careers.\n\nResume Optimization: Tailor your resume with AI-related skills and projects."
+  },
+  {
+    "objectID": "career-strategy.html#references",
+    "href": "career-strategy.html#references",
+    "title": "Career Strategy for AI vs. Non-AI Job Seekers",
+    "section": "6 References",
+    "text": "6 References\n\n\n\nQuarto will automatically format citations from references.bib in Econometrica style."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Home",
+    "section": "",
+    "text": "The rise of AI-driven automation.\nKey industries affected.\nStrategies for career adaptation."
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "Home",
+    "section": "",
+    "text": "Citations will be formatted automatically using references.bib.\n\ntitle: “Findings”"
+  },
+  {
+    "objectID": "index.html#ai-job-market-trends",
+    "href": "index.html#ai-job-market-trends",
+    "title": "Home",
+    "section": "2.1 AI Job Market Trends",
+    "text": "2.1 AI Job Market Trends\nRecent studies indicate that AI is reshaping industries, leading to shifts in employment patterns (Forum (2024))."
+  },
+  {
+    "objectID": "index.html#salary-trends",
+    "href": "index.html#salary-trends",
+    "title": "Home",
+    "section": "2.2 Salary Trends",
+    "text": "2.2 Salary Trends\nHigh-paying AI jobs continue to emerge, creating lucrative opportunities for skilled professionals (BizReport (2024))."
+  },
+  {
+    "objectID": "index.html#additional-references",
+    "href": "index.html#additional-references",
+    "title": "Home",
+    "section": "2.3 Additional References",
+    "text": "2.3 Additional References\n\nElgar Online Study on AI and Job Growth: Elgar Online\nScienceDirect Study on AI-Driven Employment Trends: ScienceDirect\n\n\ntitle: “Career Strategy”"
+  },
+  {
+    "objectID": "index.html#key-resources",
+    "href": "index.html#key-resources",
+    "title": "Home",
+    "section": "3.1 Key Resources",
+    "text": "3.1 Key Resources\n\nAI Career Skills Study (Forbes (2024)).\n\n\ntitle: “About”"
+  },
+  {
+    "objectID": "index.html#citation-format",
+    "href": "index.html#citation-format",
+    "title": "Home",
+    "section": "4.1 Citation Format",
+    "text": "4.1 Citation Format\nAll references are managed via references.bib and formatted using csl/econometrica.csl."
   }
 ]
