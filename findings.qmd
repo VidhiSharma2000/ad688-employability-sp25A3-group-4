@@ -12,80 +12,13 @@ execute:
   echo: true
 ---
 
-
-## Introduction
-
-The debate on whether **AI is eliminating jobs or creating new ones** has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.
-
-This study examines the **job displacement risks** due to AI, the **growth of AI-powered job roles**, and **how industries are adapting** to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors.
-
----
-
 ## 1️⃣ The State of AI-Powered Job Growth
 
 ### **1.1 AI's Impact on Different Industries**
 
-Not all industries are affected by AI at the same rate. Here’s a **comparison of AI-driven job creation vs. displacement**:
+Artificial Intelligence (AI) is **reshaping industries**, leading to both job displacement and job creation. According to the **World Economic Forum (2024)**, AI will impact **85 million jobs** but simultaneously create **97 million new ones** [@weforum2024jobs].
 
-| **Industry**               | **Jobs Created by AI**                       | **Jobs Lost Due to AI** |
-|----------------------------|---------------------------------------------|-------------------------|
-| **Tech & Data Science**    | AI Engineers, Data Scientists, ML Experts  | Some Software Testing Roles |
-| **Finance**               | AI Risk Analysts, Algorithmic Traders      | Bank Tellers, Loan Officers |
-| **Manufacturing**         | AI-Assisted Robotics Engineers             | Assembly Line Workers |
-| **Retail & Customer Service** | AI Chatbot Developers, E-commerce Analysts | Cashiers, Call Center Agents |
-| **Healthcare**            | AI Radiologists, Bioinformatics Experts    | Manual Data Entry Jobs |
-| **Marketing & Advertising** | AI-Powered Content Creators, SEO Analysts  | Traditional Copywriters |
-
-✅ **Finding**: AI is **not purely eliminating jobs**—it is **reshaping existing roles** and demanding **new skill sets.**
-
----
-
-## 2️⃣ AI vs. Non-AI Career Salary Trends
-
-With AI skills becoming a **premium in the job market**, salaries in AI-powered careers have surged. Below is a **comparison of AI vs. Non-AI salaries** in 2024.
-
-| **Job Role**                     | **AI-Powered Career?** | **Average Salary (2024)** |
-|----------------------------------|----------------------|--------------------------|
-| **Machine Learning Engineer**    | ✅ Yes               | $140,000 |
-| **Data Scientist**               | ✅ Yes               | $125,000 |
-| **AI Risk Analyst (Finance)**    | ✅ Yes               | $118,000 |
-| **Software Developer**           | ❌ No                | $95,000 |
-| **Mechanical Engineer**          | ❌ No                | $85,000 |
-| **Customer Service Representative** | ❌ No                | $45,000 |
-
-✅ **Finding**: AI-based careers **offer higher salaries** than traditional roles, making AI skills highly desirable.
-
----
-
-## 3️⃣ AI Job Automation Risks: Who Is at Risk?
-
-While AI is **creating new jobs**, it is also **replacing human roles** in certain industries. The **World Economic Forum (2024)** predicts that by 2025, AI will impact **85 million jobs**, but **97 million new jobs** will emerge.
-
-**Top 3 At-Risk Job Categories:**
-- **Clerical Work**: Data entry clerks, secretaries, and administrative assistants.
-- **Retail & Banking**: Cashiers, bank tellers, and call center agents.
-- **Manufacturing & Logistics**: Assembly line workers, truck drivers, and warehouse packers.
-
-✅ **Finding**: The **job displacement risk** is highest for **repetitive, rule-based tasks**—but AI-driven reskilling can **mitigate this risk.**
-
----
-
-## 4️⃣ The Rise of New AI-Powered Job Titles
-
-Despite concerns about automation, **entirely new job categories** are emerging in AI-dominated industries.
-
-| **New AI-Driven Roles**        | **Description** |
-|--------------------------------|-----------------------------------------|
-| **Prompt Engineers**          | Specialize in fine-tuning AI-generated content. |
-| **AI Ethics Officers**        | Ensure AI is used responsibly. |
-| **AI-Powered Marketing Analysts** | Leverage AI to optimize digital campaigns. |
-| **Automation Engineers**      | Design AI-driven automation for businesses. |
-
-✅ **Finding**: AI is **not just destroying jobs—it is actively creating new ones** that **never existed before.**
-
----
-
-Not all industries are affected by AI at the same rate. Here’s an **interactive visualization** showing AI-driven job creation vs. displacement.
+### **📊 Interactive Bar Chart: AI Job Impact by Industry**
 
 ```{python}
 import pandas as pd
@@ -106,21 +39,56 @@ fig = px.bar(df, x="Industry", y=["Jobs Created", "Jobs Lost"],
              barmode="group", labels={"value": "Number of Jobs", "variable": "Job Impact"})
 
 fig.show()
+```
+
+✅ **Finding**: AI is **not just eliminating jobs**—it is **reshaping job roles** and requiring **new skill sets** [@elgar2024growth].
 
 ---
 
+## 2️⃣ AI vs. Non-AI Career Salary Trends
 
-## 5️⃣ Key Takeaways & Career Recommendations
+As AI becomes more integrated into industries, **AI-powered careers** offer significantly higher salaries than traditional jobs [@bizreport2024ai]. Below is a comparison of **AI vs. Non-AI salaries** in 2024.
 
-### **5.1 Summary of Findings**
-📌 AI **is not purely replacing jobs—it is reshaping them**.  
-📌 AI-powered roles **command higher salaries** than traditional roles.  
-📌 Some jobs **face displacement**, but **new AI careers are emerging**.  
+### **📈 Interactive Table: AI vs. Non-AI Job Salaries**
 
-### **5.2 What Should Job Seekers Do?**
-1. **Invest in AI-related skills**: Learning machine learning, Python, and AI-driven analytics will increase job security.
-2. **Target high-growth AI industries**: Finance, healthcare, and tech are leading in AI adoption.
-3. **Adapt to AI-powered work environments**: Understanding AI tools will help traditional job roles remain relevant.
+```{python}
+import plotly.graph_objects as go
+import pandas as pd
+
+# Salary comparison data
+df_salary = pd.DataFrame({
+    "Job Role": ["Machine Learning Engineer", "Data Scientist", "AI Risk Analyst (Finance)", "Software Developer", "Mechanical Engineer", "Customer Service Rep"],
+    "AI-Powered Career?": ["✅ Yes", "✅ Yes", "✅ Yes", "❌ No", "❌ No", "❌ No"],
+    "Average Salary (2024)": ["$140,000", "$125,000", "$118,000", "$95,000", "$85,000", "$45,000"]
+})
+
+fig = go.Figure(data=[go.Table(
+    header=dict(values=list(df_salary.columns),
+                fill_color='paleturquoise',
+                align='left'),
+    cells=dict(values=[df_salary[col] for col in df_salary.columns],
+               fill_color='lavender',
+               align='left'))
+])
+
+fig.show()
+```
+
+✅ **Finding**: AI-powered careers **command higher salaries** than traditional roles, making AI skills essential for career advancement [@forbes2024future].
+
+---
+
+## 3️⃣ AI Job Automation Risks: Who Is at Risk?
+
+AI is **automating repetitive tasks** across industries, putting millions of jobs at risk. Research from **ScienceDirect (2024)** shows that AI will impact several sectors **over the next five years** [@sciencedirect2024employment].
+
+| **At-Risk Job Categories**   | **Examples of Jobs AI is Replacing** |
+|------------------------------|-------------------------------------|
+| **Clerical Work**            | Data entry clerks, secretaries |
+| **Retail & Banking**         | Cashiers, bank tellers, call center agents |
+| **Manufacturing & Logistics** | Assembly line workers, warehouse packers |
+
+✅ **Finding**: The **job displacement risk** is highest for **repetitive, rule-based tasks**—but AI-driven **reskilling can mitigate this risk** [@umass2024ats].
 
 ---
 

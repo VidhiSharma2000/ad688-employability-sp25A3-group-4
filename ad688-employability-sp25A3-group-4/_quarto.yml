@@ -21,6 +21,7 @@ format:
     number-sections: true
     code-fold: true
     code-tools: true
+    df-print: paged
 
 execute:
   echo: false
@@ -29,3 +30,4 @@ execute:
 
 bibliography: references.bib
 csl: csl/econometrica.csl
+jupyter: python3

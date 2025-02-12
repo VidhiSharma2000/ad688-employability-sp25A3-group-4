@@ -72,9 +72,9 @@
   {
     "objectID": "findings.html",
     "href": "findings.html",
-    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
+    "title": "Findings – AI’s Impact on Job Growth",
     "section": "",
-    "text": "The debate on whether AI is eliminating jobs or creating new ones has become a critical discussion point in 2024. As automation and machine learning continue to reshape industries, workers are facing both risks and opportunities.\nThis study examines the job displacement risks due to AI, the growth of AI-powered job roles, and how industries are adapting to this technological shift. Our findings are based on real-world employment trends, salary data, and AI integration across sectors."
+    "text": "Artificial Intelligence (AI) is reshaping industries, leading to both job displacement and job creation. According to the World Economic Forum (2024), AI will impact 85 million jobs but simultaneously create 97 million new ones (Forum (2024)).\n\n\n\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\n# Industry-wise job impact data\ndata = {\n    \"Industry\": [\"Tech & Data Science\", \"Finance\", \"Manufacturing\", \"Retail & Customer Service\", \"Healthcare\", \"Marketing & Advertising\"],\n    \"Jobs Created\": [500000, 300000, 250000, 200000, 400000, 150000],\n    \"Jobs Lost\": [50000, 150000, 300000, 500000, 50000, 80000]\n}\n\ndf = pd.DataFrame(data)\n\n# Create interactive bar chart\nfig = px.bar(df, x=\"Industry\", y=[\"Jobs Created\", \"Jobs Lost\"], \n             title=\"AI’s Impact on Job Growth vs. Loss by Industry\",\n             barmode=\"group\", labels={\"value\": \"Number of Jobs\", \"variable\": \"Job Impact\"})\n\nfig.show()\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n✅ Finding: AI is not just eliminating jobs—it is reshaping job roles and requiring new skill sets (Online (2024))."
   },
   {
     "objectID": "findings.html#why-companies-ghost-candidates",
@@ -394,23 +394,23 @@
   {
     "objectID": "findings.html#the-state-of-ai-powered-job-growth",
     "href": "findings.html#the-state-of-ai-powered-job-growth",
-    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
-    "section": "0.2 1️⃣ The State of AI-Powered Job Growth",
-    "text": "0.2 1️⃣ The State of AI-Powered Job Growth\n\n0.2.1 1.1 AI’s Impact on Different Industries\nNot all industries are affected by AI at the same rate. Here’s a comparison of AI-driven job creation vs. displacement:\n\n\n\n\n\n\n\n\nIndustry\nJobs Created by AI\nJobs Lost Due to AI\n\n\n\n\nTech & Data Science\nAI Engineers, Data Scientists, ML Experts\nSome Software Testing Roles\n\n\nFinance\nAI Risk Analysts, Algorithmic Traders\nBank Tellers, Loan Officers\n\n\nManufacturing\nAI-Assisted Robotics Engineers\nAssembly Line Workers\n\n\nRetail & Customer Service\nAI Chatbot Developers, E-commerce Analysts\nCashiers, Call Center Agents\n\n\nHealthcare\nAI Radiologists, Bioinformatics Experts\nManual Data Entry Jobs\n\n\nMarketing & Advertising\nAI-Powered Content Creators, SEO Analysts\nTraditional Copywriters\n\n\n\n✅ Finding: AI is not purely eliminating jobs—it is reshaping existing roles and demanding new skill sets."
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "",
+    "text": "Artificial Intelligence (AI) is reshaping industries, leading to both job displacement and job creation. According to the World Economic Forum (2024), AI will impact 85 million jobs but simultaneously create 97 million new ones (Forum (2024)).\n\n\n\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\n# Industry-wise job impact data\ndata = {\n    \"Industry\": [\"Tech & Data Science\", \"Finance\", \"Manufacturing\", \"Retail & Customer Service\", \"Healthcare\", \"Marketing & Advertising\"],\n    \"Jobs Created\": [500000, 300000, 250000, 200000, 400000, 150000],\n    \"Jobs Lost\": [50000, 150000, 300000, 500000, 50000, 80000]\n}\n\ndf = pd.DataFrame(data)\n\n# Create interactive bar chart\nfig = px.bar(df, x=\"Industry\", y=[\"Jobs Created\", \"Jobs Lost\"], \n             title=\"AI’s Impact on Job Growth vs. Loss by Industry\",\n             barmode=\"group\", labels={\"value\": \"Number of Jobs\", \"variable\": \"Job Impact\"})\n\nfig.show()\n\n\n        \n        \n        \n\n\n                            \n                                            \n\n\n✅ Finding: AI is not just eliminating jobs—it is reshaping job roles and requiring new skill sets (Online (2024))."
   },
   {
     "objectID": "findings.html#ai-vs.-non-ai-career-salary-trends",
     "href": "findings.html#ai-vs.-non-ai-career-salary-trends",
-    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
-    "section": "0.3 2️⃣ AI vs. Non-AI Career Salary Trends",
-    "text": "0.3 2️⃣ AI vs. Non-AI Career Salary Trends\nWith AI skills becoming a premium in the job market, salaries in AI-powered careers have surged. Below is a comparison of AI vs. Non-AI salaries in 2024.\n\n\n\n\n\n\n\n\nJob Role\nAI-Powered Career?\nAverage Salary (2024)\n\n\n\n\nMachine Learning Engineer\n✅ Yes\n$140,000\n\n\nData Scientist\n✅ Yes\n$125,000\n\n\nAI Risk Analyst (Finance)\n✅ Yes\n$118,000\n\n\nSoftware Developer\n❌ No\n$95,000\n\n\nMechanical Engineer\n❌ No\n$85,000\n\n\nCustomer Service Representative\n❌ No\n$45,000\n\n\n\n✅ Finding: AI-based careers offer higher salaries than traditional roles, making AI skills highly desirable."
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "2 2️⃣ AI vs. Non-AI Career Salary Trends",
+    "text": "2 2️⃣ AI vs. Non-AI Career Salary Trends\nAs AI becomes more integrated into industries, AI-powered careers offer significantly higher salaries than traditional jobs (BizReport (2024)). Below is a comparison of AI vs. Non-AI salaries in 2024.\n\n2.1 📈 Interactive Table: AI vs. Non-AI Job Salaries\n\n\nCode\nimport plotly.graph_objects as go\nimport pandas as pd\n\n# Salary comparison data\ndf_salary = pd.DataFrame({\n    \"Job Role\": [\"Machine Learning Engineer\", \"Data Scientist\", \"AI Risk Analyst (Finance)\", \"Software Developer\", \"Mechanical Engineer\", \"Customer Service Rep\"],\n    \"AI-Powered Career?\": [\"✅ Yes\", \"✅ Yes\", \"✅ Yes\", \"❌ No\", \"❌ No\", \"❌ No\"],\n    \"Average Salary (2024)\": [\"$140,000\", \"$125,000\", \"$118,000\", \"$95,000\", \"$85,000\", \"$45,000\"]\n})\n\nfig = go.Figure(data=[go.Table(\n    header=dict(values=list(df_salary.columns),\n                fill_color='paleturquoise',\n                align='left'),\n    cells=dict(values=[df_salary[col] for col in df_salary.columns],\n               fill_color='lavender',\n               align='left'))\n])\n\nfig.show()\n\n\n                            \n                                            \n\n\n✅ Finding: AI-powered careers command higher salaries than traditional roles, making AI skills essential for career advancement (Forbes (2024))."
   },
   {
     "objectID": "findings.html#ai-job-automation-risks-who-is-at-risk",
     "href": "findings.html#ai-job-automation-risks-who-is-at-risk",
-    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
-    "section": "0.4 3️⃣ AI Job Automation Risks: Who Is at Risk?",
-    "text": "0.4 3️⃣ AI Job Automation Risks: Who Is at Risk?\nWhile AI is creating new jobs, it is also replacing human roles in certain industries. The World Economic Forum (2024) predicts that by 2025, AI will impact 85 million jobs, but 97 million new jobs will emerge.\nTop 3 At-Risk Job Categories: - Clerical Work: Data entry clerks, secretaries, and administrative assistants. - Retail & Banking: Cashiers, bank tellers, and call center agents. - Manufacturing & Logistics: Assembly line workers, truck drivers, and warehouse packers.\n✅ Finding: The job displacement risk is highest for repetitive, rule-based tasks—but AI-driven reskilling can mitigate this risk."
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "3 3️⃣ AI Job Automation Risks: Who Is at Risk?",
+    "text": "3 3️⃣ AI Job Automation Risks: Who Is at Risk?\nAI is automating repetitive tasks across industries, putting millions of jobs at risk. Research from ScienceDirect (2024) shows that AI will impact several sectors over the next five years (ScienceDirect (2024)).\n\n\n\n\n\n\n\nAt-Risk Job Categories\nExamples of Jobs AI is Replacing\n\n\n\n\nClerical Work\nData entry clerks, secretaries\n\n\nRetail & Banking\nCashiers, bank tellers, call center agents\n\n\nManufacturing & Logistics\nAssembly line workers, warehouse packers\n\n\n\n✅ Finding: The job displacement risk is highest for repetitive, rule-based tasks—but AI-driven reskilling can mitigate this risk (Massachusetts (2024))."
   },
   {
     "objectID": "findings.html#the-rise-of-new-ai-powered-job-titles",
@@ -429,8 +429,8 @@
   {
     "objectID": "findings.html#references",
     "href": "findings.html#references",
-    "title": "AI vs. Non-AI Job Growth: Is AI Taking Over or Creating More Jobs?",
-    "section": "2.2 References",
-    "text": "2.2 References"
+    "title": "Findings – AI’s Impact on Job Growth",
+    "section": "4 References",
+    "text": "4 References\n\n\nBizReport. (2024): “AI jobs paying the most in 2024: A salary report,” BizReport,.\n\n\nForbes. (2024): “Future-proofing your career: The most in-demand AI skills,” Forbes,.\n\n\nForum, W. E. (2024): “AI & job market trends: Jobs lost and created by AI in 2024,” WEF Insights,.\n\n\nMassachusetts, U. of. (2024): “How to beat the ATS: Resume optimization in the AI era,” UMass Career Center,.\n\n\nOnline, E. (2024): “AI and job growth: A research perspective,” Edward Elgar Publishing,.\n\n\nScienceDirect. (2024): “AI-driven employment trends: A 2024 analysis,” Elsevier,."
   }
 ]
