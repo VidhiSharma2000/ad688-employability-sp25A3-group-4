@@ -1,0 +1,150 @@
+---
+title: "Skill Gap Analysis"
+format: html
+jupyter: python3
+---
+
+## 📥 Load Dataset
+
+```{python}
+import pandas as pd
+
+df = pd.read_csv("lightcast_job_postings.csv")
+```
+
+---
+
+## 💼 Top Skills Required in IT Job Postings
+
+```{python}
+it_keywords = ['it', 'information technology', 'network', 'system', 'infrastructure', 'tech support', 'sysadmin']
+
+# Filter job titles using keywords
+df_it = df[df['TITLE_CLEAN'].str.lower().str.contains('|'.join(it_keywords), na=False)]
+
+import ast
+
+# Clean and explode skills from stringified lists
+clean_skills_it = df_it['SKILLS_NAME'].dropna().apply(
+    lambda x: ast.literal_eval(x) if x.strip().startswith('[') else []
+)
+all_skills_it = clean_skills_it.explode().str.strip()
+
+# Count top skills
+top_it_skills = all_skills_it.value_counts().head(10)
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+plt.figure(figsize=(10, 6))
+sns.barplot(x=top_it_skills.values, y=top_it_skills.index, palette='coolwarm')
+plt.title("Top 10 Skills Required for IT Jobs")
+plt.xlabel("Number of Postings")
+plt.ylabel("Skill")
+
+for i, val in enumerate(top_it_skills.values):
+    plt.text(val + 2, i, f"{val}", va='center')
+
+plt.tight_layout()
+plt.show()
+```
+
+---
+
+## 🧠 Team Skill Self-Assessment
+
+```{python}
+skills_data = {
+    "Name": ["Vidhi", "Soham", "Nhan"],
+    "Communication": [3, 2, 3],
+    "Management": [2, 2, 2],
+    "Leadership": [3, 2, 3],
+    "Computer Science": [4, 3, 3],
+    "Problem Solving": [2, 2, 4],
+    "Data Analysis": [3, 3, 4],
+    "Operations": [2, 3, 4],
+    "Information Technology": [4, 3, 5],
+    "SQL (Programming Language)": [4, 3, 5],
+    "Project Management": [3, 2, 4],
+    "Planning": [2, 3, 4],
+    "Presentations": [3, 2, 4],
+    "Innovation": [3, 4, 5],
+    "Governance": [2, 3, 4],
+    "Customer Service": [3, 4, 5],    
+}
+
+df_skills = pd.DataFrame(skills_data)
+df_skills.set_index("Name", inplace=True)
+df_skills
+```
+
+```{python}
+plt.figure(figsize=(8, 6))
+sns.heatmap(df_skills, annot=True, cmap="coolwarm", linewidths=0.5)
+plt.title("Team Skill Levels Heatmap")
+plt.show()
+```
+
+---
+
+## 📉 Team vs Market Skill Gap Analysis
+
+```{python}
+top_20_it_skills = [
+    "Communication", "Management", "Leadership", "Computer Science", "Problem Solving",
+     "Data Analysis", "Operations", "Information Technology", "SQL (Programming Language)", 
+     "Project Management", "Planning", "Presentations", "Innovation", "Governance", "Customer Service"
+]
+
+# Ensure all required skills are present
+for skill in top_20_it_skills:
+    if skill not in df_skills.columns:
+        df_skills[skill] = 0
+
+max_score = 5
+skill_gaps = max_score - df_skills[top_20_it_skills]
+
+# Average gap by person
+avg_gap_per_person = skill_gaps.mean(axis=1)
+
+# Average gap by skill
+avg_gap_per_skill = skill_gaps.mean(axis=0)
+
+# Plotting the average gap per skill
+plt.figure(figsize=(12, 7))
+avg_gap_per_skill.sort_values(ascending=False).plot(kind='barh', title='Team Skill Gaps vs IT Job Expectations')
+plt.xlabel("Average Gap (0 = skilled, 5 = unskilled)")
+plt.tight_layout()
+plt.show()
+```
+
+---
+
+## 🧑 Individual Skill Gap Summary
+
+```{python}
+individual_gaps = 5 - df_skills[top_20_it_skills]
+
+for person in individual_gaps.index:
+    print(f"\n🧑 {person}'s top skill gaps:")
+    print(individual_gaps.loc[person].sort_values(ascending=False).head(3))
+```
+
+---
+
+## 📋 Personalized Recommendations
+
+### **Vidhi**
+Vidhi should prioritize learning **management**, **operations**, and **problem solving**. These areas are critical for handling project planning, coordinating tasks, and navigating complex challenges in IT environments. To build these skills, Vidhi can take the *IT Project Management* course by Google on Coursera. For operations, LinkedIn Learning’s *Operations Management Foundations* is a great resource. For analytical thinking, the *Creative Problem Solving* course on edX is highly recommended.
+
+To support Vidhi’s development, the team could assign her to lead small projects or retrospectives, which would build both leadership and analytical skills in real time.
+
+### **Soham**
+Soham should focus on improving **communication**, **management**, and **leadership**. These are essential for collaboration, confidence, and initiative. Useful resources include *Harvard’s Business Communication*, *Communication for Tech Professionals* on LinkedIn Learning, and the *Leading People and Teams* specialization on Coursera.
+
+Soham can be supported by involving him in meeting facilitation, presenting updates, or leading short planning sessions to grow his comfort with leadership.
+
+### **Nhan**
+Nhan should target improving **management**, **communication**, and **leadership**. While technically strong, these soft skills are crucial for senior IT roles. Recommended resources include *Leadership and Emotional Intelligence* on Coursera, *Communication for Tech Professionals* on LinkedIn Learning, and Udemy’s *Practical IT Management*.
+
+The team can help Nhan by encouraging him to present team updates, lead a weekly sprint, or take ownership of communicating project status to stakeholders.
