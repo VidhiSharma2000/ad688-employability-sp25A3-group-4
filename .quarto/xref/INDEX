@@ -1,0 +1,33 @@
+{
+  "about.qmd": {
+    "about.html": "bd9da9f4"
+  },
+  "ad688-employability-sp25A3-group-4/about.qmd": {
+    "about.html": "fba2f811"
+  },
+  "ad688-employability-sp25A3-group-4/career-strategy.qmd": {
+    "career-strategy.html": "e95ee6f3"
+  },
+  "ad688-employability-sp25A3-group-4/findings.qmd": {
+    "findings.html": "7f2c8d57"
+  },
+  "ad688-employability-sp25A3-group-4/index.qmd": {
+    "index.html": "fcfb097c"
+  },
+  "index.qmd": {
+    "index.html": "0cb62d17"
+  },
+  "career-strategy.qmd": {
+    "career-strategy.html": "f564aee9"
+  },
+  "findings.qmd": {
+    "findings.html": "c3fa2673"
+  },
+  "report.qmd": {
+    "report.html": "9eabf2eb"
+  },
+  "final_report.qmd": {
+    "final_report.docx": "c39bfaf2",
+    "final_report.tex": "94d7dcfa"
+  }
+}
