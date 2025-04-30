@@ -1,18 +1,22 @@
-# **AI vs. Non-AI Careers: Job Market Analysis 2024**
+# AI vs Non-AI: Cracking the Job Market Code in 2024
 
-## **📌 Overview**
-This project is a **data-driven analysis of AI-powered and traditional careers** in 2024.  
-Our goal? To **find out whether AI is stealing jobs or just shifting job demand.**  
+### AD688 – Business Web Analytics | Spring 2025  
+**Team 4**: Vidhi Sharma, Soham Deshkhaire, Nhan Huynh
 
-**Key Topics We Cover:**
-- AI-driven job growth vs. displacement
-- Salary trends for AI vs. non-AI jobs
-- In-demand skills and career strategies
-- Beating AI-powered resume filters (ATS systems)
+---
 
-## **📊 Data Sources & Methodology**
-- **Job Market Data**: Collected from **Lightcast, LinkedIn, and labor market reports.**  
-- **Data Processing**: Analyzed using **Python (pandas, matplotlib, seaborn, plotly).**  
-- **Visualizations**: Interactive graphs, salary trends, and AI hiring patterns.  
-- **Published Findings**: Hosted on a **Quarto-based GitHub Pages site.**  
+## 📌 Overview
+This project analyzes 100,000+ job postings from early 2024 to compare AI-driven and non-AI roles. We investigated salary trends, key skills, and market gaps — and built a machine learning classifier to predict job type.  
 
+---
+
+## 🧰 Tools & Technologies
+- PySpark
+- AWS EC2
+- TF-IDF (NLP)
+- Random Forest Classifier
+- Quarto + GitHub Pages
+
+---
+
+## 📁 Repo Structure

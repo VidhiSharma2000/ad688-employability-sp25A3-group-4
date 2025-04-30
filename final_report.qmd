@@ -1,98 +1,129 @@
 ---
-title: "AI vs. Non-AI Careers: Job Growth and Market Trends in 2024"
-author:
-  - "Vidhi A. Sharma"
-  - "Soham Deshkhaire"
-  - "Nhan (Johnny) Huynh"
-date: "2025-02-12"
-format: html
-bibliography: references.bib
-csl: csl/econometrica.csl
-toc: true
+title: "AI vs Non-AI: Cracking the Job Market Code in 2024"
+author: "Team 4: Vidhi Sharma, Soham Deshkhaire, Nhan Huynh"
+date: "Spring 2025"
+format: pdf
 ---
 
-## Introduction
+## 🧭 Introduction
 
-The rapid advancement of Artificial Intelligence (AI) is reshaping the global job market, sparking debates about job displacement, salary disparities, and new career opportunities. As AI-driven automation permeates various industries, professionals must adapt to evolving skill demands. This report explores the **growth and impact of AI vs. Non-AI careers** in 2024, providing insights into **job security, salaries, industry trends, and emerging roles**.
+Artificial Intelligence (AI) is transforming industries—but is it taking all the jobs? In this report, we explore the 2024 U.S. job market to answer three questions:
+1. Who’s hiring?
+2. What skills matter most?
+3. How can we stay competitive in a rapidly changing economy?
 
----
-
-## Research Rationale
-
-AI's influence on employment is twofold: it replaces some jobs while creating new opportunities. According to the **World Economic Forum (2024)**, AI-driven automation will displace **85 million jobs by 2025** but simultaneously generate **97 million new positions**. This shift necessitates a **data-driven approach** to understand:
-
-- How AI-powered careers compare to traditional job roles.
-- Which industries are experiencing AI-driven job growth vs. job displacement.
-- What skillsets are most valuable in AI-powered and Non-AI professions.
-- How salary trends vary across AI and traditional careers.
-
-By leveraging **Lightcast data, GitHub collaboration, and Quarto publishing**, this research aims to provide actionable career insights for job seekers in 2024.
+We compare AI vs Non-AI roles using a real-world dataset of 100,000+ job postings and leverage big data tools like PySpark, AWS EC2, and Natural Language Processing (NLP).
 
 ---
 
-## Literature Review
+## 🧾 Dataset Overview
 
-### **1. AI's Impact on Employment**
-@smith2023ai found that industries such as **finance, healthcare, and tech** have seen an increase in AI-driven job roles, while sectors like **retail, customer service, and manufacturing** face higher automation risks.
-
-### **2. Salary Trends in AI vs. Traditional Careers**
-@johnson2024salaries highlights that **AI professionals (e.g., Machine Learning Engineers, Data Scientists)** earn **30-50% more** than their Non-AI counterparts (e.g., Mechanical Engineers, Accountants). The demand for AI-driven skills correlates with higher salaries and greater job security.
-
-### **3. The Rise of AI-Driven Job Titles**
-@brown2024automation reports that AI advancements have led to new job roles, including **Prompt Engineers, AI Ethics Officers, and Automation Specialists**, which did not exist a decade ago.
+- **Source**: Lightcast 2024 U.S. job postings (Jan–Mar)
+- **Size**: 100,000+ postings
+- **Features**: Job title, skills, salary, description
+- **Preprocessing**: Manual AI/Non-AI tagging, TF-IDF vectorization
+- **Tools**: PySpark, Jupyter Notebooks, AWS EC2
 
 ---
 
-## Preliminary Findings
+## 📊 Exploratory Data Analysis
 
-### **1. AI vs. Non-AI Job Growth (2024 Trends)**
+**AI Jobs:**
+- Top roles: Machine Learning Engineer, Data Scientist
+- Average salary: ~$118K  
+- Common keywords: *"pipeline"*, *"GPU"*, *"TensorFlow"*
 
-| **Industry**               | **AI-Driven Job Growth**                 | **Jobs Lost Due to AI**          |
-|----------------------------|------------------------------------------|---------------------------------|
-| **Tech & Data Science**    | AI Engineers, Data Scientists           | Some Software Testing Roles     |
-| **Finance**               | AI Risk Analysts, Algorithmic Traders   | Bank Tellers, Loan Officers     |
-| **Manufacturing**         | AI-Assisted Robotics Engineers          | Assembly Line Workers           |
-| **Retail & Customer Service** | AI Chatbot Developers, E-commerce Analysts | Cashiers, Call Center Agents  |
-| **Healthcare**            | AI Radiologists, Bioinformatics Experts | Manual Data Entry Jobs          |
+**Non-AI Jobs:**
+- Top roles: Project Manager, HR Coordinator
+- Average salary: ~$72K  
+- Common keywords: *"calendar management"*, *"CRM"*
 
-✅ **Finding:** AI **reshapes job roles** rather than purely eliminating them.
-
----
-
-### **2. Salary Trends: AI vs. Traditional Careers**
-
-| **Job Role**                     | **AI-Powered?** | **Average Salary (2024)** |
-|----------------------------------|----------------|--------------------------|
-| **Machine Learning Engineer**    | ✅ Yes         | $140,000                 |
-| **Data Scientist**               | ✅ Yes         | $125,000                 |
-| **AI Risk Analyst (Finance)**    | ✅ Yes         | $118,000                 |
-| **Software Developer**           | ❌ No          | $95,000                  |
-| **Mechanical Engineer**          | ❌ No          | $85,000                  |
-| **Customer Service Representative** | ❌ No          | $45,000                  |
-
-✅ **Finding:** AI-based roles offer **higher salaries and greater career stability** than traditional jobs.
+**Insight**: While AI roles offer higher pay, non-AI roles are still in demand and easier to enter.
 
 ---
 
-## Career Strategy Recommendations
+## 🔎 Skill Gap Analysis
 
-To adapt to AI-driven changes in the job market, professionals should:
+We analyzed missing skills based on job descriptions.
 
-1. **Invest in AI & Data Science Skills** 📊
-   - Learn **Python, Machine Learning, and AI-driven analytics**.
-   - Take courses in **Natural Language Processing (NLP)** and **Big Data**.
+| Track       | Missing Skills                       |
+|-------------|---------------------------------------|
+| AI Track    | Deployment (AWS, APIs), MLOps        |
+| Non-AI Track| BI tools (Power BI, Tableau), AI literacy |
 
-2. **Target High-Growth AI Industries** 🚀
-   - Prioritize careers in **finance, tech, and healthcare** where AI adoption is rising.
-
-3. **Embrace AI-Powered Work Environments** 💡
-   - Stay ahead by using **automation tools** and **AI-powered platforms** in daily tasks.
+**Finding**: Many candidates lack production-level experience in both tracks. Prompt engineering and dashboarding are key upskilling areas.
 
 ---
 
-## References
+## 🧠 Modeling the Market
 
-::: {#refs}
-:::
+We trained a **Random Forest Classifier** to predict whether a job is AI or Non-AI based on the text.
 
-Quarto will automatically format citations from `references.bib` in Econometrica style.
+- **Accuracy**: 89%
+- **Key AI indicators**: *TensorFlow, inference, pipeline*
+- **Key Non-AI indicators**: *calendars, CRM, reporting*
+
+---
+
+## 🌐 Hybrid Role Discovery
+
+A growing category: roles that combine business and AI skills.
+
+- Examples: *AI Strategy Lead, Data Product Manager*
+- These roles are **high demand + low competition**
+- Employers seek cross-functional skillsets (communication + ML)
+
+---
+
+## 💡 Career Recommendations
+
+| Track     | Advice |
+|-----------|--------|
+| AI        | Focus on real-world projects, deployment pipelines |
+| Non-AI    | Master BI tools, use AI tools to automate tasks |
+| Hybrid    | Combine soft skills + technical skills, especially in storytelling and analytics |
+
+---
+
+## ⚙️ Tools Used
+
+- **Languages**: Python, Spark
+- **Environment**: AWS EC2
+- **Libraries**: TF-IDF, scikit-learn, Pandas, Matplotlib
+- **Version Control**: GitHub
+
+---
+
+## 🧠 Challenges & Lessons
+
+- Cleaning messy job titles was highly manual
+- AWS EC2 setup required patience and restarts
+- Merge conflicts taught us version control discipline
+- Real takeaway: Data science is 20% modeling, 80% debugging and documentation
+
+---
+
+## 👥 Team Contributions
+
+| Team Member        | Contributions |
+|--------------------|---------------|
+| **Vidhi Sharma**   | Built ML model, AWS setup, report writing, strategic analysis |
+| **Nhan Huynh**     | Data preprocessing, skill gap analysis, EDA |
+| **Soham Deshkhaire** | Visualizations, GitHub documentation, presentation polish |
+
+---
+
+## 🏁 Conclusion
+
+AI is changing the job market—but not in a zero-sum way.  
+With the right mindset and skill mix, there's room for everyone.  
+
+*"AI won't replace you. But someone using AI smarter than you might."*
+
+---
+
+## 📚 References
+
+- Lightcast.io Job Market Data (2024)
+- Hurwitz, J. et al. *Big Data for Dummies*. Wiley, 2013.
+- scikit-learn.org, spark.apache.org, aws.amazon.com
