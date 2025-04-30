@@ -1,36 +1,22 @@
-AI vs Non-AI Careers: Job Market Analysis 2024
-Overview
-This project analyzes AI-driven vs. traditional careers in 2024, based on 100K+ job postings from Lightcast and LinkedIn.
+# AI vs Non-AI: Cracking the Job Market Code in 2024
 
-Key Topics:
+### AD688 – Business Web Analytics | Spring 2025  
+**Team 4**: Vidhi Sharma, Soham Deshkhaire, Nhan Huynh
 
-AI vs Non-AI salary trends
+---
 
-In-demand skill gaps
+## 📌 Overview
+This project analyzes 100,000+ job postings from early 2024 to compare AI-driven and non-AI roles. We investigated salary trends, key skills, and market gaps — and built a machine learning classifier to predict job type.  
 
-Job market evolution and hybrid roles
+---
 
-Methodology:
+## 🧰 Tools & Technologies
+- PySpark
+- AWS EC2
+- TF-IDF (NLP)
+- Random Forest Classifier
+- Quarto + GitHub Pages
 
-Data cleaning and modeling with PySpark on AWS EC2
+---
 
-TF-IDF vectorization and Random Forest classification
-
-Visualizations created with Seaborn, Matplotlib, and Plotly
-
-Team Members
-Vidhi Sharma
-
-Soham Deshkhaire
-
-Nhan Huynh
-
-Repository Structure
-EDA_charts/: Visuals from exploratory analysis
-
-.qmd files: Final analysis reports
-
-visualization.py: Code for data processing and charts
-
-Final Report
-Rendered via Quarto (final_report.qmd).
+## 📁 Repo Structure
